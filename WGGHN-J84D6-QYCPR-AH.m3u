@@ -734,7 +734,7 @@ http://[2409:8087:3002:23::140a]:8112/120000001002/XMTdszn/1.m3u8
 #EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="央视",央视精品
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTysjp/1.m3u8
 
-#EXTINF:-1,tvg-id="女姓时尚" tvg-name="女姓时尚" tvg-logo="https://epg.112114.xyz/logo/女姓时尚.png" group-title="央视",女姓时尚
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女姓时尚.png" group-title="央视",女性时尚
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTnxss/1.m3u8
 
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
