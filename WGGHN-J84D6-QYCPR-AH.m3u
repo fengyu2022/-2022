@@ -704,28 +704,28 @@ http://[2409:8087:3002:23::140a]:8112/120000001002/SD12-576P-fdjjsh/index.m3u8
 #EXTINF:-1,tvg-id="合肥庐江综合频道" tvg-name="合肥庐江综合频道" tvg-logo="https://epg.112114.xyz/logo/合肥庐江综合.png" group-title="其他",合肥庐江综合频道
 http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live/ah_ljzhpd/1.m3u8
 
-#EXTINF:-1,tvg-id="家庭影院（测试）" tvg-name="家庭影院（测试）" tvg-logo="https://epg.112114.xyz/logo/家庭影院（测试）.png" group-title="其他",家庭影院（测试）
+#EXTINF:-1,tvg-id="家庭影院（测试）" tvg-name="家庭影院（测试）" tvg-logo="https://epg.112114.xyz/logo/家庭影院（测试）.png" group-title="CHC",家庭影院（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTjtyy/1.m3u8
 
-#EXTINF:-1,tvg-id="动作电影（测试）" tvg-name="动作电影（测试）" tvg-logo="https://epg.112114.xyz/logo/动作电影（测试）.png" group-title="其他",动作电影（测试）
+#EXTINF:-1,tvg-id="动作电影（测试）" tvg-name="动作电影（测试）" tvg-logo="https://epg.112114.xyz/logo/动作电影（测试）.png" group-title="CHC",动作电影（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTdzdy/1.m3u8
 
-#EXTINF:-1,tvg-id="高清电影（测试）" tvg-name="高清电影（测试）" tvg-logo="https://epg.112114.xyz/logo/高清电影（测试）.png" group-title="其他",高清电影（测试）
+#EXTINF:-1,tvg-id="高清电影（测试）" tvg-name="高清电影（测试）" tvg-logo="https://epg.112114.xyz/logo/高清电影（测试）.png" group-title="CHC",高清电影（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTgqdy/1.m3u8
 
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园（测试）
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="河南",梨园（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTliyuan/1.m3u8
 
-#EXTINF:-1,tvg-id="武术（测试）" tvg-name="武术（测试）" tvg-logo="https://epg.112114.xyz/logo/武术（测试）.png" group-title="其他",武术（测试）
+#EXTINF:-1,tvg-id="武术（测试）" tvg-name="武术（测试）" tvg-logo="https://epg.112114.xyz/logo/武术（测试）.png" group-title="河南",武术（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTwushu/1.m3u8
 
-#EXTINF:-1,tvg-id="文物（测试）" tvg-name="文物（测试）" tvg-logo="https://epg.112114.xyz/logo/文物（测试）.png" group-title="其他",文物（测试）
+#EXTINF:-1,tvg-id="文物（测试）" tvg-name="文物（测试）" tvg-logo="https://epg.112114.xyz/logo/文物（测试）.png" group-title="河南",文物（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTwenwu/1.m3u8
 
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓（测试）
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南",快乐垂钓（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTklcd/1.m3u8
 
-#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶（测试）
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="湖南",茶（测试）
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTcha/1.m3u8
 
 #EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="央视",电视指南
@@ -743,7 +743,7 @@ http://[2409:8087:3002:23::140a]:8112/120000001002/XMTbqsd/1.m3u8
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTfyzq/1.m3u8
 
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="其他",高尔夫
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTgolf/1.m3u8
 
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
