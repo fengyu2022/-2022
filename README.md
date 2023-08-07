@@ -1,1 +1,1 @@
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+Collection of publicly available IPTV (Internet Protocol television) channels from all over the china.
