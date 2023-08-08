@@ -1,43 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-综合
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-财*
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-综艺
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-中文国际
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
-体育
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-电影
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
-国防军事
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
-电视剧
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
-纪录
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-科教
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
-戏曲
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-社会与法
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-新闻
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
-少儿
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
-音乐
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-奥林匹克
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-奥林匹克
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
-农业农村
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV",CETV1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV",CETV4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
@@ -440,25 +404,25 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000265025/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000027288/index.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视_4M1080_易视腾
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="4KUHD_20M2160_易视腾" tvg-name="4KUHD_20M2160_易视腾" tvg-logo="https://epg.112114.xyz/logo/4KUHD__易视腾.png" group-title="其他",4KUHD_20M2160_易视腾
+#EXTINF:-1,tvg-id="4KUHD_20M2160_易视腾" tvg-name="4KUHD_20M2160_易视腾" tvg-logo="https://epg.112114.xyz/logo/4KUHD__易视腾.png" group-title="4K",4KUHD_20M2160_易视腾
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="风尚音乐_2.5M720_湖南bblive" tvg-name="风尚音乐_2.5M720_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/风尚音乐__湖南BBLIVE.png" group-title="湖南",风尚音乐_2.5M720_湖南bblive
+#EXTINF:-1,tvg-id="风尚音乐_2.5M720_湖南bblive" tvg-name="风尚音乐_2.5M720_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/风尚音乐__湖南BBLIVE.png" group-title="华数",风尚音乐_2.5M720_湖南bblive
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="风尚音乐_2.5M720_华数" tvg-name="风尚音乐_2.5M720_华数" tvg-logo="https://epg.112114.xyz/logo/风尚音乐__华数.png" group-title="其他",风尚音乐_2.5M720_华数
+#EXTINF:-1,tvg-id="风尚音乐_2.5M720_华数" tvg-name="风尚音乐_2.5M720_华数" tvg-logo="https://epg.112114.xyz/logo/风尚音乐__华数.png" group-title="华数",风尚音乐_2.5M720_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="湖南",精品剧场_2.5M720_湖南bblive
+#EXTINF:-1,tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="华数",精品剧场_2.5M720_湖南bblive
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000002/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="其他",精品剧场_2.5M720_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://epg.112114.xyz/logo/欧美影院.png" group-title="湖南",欧美影院_2.5M720_湖南bblive
+#EXTINF:-1,tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://epg.112114.xyz/logo/欧美影院.png" group-title="华数",欧美影院_2.5M720_湖南bblive
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://epg.112114.xyz/logo/欧美影院.png" group-title="其他",欧美影院_2.5M720_华数
+#EXTINF:-1,tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://epg.112114.xyz/logo/欧美影院.png" group-title="华数",欧美影院_2.5M720_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="亚洲影院_2.5M720_湖南bblive" tvg-name="亚洲影院_2.5M720_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/亚洲影院__湖南BBLIVE.png" group-title="湖南",亚洲影院_2.5M720_湖南bblive
+#EXTINF:-1,tvg-id="亚洲影院_2.5M720_湖南bblive" tvg-name="亚洲影院_2.5M720_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/亚洲影院__湖南BBLIVE.png" group-title="华数",亚洲影院_2.5M720_湖南bblive
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="亚洲影院_2.5M720_华数" tvg-name="亚洲影院_2.5M720_华数" tvg-logo="https://epg.112114.xyz/logo/亚洲影院__华数.png" group-title="其他",亚洲影院_2.5M720_华数
+#EXTINF:-1,tvg-id="亚洲影院_2.5M720_华数" tvg-name="亚洲影院_2.5M720_华数" tvg-logo="https://epg.112114.xyz/logo/亚洲影院__华数.png" group-title="华数",亚洲影院_2.5M720_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="炫动3D_2.5M720_湖南bblive" tvg-name="炫动3D_2.5M720_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/炫动3D__湖南BBLIVE.png" group-title="湖南",炫动3D_2.5M720_湖南bblive
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000012/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000012&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="炫动3D_2.5M720_华数" tvg-name="炫动3D_2.5M720_华数" tvg-logo="https://epg.112114.xyz/logo/炫动3D__华数.png" group-title="其他",炫动3D_2.5M720_华数
+#EXTINF:-1,tvg-id="炫动3D_2.5M720_华数" tvg-name="炫动3D_2.5M720_华数" tvg-logo="https://epg.112114.xyz/logo/炫动3D__华数.png" group-title="华数",炫动3D_2.5M720_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
