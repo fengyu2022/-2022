@@ -240,3 +240,9 @@ llpangolin-sdk-toutiao-b.com^
 llads5-normal-If.zijieapi.com^$app=com.dragon.read
 llpglstatp-toutiao.com^
 @@llmssdk3-normal-hl.zijieapi.com^$app=com
+||pangolin-sdk-toutiao.com^
+||zijieapi.com^$app=com.dragon.read
+||frontier-toutiao.snssdk.com^$app=com.dragon.read
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
+||pglstatp-toutiao.com^
