@@ -186,7 +186,7 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",iHOT爱院线_7.2M1080_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="睛彩",睛彩竞技
-http://angtv.cn/jd/jctv.php?id=jcjj
+http://123.118.48.205:8000/rtp/239.3.1.125:8001?invalid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="睛彩",睛彩篮球
 http://angtv.cn/jd/jctv.php?id=jclq
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="睛彩",睛彩羽毛球
