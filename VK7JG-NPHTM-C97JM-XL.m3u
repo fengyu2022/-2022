@@ -389,3 +389,27 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京淘系列",北京萌宠TV
 http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+#EXTINF:-1,tvg-id="北京IPTV萌宠TV" tvg-name="北京IPTV萌宠TV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV萌宠TV.png" group-title="北京淘系列",北京IPTV萌宠TV
+http://123.117.32.53:4000/udp/239.3.1.102:8001
+#EXTINF:-1,tvg-id="北京IPTV淘BABY" tvg-name="北京IPTV淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘BABY.png" group-title="北京淘系列",北京IPTV淘BABY
+http://123.117.32.53:4000/udp/239.3.1.238:8001
+#EXTINF:-1,tvg-id="北京IPTV淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘精彩.png" group-title="北京淘系列",北京IPTV淘精彩
+http://123.117.32.53:4000/udp/239.3.1.178:8001
+#EXTINF:-1,tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘剧场.png" group-title="北京淘系列",北京IPTV淘剧场
+http://123.117.32.53:4000/udp/239.3.1.95:8001
+#EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘电影.png" group-title="北京淘系列",北京IPTV淘电影
+http://123.117.32.53:4000/udp/239.3.1.250:8001
+#EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京淘系列",北京IPTV淘娱乐
+http://123.117.32.53:4000/udp/239.3.1.100:8001
+#EXTINF:-1,tvg-id="北京IPTV萌宠TV" tvg-name="北京IPTV萌宠TV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV萌宠TV.png" group-title="北京淘系列",北京IPTV萌宠TV
+http://111.196.130.165:4022/udp/239.3.1.102:8001
+#EXTINF:-1,tvg-id="北京IPTV淘BABY" tvg-name="北京IPTV淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘BABY.png" group-title="北京淘系列",北京IPTV淘BABY
+http://111.196.130.165:4022/udp/239.3.1.238:8001
+#EXTINF:-1,tvg-id="北京IPTV淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘精彩.png" group-title="北京淘系列",北京IPTV淘精彩
+http://111.196.130.165:4022/udp/239.3.1.178:8001
+#EXTINF:-1,tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘剧场.png" group-title="北京淘系列",北京IPTV淘剧场
+http://111.196.130.165:4022/udp/239.3.1.95:8001
+#EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘电影.png" group-title="北京淘系列",北京IPTV淘电影
+http://111.196.130.165:4022/udp/239.3.1.250:8001
+#EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京淘系列",北京IPTV淘娱乐
+http://111.196.130.165:4022/udp/239.3.1.100:8001
