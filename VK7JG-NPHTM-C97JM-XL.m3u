@@ -413,3 +413,9 @@ http://111.196.130.165:4022/udp/239.3.1.95:8001
 http://111.196.130.165:4022/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京淘系列",北京IPTV淘娱乐
 http://111.196.130.165:4022/udp/239.3.1.100:8001
+#EXTINF:-1,tvg-id="欧洲华文1套" tvg-name="欧洲华文1套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文1套.png" group-title="欧洲华文",欧洲华文1套
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1,tvg-id="欧洲华文2套" tvg-name="欧洲华文2套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文2套.png" group-title="欧洲华文",欧洲华文2套
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1,tvg-id="欧洲华文6套" tvg-name="欧洲华文6套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文6套.png" group-title="欧洲华文",欧洲华文6套
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
