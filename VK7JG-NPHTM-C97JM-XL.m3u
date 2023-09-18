@@ -409,6 +409,8 @@ http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&icpid=88888888&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
 #EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘电影.png" group-title="北京淘系列",北京IPTV淘电影
 http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&icpid=88888888&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
+#EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘电影.png" group-title="北京淘系列",北京IPTV淘电影
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
 #EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京淘系列",北京IPTV淘娱乐
 http://111.196.130.165:4022/udp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="欧洲华文1套" tvg-name="欧洲华文1套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文1套.png" group-title="欧洲华文",欧洲华文1套
