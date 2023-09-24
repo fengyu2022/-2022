@@ -413,6 +413,31 @@ http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
 #EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京淘系列",北京IPTV淘娱乐
 http://111.196.130.165:4022/udp/239.3.1.100:8001
+北京国际,http://61.148.223.18:8888/newlive/live/hls/49/live.m3u8
+北京IPTV,http://61.148.223.18:8888/newlive/live/hls/73/live.m3u8
+北京体育,http://61.148.223.18:8888/newlive/live/hls/136/live.m3u8
+淘baby,http://61.148.223.18:8888/newlive/live/hls/74/live.m3u8
+北京体育,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
+淘剧场,http://61.148.223.18:8888/newlive/live/hls/87/live.m3u8
+淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
+淘娱乐,http://61.148.223.18:8888/newlive/live/hls/140/live.m3u8
+#EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际频道.png" group-title="北京淘系列",北京国际
+http://61.148.223.18:8888/newlive/live/hls/49/live.m3u8
+#EXTINF:-1,tvg-id="北京IPTV" tvg-name="北京IPTV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV.png" group-title="北京淘系列",北京IPTV
+http://61.148.223.18:8888/newlive/live/hls/73/live.m3u8
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="北京淘系列",北京体育
+http://61.148.223.18:8888/newlive/live/hls/136/live.m3u8
+#EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京淘BABY.png" group-title="北京淘系列",淘baby
+http://61.148.223.18:8888/newlive/live/hls/74/live.m3u8
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="北京淘系列",北京体育
+http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
+#EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京淘剧场.png" group-title="北京淘系列",淘剧场
+http://61.148.223.18:8888/newlive/live/hls/87/live.m3u8
+#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="北京淘系列",淘电影
+http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京淘娱乐.png" group-title="北京淘系列",淘娱乐
+http://61.148.223.18:8888/newlive/live/hls/140/live.m3u8
+
 #EXTINF:-1,tvg-id="欧洲华文1套" tvg-name="欧洲华文1套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文1套.png" group-title="欧洲华文",欧洲华文1套
 http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1,tvg-id="欧洲华文2套" tvg-name="欧洲华文2套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文2套.png" group-title="欧洲华文",欧洲华文2套
