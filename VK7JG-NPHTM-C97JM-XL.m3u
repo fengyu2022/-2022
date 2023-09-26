@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="央视",澳门莲花
+http://www.tvzb.com/iptv/tvzb91.php
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
 http://angtv.cn/test/1905.php
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
