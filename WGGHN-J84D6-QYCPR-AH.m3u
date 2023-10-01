@@ -219,11 +219,11 @@ http://[2409:8087:3002:23::140a]:8112/120000001002/XMTcetv-4/index.m3u8
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTcetv-2/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="CETV",CETV-1高清
 http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHC",家庭影院(测试)
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC",CHC家庭影院
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTjtyy/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHC",动作电影(测试)
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC",CHC动作电影
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTdzdy/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHC",高清电影(测试)
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC",CHC高清电影
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTgqdy/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWTV",黑莓动画
 http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
@@ -297,6 +297,8 @@ http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live
 http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",动漫秀场
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTdmxc/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
+http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金色频道
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTjspd/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",足球频道
@@ -313,8 +315,6 @@ http://[2409:8087:3002:23::140a]:8112/120000001002/XMTwenwu/1.m3u8
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTklcd/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",茶
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTcha/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南",金鹰卡通
-http://[2409:8087:3002:23::140a]:8112/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕精彩足球
 http://[2409:8087:3002:23::140a]:8112/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕综合体育
