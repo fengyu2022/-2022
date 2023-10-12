@@ -6,7 +6,7 @@ http://angtv.cn/test/1905.php
 #EXTINF:-1,tvg-id="华数影视" tvg-name="华数影视" tvg-logo="" group-title="央视",华数4k影视
 http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1,tvg-id="虎牙4k" tvg-name="虎牙4k" tvg-logo="" group-title="央视",虎牙4k
-http://nas.jdshipin.com:8801/4kys.php
+https://live.metshop.top/huya/s4k
 
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
