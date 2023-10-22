@@ -317,3 +317,16 @@ llpglstatp-toutiao.com^
 ||webcast-open.douyin.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||ulogs.umeng.com^
+
+
+
+!番茄免费小说
+||dig.bdurl.net^$app=com.dragon.read
+||p*-ad-sign.byteimg.com^$app=com.dragon.read
+||*.snssdk.com^$app=com.dragon.read
+||ads*-normal-lf.zijieapi.com^$app=com.dragon.read
+||settings.ttwebview.com^$app=com.dragon.read
+||log-api.pangolin-sdk-toutiao-b.com^$important,app=com.dragon.read
+||log*-applog-lf.fqnovel.com^$app=com.dragon.read
+||frontier100-toutiao-lf.fqnovel.com^$app=com.dragon.read
+@@||mssdk3-normal-hl.zijieapi.com^$app=com.dragon.read,important
