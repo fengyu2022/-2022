@@ -1,4 +1,4 @@
-央视
+央视,#genre#
 CCTV1,http://angtv.cc/test/as.php?id=cctv1
 CCTV1高清,http://angtv.cc/test/as.php?id=cctv1hd
 CCTV2,http://angtv.cc/test/as.php?id=cctv2
@@ -35,7 +35,7 @@ CCTV16高清,http://angtv.cc/test/as.php?id=cctv16
 CCTV16 4k,http://angtv.cc/test/as.php?id=cctv16_4k
 CCTV17,http://angtv.cc/test/as.php?id=cctv17
 CCTV17高清,http://angtv.cc/test/as.php?id=cctv17hd
-CGTN
+CGTN,#genre#
 CGTN,http://angtv.cc/test/as.php?id=cgtn
 CGTN高清,http://angtv.cc/test/as.php?id=cgtnhd
 CGTN纪录,http://angtv.cc/test/as.php?id=cgtnjl
@@ -43,16 +43,16 @@ CGTN西语,http://angtv.cc/test/as.php?id=cgtne
 CGTN法语,http://angtv.cc/test/as.php?id=cgtnf
 CGTN阿语,http://angtv.cc/test/as.php?id=cgtna
 CGTN俄语,http://angtv.cc/test/as.php?id=cgtnr
-CETV
+CETV,#genre#
 CETV1,http://angtv.cc/test/as.php?id=cetv1
 CETV1高清,http://angtv.cc/test/as.php?id=cetv1hd
 CETV2,http://angtv.cc/test/as.php?id=cetv2
 CETV4,http://angtv.cc/test/as.php?id=cetv4
-CHC
+CHC,#genre#
 CHC家庭影院,http://angtv.cc/test/as.php?id=chcjtyy
 CHC动作电影,http://angtv.cc/test/as.php?id=chcdzdy
 CHC高清电影,http://angtv.cc/test/as.php?id=chcgqdy
-卫视
+卫视,#genre#
 北京卫视,http://angtv.cc/test/as.php?id=bjws
 北京卫视高清*,http://angtv.cc/test/as.php?id=bjwshd
 东方卫视,http://angtv.cc/test/as.php?id=dfws
@@ -108,13 +108,13 @@ CHC高清电影,http://angtv.cc/test/as.php?id=chcgqdy
 西藏卫视,http://angtv.cc/test/as.php?id=xzws
 海南卫视,http://angtv.cc/test/as.php?id=hinws
 三沙卫视,http://angtv.cc/test/as.php?id=ssws
-影视
+影视,#genre#
 精选,http://angtv.cc/test/as.php?id=jx
 喜剧,http://angtv.cc/test/as.php?id=xj
 动作,http://angtv.cc/test/as.php?id=dz
 家庭,http://angtv.cc/test/as.php?id=jt
 星影,http://angtv.cc/test/as.php?id=xy
-综合
+综合,#genre#
 武侠,http://angtv.cc/test/as.php?id=wx
 足球,http://angtv.cc/test/as.php?id=zq
 美妆,http://angtv.cc/test/as.php?id=mz
@@ -141,7 +141,7 @@ CHC高清电影,http://angtv.cc/test/as.php?id=chcgqdy
 家庭影院,http://angtv.cc/test/as.php?id=jtyy
 武侠剧场,http://angtv.cc/test/as.php?id=wxjc
 喜剧影院,http://angtv.cc/test/as.php?id=xjyy
-IPTV
+IPTV,#genre#
 IPTV3+,http://angtv.cc/test/as.php?id=iptv3
 IPTV5+,http://angtv.cc/test/as.php?id=iptv5
 IPTV5+,http://angtv.cc/test/as.php?id=iptv5a
@@ -157,16 +157,16 @@ IPTV野外,http://angtv.cc/test/as.php?id=iptvyw
 IPTV法治,http://angtv.cc/test/as.php?id=iptvfz
 IPTV收视指南,http://angtv.cc/test/as.php?id=iptvsszn
 
-少儿
+少儿,#genre#
 卡酷少儿,http://angtv.cc/test/as.php?id=kkse
 新动漫,http://angtv.cc/test/as.php?id=xdm
 嘉佳卡通,http://angtv.cc/test/as.php?id=jjkt
 
-湖南
+湖南,#genre#
 金鹰纪实高清,http://angtv.cc/test/as.php?id=jyjs
 金鹰卡通,http://angtv.cc/test/as.php?id=jykt
 先锋乒羽,http://angtv.cc/test/as.php?id=xfpy
-其他
+其他,#genre#
 爱上4K,http://angtv.cc/test/as.php?id=as4k
 爱上4Kx,http://angtv.cc/test/as.php?id=as
 网络棋牌,http://angtv.cc/test/as.php?id=wlqp
