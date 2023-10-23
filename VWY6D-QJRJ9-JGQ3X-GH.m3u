@@ -19,7 +19,7 @@ http://angtv.cc/test/gehua.php?=cctv4
 http://angtv.cc/test/gehua.php?=cctv4hd
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5体育
 http://angtv.cc/test/gehua.php?=cctv5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5体育HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5体育HD
 http://angtv.cc/test/gehua.php?=cctv5hd
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+体育赛事
 http://angtv.cc/test/gehua.php?=cctv5p
