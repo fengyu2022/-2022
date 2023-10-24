@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="" group-title="央视",澳门莲花
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
 http://www.tvzb.com/iptv/tvzb91.php
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
 http://angtv.cn/test/1905.php
