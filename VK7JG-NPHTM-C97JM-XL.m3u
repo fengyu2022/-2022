@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
 http://angtv.cc/live/amlh.php
+
+#EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
+http://www.tvzb.com/iptv/tvzb21.php?id=1905dy
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
 http://angtv.cc/test/1905.php
+
 #EXTINF:-1,tvg-id="华数影视" tvg-name="华数影视" tvg-logo="" group-title="央视",华数4k影视
 http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1,tvg-id="虎牙4k" tvg-name="虎牙4k" tvg-logo="" group-title="央视",虎牙4k
