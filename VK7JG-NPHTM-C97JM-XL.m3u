@@ -451,7 +451,22 @@ http://123.120.4.117:4022/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京淘系列",北京IPTV淘娱乐
 http://123.120.4.117:4022/udp/239.3.1.100:8001
 
-
+#EXTINF:-1,tvg-id="欧洲华文1套" tvg-name="欧洲华文1套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文1套.png" group-title="欧洲华文",欧洲华文1套
+http://angtv.cc/test/eztv.php?id=tv1
+#EXTINF:-1,tvg-id="欧洲华文2套" tvg-name="欧洲华文2套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文2套.png" group-title="欧洲华文",欧洲华文2套
+http://angtv.cc/test/eztv.php?id=tv2
+#EXTINF:-1,tvg-id="欧洲华文3套" tvg-name="欧洲华文3套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文3套.png" group-title="欧洲华文",欧洲华文3套
+http://angtv.cc/test/eztv.php?id=tv3
+#EXTINF:-1,tvg-id="欧洲华文4套" tvg-name="欧洲华文4套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文4套.png" group-title="欧洲华文",欧洲华文4套
+http://angtv.cc/test/eztv.php?id=tv4
+#EXTINF:-1,tvg-id="欧洲华文5套" tvg-name="欧洲华文5套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文5套.png" group-title="欧洲华文",欧洲华文5套
+http://angtv.cc/test/eztv.php?id=tv5
+#EXTINF:-1,tvg-id="欧洲华文6套" tvg-name="欧洲华文6套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文6套.png" group-title="欧洲华文",欧洲华文6套
+http://angtv.cc/test/eztv.php?id=tv6
+#EXTINF:-1,tvg-id="欧洲华文7套" tvg-name="欧洲华文7套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文7套.png" group-title="欧洲华文",欧洲华文7套
+http://angtv.cc/test/eztv.php?id=tv7
+#EXTINF:-1,tvg-id="欧洲华文8套" tvg-name="欧洲华文8套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文8套.png" group-title="欧洲华文",欧洲华文8套
+http://angtv.cc/test/eztv.php?id=tv8
 #EXTINF:-1,tvg-id="欧洲华文1套" tvg-name="欧洲华文1套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文1套.png" group-title="欧洲华文",欧洲华文1套
 http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1,tvg-id="欧洲华文2套" tvg-name="欧洲华文2套" tvg-logo="https://epg.112114.xyz/logo/欧洲华文2套.png" group-title="欧洲华文",欧洲华文2套
