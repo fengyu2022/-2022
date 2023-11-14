@@ -1,0 +1,589 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合
+http://lu1.cc/tv/php/scgd.php?id=cctv1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经
+http://lu1.cc/tv/php/scgd.php?id=cctv2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3综艺
+http://lu1.cc/tv/php/scgd.php?id=cctv3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际
+http://lu1.cc/tv/php/scgd.php?id=cctv4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5体育
+http://lu1.cc/tv/php/scgd.php?id=cctv5
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+http://lu1.cc/tv/php/scgd.php?id=cctv5p
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6电影
+http://lu1.cc/tv/php/scgd.php?id=cctv6
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7国防军事
+http://lu1.cc/tv/php/scgd.php?id=cctv7
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8电视剧
+http://lu1.cc/tv/php/scgd.php?id=cctv8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9纪录
+http://lu1.cc/tv/php/scgd.php?id=cctv9
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10科教
+http://lu1.cc/tv/php/scgd.php?id=cctv10
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11戏曲
+http://lu1.cc/tv/php/scgd.php?id=cctv11
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12社会与法
+http://lu1.cc/tv/php/scgd.php?id=cctv12
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13新闻
+http://lu1.cc/tv/php/scgd.php?id=cctv13
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14少儿
+http://lu1.cc/tv/php/scgd.php?id=cctv14
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15音乐
+http://lu1.cc/tv/php/scgd.php?id=cctv15
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16奥林匹克
+http://lu1.cc/tv/php/scgd.php?id=cctv16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16奥林匹克4K
+http://lu1.cc/tv/php/scgd.php?id=cctv16_4k
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17农业农村
+http://lu1.cc/tv/php/scgd.php?id=cctv17
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://lu1.cc/tv/php/scgd.php?id=cgtn
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-西语
+http://lu1.cc/tv/php/scgd.php?id=cgtne
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-法语
+http://lu1.cc/tv/php/scgd.php?id=cgtnf
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-俄语
+http://lu1.cc/tv/php/scgd.php?id=cgtnr
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",中央新影-老故事
+http://lu1.cc/tv/php/scgd.php?id=lgs
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="央视",中央新影-发现之旅
+http://lu1.cc/tv/php/scgd.php?id=fxzl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中央新影-中学生
+http://lu1.cc/tv/php/scgd.php?id=zxs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",央广购物
+http://lu1.cc/tv/php/scgd.php?id=yggw
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="央视",书画频道
+http://lu1.cc/tv/php/scgd.php?id=shpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国天气
+http://lu1.cc/tv/php/scgd.php?id=zgtq
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国教育",CETV1中教1台
+http://lu1.cc/tv/php/scgd.php?id=cetv1
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="中国教育",CETV2中教2台
+http://lu1.cc/tv/php/scgd.php?id=cetv2
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="中国教育",CETV4中教4台
+http://lu1.cc/tv/php/scgd.php?id=cetv4
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC系列",CHC高清电影
+http://lu1.cc/tv/php/scgd.php?id=chcgqdy
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC系列",CHC动作电影
+http://lu1.cc/tv/php/scgd.php?id=chcdzdy
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC系列",CHC家庭影院
+http://lu1.cc/tv/php/scgd.php?id=chcjtyy
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://lu1.cc/tv/php/scgd.php?id=bjws
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://lu1.cc/tv/php/scgd.php?id=dfws
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://lu1.cc/tv/php/scgd.php?id=tjws
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://lu1.cc/tv/php/scgd.php?id=cqws
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://lu1.cc/tv/php/scgd.php?id=hljws
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://lu1.cc/tv/php/scgd.php?id=jlws
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://lu1.cc/tv/php/scgd.php?id=lnws
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://lu1.cc/tv/php/scgd.php?id=nmws
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://lu1.cc/tv/php/scgd.php?id=gsws
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://lu1.cc/tv/php/scgd.php?id=qhws
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://lu1.cc/tv/php/scgd.php?id=sxws
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://lu1.cc/tv/php/scgd.php?id=sxiws
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://lu1.cc/tv/php/scgd.php?id=dsws
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://lu1.cc/tv/php/scgd.php?id=ahws
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://lu1.cc/tv/php/scgd.php?id=hnws
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://lu1.cc/tv/php/scgd.php?id=hubws
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://lu1.cc/tv/php/scgd.php?id=hunws
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://lu1.cc/tv/php/scgd.php?id=jxws
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://lu1.cc/tv/php/scgd.php?id=jsws
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://lu1.cc/tv/php/scgd.php?id=zjws
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://lu1.cc/tv/php/scgd.php?id=dnws
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://lu1.cc/tv/php/scgd.php?id=gdws
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://lu1.cc/tv/php/scgd.php?id=szws
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://lu1.cc/tv/php/scgd.php?id=gxws
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://lu1.cc/tv/php/scgd.php?id=ynws
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://lu1.cc/tv/php/scgd.php?id=gzws
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://lu1.cc/tv/php/scgd.php?id=scws
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
+http://lu1.cc/tv/php/scgd.php?id=kbws
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://lu1.cc/tv/php/scgd.php?id=xjws
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://lu1.cc/tv/php/scgd.php?id=btws
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://lu1.cc/tv/php/scgd.php?id=xzws
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://lu1.cc/tv/php/scgd.php?id=hinws
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
+http://lu1.cc/tv/php/scgd.php?id=bjjskj
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="北京",四海钓鱼
+http://lu1.cc/tv/php/scgd.php?id=shdy
+#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="北京",车迷频道
+http://lu1.cc/tv/php/scgd.php?id=cmpd
+#EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="北京",百姓健康
+http://lu1.cc/tv/php/scgd.php?id=bxjk
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
+http://lu1.cc/tv/php/scgd.php?id=kkse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",聚鲨环球精选
+http://lu1.cc/tv/php/scgd.php?id=jshqjx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",东方财经
+http://lu1.cc/tv/php/scgd.php?id=dfcj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",乐游
+http://lu1.cc/tv/php/scgd.php?id=ly
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+http://lu1.cc/tv/php/scgd.php?id=shss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",魅力足球
+http://lu1.cc/tv/php/scgd.php?id=mlzq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场
+http://lu1.cc/tv/php/scgd.php?id=dmxc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",都市剧场
+http://lu1.cc/tv/php/scgd.php?id=dsjc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金色学堂
+http://lu1.cc/tv/php/scgd.php?id=jsxt
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
+http://lu1.cc/tv/php/scgd.php?id=xsj
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://lu1.cc/tv/php/scgd.php?id=jbty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",法治天地
+http://lu1.cc/tv/php/scgd.php?id=fztd
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
+http://lu1.cc/tv/php/scgd.php?id=hxjc
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="重庆",汽摩
+http://lu1.cc/tv/php/scgd.php?id=qmpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方其他",家庭理财
+http://lu1.cc/tv/php/scgd.php?id=jtlc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方其他",家有购物
+http://lu1.cc/tv/php/scgd.php?id=jygw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方其他",证券服务
+http://lu1.cc/tv/php/scgd.php?id=zqfw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方其他",优购物
+http://lu1.cc/tv/php/scgd.php?id=ygw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方其他",山东教育卫视
+http://lu1.cc/tv/php/scgd.php?id=sdjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方其他",家家购物
+http://lu1.cc/tv/php/scgd.php?id=jjgw
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="河南",梨园频道
+http://lu1.cc/tv/php/scgd.php?id=lypd
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="河南",武术世界
+http://lu1.cc/tv/php/scgd.php?id=wssj
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="河南",文物宝库
+http://lu1.cc/tv/php/scgd.php?id=wwbk
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南",茶频道
+http://lu1.cc/tv/php/scgd.php?id=cpd
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="湖南",先锋乒羽
+http://lu1.cc/tv/php/scgd.php?id=xfpy
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南",快乐垂钓
+http://lu1.cc/tv/php/scgd.php?id=klcd
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",金鹰纪实
+http://lu1.cc/tv/php/scgd.php?id=jyjs
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南",金鹰卡通
+http://lu1.cc/tv/php/scgd.php?id=jykt
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="湖南",天元围棋
+http://lu1.cc/tv/php/scgd.php?id=tywq
+#EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="湖南",摄影频道
+http://lu1.cc/tv/php/scgd.php?id=sypd
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="湖南",嘉佳卡通
+http://lu1.cc/tv/php/scgd.php?id=jjkt
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="四川",4K超高清电影
+http://lu1.cc/tv/php/scgd.php?id=4kcgqdy
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
+http://lu1.cc/tv/php/scgd.php?id=scwhly
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济
+http://lu1.cc/tv/php/scgd.php?id=scjj
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻资讯
+http://lu1.cc/tv/php/scgd.php?id=scxwzx
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视文艺
+http://lu1.cc/tv/php/scgd.php?id=scyswy
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="四川",四川星空购物
+http://lu1.cc/tv/php/scgd.php?id=scxkgw
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川妇女儿童
+http://lu1.cc/tv/php/scgd.php?id=scfnet
+#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教
+http://lu1.cc/tv/php/scgd.php?id=sckj
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="四川",四川乡村
+http://lu1.cc/tv/php/scgd.php?id=scxc
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",四川峨嵋电影
+http://lu1.cc/tv/php/scgd.php?id=emdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",精品导视
+http://lu1.cc/tv/php/scgd.php?id=jpds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",川网导视
+http://lu1.cc/tv/php/scgd.php?id=cwds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",川广融媒
+http://lu1.cc/tv/php/scgd.php?id=cgrm
+#EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="成都",成都新闻综合
+http://lu1.cc/tv/php/scgd.php?id=cdxwzh
+#EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="成都",成都经济资讯
+http://lu1.cc/tv/php/scgd.php?id=cdjjzx
+#EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="成都",成都都市生活
+http://lu1.cc/tv/php/scgd.php?id=cddssh
+#EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="成都",成都影视文艺
+http://lu1.cc/tv/php/scgd.php?id=cdyswy
+#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="成都",成都公共
+http://lu1.cc/tv/php/scgd.php?id=cdgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",成都每日购物
+http://lu1.cc/tv/php/scgd.php?id=cdmrgw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",成都高新区电视台
+http://lu1.cc/tv/php/scgd.php?id=cdgxq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",大邑新闻综合
+http://lu1.cc/tv/php/scgd.php?id=cddy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",龙泉新闻综合
+http://lu1.cc/tv/php/scgd.php?id=cdlq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",都江堰综合
+http://lu1.cc/tv/php/scgd.php?id=cddjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",彭州综合
+http://lu1.cc/tv/php/scgd.php?id=cdpz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",青白江综合
+http://lu1.cc/tv/php/scgd.php?id=cdqbj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",邛崃综合
+http://lu1.cc/tv/php/scgd.php?id=cdql
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",金堂电视台
+http://lu1.cc/tv/php/scgd.php?id=cdjt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",新都综合
+http://lu1.cc/tv/php/scgd.php?id=cdxd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",新津电视台
+http://lu1.cc/tv/php/scgd.php?id=cdxj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",蒲江电视台
+http://lu1.cc/tv/php/scgd.php?id=cdpj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",郫都新闻综合
+http://lu1.cc/tv/php/scgd.php?id=cdpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",金牛电视台
+http://lu1.cc/tv/php/scgd.php?id=cdjn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",崇州一套
+http://lu1.cc/tv/php/scgd.php?id=cdcz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",简阳新闻综合
+http://lu1.cc/tv/php/scgd.php?id=cdjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",双流综合
+http://lu1.cc/tv/php/scgd.php?id=cdsl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都",温江新闻综合
+http://lu1.cc/tv/php/scgd.php?id=cdwj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳新闻综合
+http://lu1.cc/tv/php/scgd.php?id=myxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",绵阳科技
+http://lu1.cc/tv/php/scgd.php?id=mykj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",安州综合
+http://lu1.cc/tv/php/scgd.php?id=myaz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",盐亭综合
+http://lu1.cc/tv/php/scgd.php?id=myyt
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="绵阳",三台一套
+http://lu1.cc/tv/php/scgd.php?id=myst
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",江油综合
+http://lu1.cc/tv/php/scgd.php?id=myjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",梓潼综合
+http://lu1.cc/tv/php/scgd.php?id=myzt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",平武综合
+http://lu1.cc/tv/php/scgd.php?id=mypw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",北川综合
+http://lu1.cc/tv/php/scgd.php?id=mybc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="绵阳",涪城综合
+http://lu1.cc/tv/php/scgd.php?id=myfc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="攀枝花",攀枝花新闻综合
+http://lu1.cc/tv/php/scgd.php?id=pzhxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="攀枝花",攀枝花文旅生活
+http://lu1.cc/tv/php/scgd.php?id=pzhwlsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="攀枝花",攀钢新闻综合
+http://lu1.cc/tv/php/scgd.php?id=pzhpg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="攀枝花",米易综合
+http://lu1.cc/tv/php/scgd.php?id=pzhmy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="攀枝花",盐边综合
+http://lu1.cc/tv/php/scgd.php?id=pzhyb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="攀枝花",仁和新闻
+http://lu1.cc/tv/php/scgd.php?id=pzhrh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",广元综合
+http://lu1.cc/tv/php/scgd.php?id=gyzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",广元文化生活
+http://lu1.cc/tv/php/scgd.php?id=gywhsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",剑阁综合
+http://lu1.cc/tv/php/scgd.php?id=gyjg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",旺苍新闻综合
+http://lu1.cc/tv/php/scgd.php?id=gywc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",朝天综合
+http://lu1.cc/tv/php/scgd.php?id=gyct
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",青川综合
+http://lu1.cc/tv/php/scgd.php?id=gyqc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",利州综合
+http://lu1.cc/tv/php/scgd.php?id=gylz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",苍溪综合
+http://lu1.cc/tv/php/scgd.php?id=gycx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广元",昭化综合
+http://lu1.cc/tv/php/scgd.php?id=gyzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="泸州",泸州公共
+http://lu1.cc/tv/php/scgd.php?id=lzgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="泸州",合江新闻综合
+http://lu1.cc/tv/php/scgd.php?id=lzhj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="泸州",叙永电视台
+http://lu1.cc/tv/php/scgd.php?id=lzxy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="泸州",纳溪一套
+http://lu1.cc/tv/php/scgd.php?id=lznx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="泸州",泸县综合
+http://lu1.cc/tv/php/scgd.php?id=lzlx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="泸州",古蔺新闻综合
+http://lu1.cc/tv/php/scgd.php?id=lzgl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",德阳新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dyzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",德阳文旅科教
+http://lu1.cc/tv/php/scgd.php?id=dywlkj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",绵竹综合
+http://lu1.cc/tv/php/scgd.php?id=dymz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",中江新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dyzj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",什邡新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dysf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",广汉综合
+http://lu1.cc/tv/php/scgd.php?id=dygh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",罗江综合
+http://lu1.cc/tv/php/scgd.php?id=dylj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="德阳",旌阳新闻
+http://lu1.cc/tv/php/scgd.php?id=dyjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",宜宾新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ybxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",宜宾公共
+http://lu1.cc/tv/php/scgd.php?id=ybgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",宜宾导视
+http://lu1.cc/tv/php/scgd.php?id=ybds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",叙州新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ybybx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",江安电视台
+http://lu1.cc/tv/php/scgd.php?id=ybja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",珙县新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ybgx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",兴文电视台
+http://lu1.cc/tv/php/scgd.php?id=ybxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",高县电视台
+http://lu1.cc/tv/php/scgd.php?id=ybgxzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",南溪综合
+http://lu1.cc/tv/php/scgd.php?id=ybnx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",屏山新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ybps
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",筠连新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ybyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜宾",长宁综合
+http://lu1.cc/tv/php/scgd.php?id=ybzn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",遂宁新闻综合
+http://lu1.cc/tv/php/scgd.php?id=snzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",遂宁文化生活
+http://lu1.cc/tv/php/scgd.php?id=snwhsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",船山综合
+http://lu1.cc/tv/php/scgd.php?id=sncs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",安居综合
+http://lu1.cc/tv/php/scgd.php?id=snaj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",大英新闻综合
+http://lu1.cc/tv/php/scgd.php?id=sndy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",蓬溪新闻综合
+http://lu1.cc/tv/php/scgd.php?id=snpx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="遂宁",射洪综合
+http://lu1.cc/tv/php/scgd.php?id=snsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",乐山新闻综合
+http://lu1.cc/tv/php/scgd.php?id=lsxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",乐山文旅生活
+http://lu1.cc/tv/php/scgd.php?id=lswlsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",沙湾融媒
+http://lu1.cc/tv/php/scgd.php?id=lssw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",五通桥综合
+http://lu1.cc/tv/php/scgd.php?id=lswtq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",金口河综合
+http://lu1.cc/tv/php/scgd.php?id=lsjkh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",沐川综合
+http://lu1.cc/tv/php/scgd.php?id=lsmc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",夹江新闻综合
+http://lu1.cc/tv/php/scgd.php?id=lsjj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",峨眉山综合
+http://lu1.cc/tv/php/scgd.php?id=lsems
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",犍为新闻综合
+http://lu1.cc/tv/php/scgd.php?id=lsqw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",马边综合
+http://lu1.cc/tv/php/scgd.php?id=lsmb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",峨边综合
+http://lu1.cc/tv/php/scgd.php?id=lseb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="乐山",井研新闻综合
+http://lu1.cc/tv/php/scgd.php?id=lsjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内江",内江综合
+http://lu1.cc/tv/php/scgd.php?id=njzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内江",内江公共
+http://lu1.cc/tv/php/scgd.php?id=njgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内江",东兴综合
+http://lu1.cc/tv/php/scgd.php?id=njdx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内江",资中综合
+http://lu1.cc/tv/php/scgd.php?id=njzz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内江",隆昌综合
+http://lu1.cc/tv/php/scgd.php?id=njlc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",南充综合
+http://lu1.cc/tv/php/scgd.php?id=nczh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",南充公共
+http://lu1.cc/tv/php/scgd.php?id=ncgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",南充科教
+http://lu1.cc/tv/php/scgd.php?id=nckj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",西充新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ncxc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",南部新闻
+http://lu1.cc/tv/php/scgd.php?id=ncnb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",蓬安综合
+http://lu1.cc/tv/php/scgd.php?id=ncpa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",阆中综合
+http://lu1.cc/tv/php/scgd.php?id=nclz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",仪陇新闻综合
+http://lu1.cc/tv/php/scgd.php?id=ncyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南充",营山综合
+http://lu1.cc/tv/php/scgd.php?id=ncys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",达州新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dzxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",达州文化生活
+http://lu1.cc/tv/php/scgd.php?id=dzwhsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",达州导视
+http://lu1.cc/tv/php/scgd.php?id=dzds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",通川区电视台
+http://lu1.cc/tv/php/scgd.php?id=dztcq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",通川区电视台2
+http://lu1.cc/tv/php/scgd.php?id=dztcq2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",达川新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dzdc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",渠县新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dzqx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",宣汉新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dzxh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",开江新闻综合
+http://lu1.cc/tv/php/scgd.php?id=dzkj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="达州",万源综合
+http://lu1.cc/tv/php/scgd.php?id=dzwy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",雅安新闻综合
+http://lu1.cc/tv/php/scgd.php?id=yaxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",雅安公共
+http://lu1.cc/tv/php/scgd.php?id=yagg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",雅安雨城
+http://lu1.cc/tv/php/scgd.php?id=yayc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",宝兴综合
+http://lu1.cc/tv/php/scgd.php?id=yabx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",汉源新闻综合
+http://lu1.cc/tv/php/scgd.php?id=yahy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",天全新闻综合
+http://lu1.cc/tv/php/scgd.php?id=yatq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",石棉电视台
+http://lu1.cc/tv/php/scgd.php?id=yasm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",芦山新闻综合
+http://lu1.cc/tv/php/scgd.php?id=yals
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",名山电视台
+http://lu1.cc/tv/php/scgd.php?id=yams
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="雅安",荥经电视台
+http://lu1.cc/tv/php/scgd.php?id=yaxj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",广安新闻综合
+http://lu1.cc/tv/php/scgd.php?id=gaxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",广安公共
+http://lu1.cc/tv/php/scgd.php?id=gagg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",广安区电视台
+http://lu1.cc/tv/php/scgd.php?id=gagaq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",岳池综合
+http://lu1.cc/tv/php/scgd.php?id=gayc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",华蓥综合
+http://lu1.cc/tv/php/scgd.php?id=gahy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",前锋综合
+http://lu1.cc/tv/php/scgd.php?id=gaqf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",邻水综合
+http://lu1.cc/tv/php/scgd.php?id=gals
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广安",武胜综合
+http://lu1.cc/tv/php/scgd.php?id=gaws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",巴中综合
+http://lu1.cc/tv/php/scgd.php?id=bzzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",巴中文旅生活
+http://lu1.cc/tv/php/scgd.php?id=bzwlsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",巴州电视
+http://lu1.cc/tv/php/scgd.php?id=bztv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",恩阳新闻
+http://lu1.cc/tv/php/scgd.php?id=bzey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",南江电视台
+http://lu1.cc/tv/php/scgd.php?id=bznj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",平昌新闻综合
+http://lu1.cc/tv/php/scgd.php?id=bzpc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴中",通江综合
+http://lu1.cc/tv/php/scgd.php?id=bztj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",眉山综合
+http://lu1.cc/tv/php/scgd.php?id=mszh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",眉山公共
+http://lu1.cc/tv/php/scgd.php?id=msgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",彭山综合
+http://lu1.cc/tv/php/scgd.php?id=msps
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",青神综合
+http://lu1.cc/tv/php/scgd.php?id=msqs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",洪雅新闻综合
+http://lu1.cc/tv/php/scgd.php?id=mshy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",丹棱新闻综合
+http://lu1.cc/tv/php/scgd.php?id=msdl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="眉山",仁寿综合
+http://lu1.cc/tv/php/scgd.php?id=msrs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",凉山新闻综合
+http://lu1.cc/tv/php/scgd.php?id=liangsxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",凉山彝语
+http://lu1.cc/tv/php/scgd.php?id=liangsyy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",德昌电视台
+http://lu1.cc/tv/php/scgd.php?id=liangsdc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",会理新闻综合
+http://lu1.cc/tv/php/scgd.php?id=liangshl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",普格新闻综合
+http://lu1.cc/tv/php/scgd.php?id=liangspg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",冕宁电视台
+http://lu1.cc/tv/php/scgd.php?id=liangsmn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",西昌综合
+http://lu1.cc/tv/php/scgd.php?id=liangsxc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",木里电视台
+http://lu1.cc/tv/php/scgd.php?id=liangsml
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",宁南综合
+http://lu1.cc/tv/php/scgd.php?id=liangsnn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",喜德电视台
+http://lu1.cc/tv/php/scgd.php?id=liangsxd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="凉山",越西TV
+http://lu1.cc/tv/php/scgd.php?id=liangsyx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资阳",资阳新闻综合
+http://lu1.cc/tv/php/scgd.php?id=zyxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资阳",雁江综合
+http://lu1.cc/tv/php/scgd.php?id=zyyj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资阳",安岳新闻综合
+http://lu1.cc/tv/php/scgd.php?id=zyay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资阳",乐至综合
+http://lu1.cc/tv/php/scgd.php?id=zylz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自贡",自贡新闻综合
+http://lu1.cc/tv/php/scgd.php?id=zgxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自贡",自贡文化生活
+http://lu1.cc/tv/php/scgd.php?id=zggg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自贡",富顺综合
+http://lu1.cc/tv/php/scgd.php?id=zgfs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自贡",荣县综合
+http://lu1.cc/tv/php/scgd.php?id=zgrx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘孜",甘孜新闻综合
+http://lu1.cc/tv/php/scgd.php?id=gzxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘孜",泸定综合
+http://lu1.cc/tv/php/scgd.php?id=gzldzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘孜",康定综合
+http://lu1.cc/tv/php/scgd.php?id=gzkdzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿坝",阿坝新闻综合
+http://lu1.cc/tv/php/scgd.php?id=abxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿坝",阿坝文艺
+http://lu1.cc/tv/php/scgd.php?id=abwy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿坝",马尔康新闻综合
+http://lu1.cc/tv/php/scgd.php?id=abmek
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿坝",松潘新闻综合
+http://lu1.cc/tv/php/scgd.php?id=absp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿坝",黑水新闻综合
+http://lu1.cc/tv/php/scgd.php?id=abhs
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://lu1.cc/tv/php/scgd.php?id=fhzw
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://lu1.cc/tv/php/scgd.php?id=fhzx
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯2
+http://lu1.cc/tv/php/scgd.php?id=fhzx2
