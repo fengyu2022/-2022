@@ -1743,7 +1743,7 @@ http://angtv.cc/iptv/sztw.php?id=vpd
 http://angtv.cc/iptv/sztw.php?id=fct
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="深圳天威",明珠台
 http://angtv.cc/iptv/sztw.php?id=mzt
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="深圳天威",凤凰卫视
+#EXTINF:-1,tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="深圳天威",凤凰卫视
 http://angtv.cc/iptv/sztw.php?id=fhws
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="深圳天威",星空卫视
 http://angtv.cc/iptv/sztw.php?id=xkws
