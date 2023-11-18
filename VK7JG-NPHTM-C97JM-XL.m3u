@@ -210,9 +210,9 @@ http://tv.328326.com/iptv/tvzb100.php?id=zjws_6
 http://tv.328326.com/iptv/tvzb100.php?id=cqws_6
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="央视",纪实人文
 http://tv.328326.com/iptv/tvzb100.php?id=rwjs_2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="央视",北京纪实科教
 http://tv.328326.com/iptv/tvzb100.php?id=tysx_1
-#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="央视",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="央视",北京纪实科教
 http://tv.328326.com/iptv/tvzb100.php?id=bjtysx_1
 
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
