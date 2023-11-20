@@ -1657,6 +1657,26 @@ http://angtv.cc/test/ahwy.php?id=sszh
 #EXTINF:-1,tvg-id="肥西新闻综合" tvg-name="肥西新闻综合" tvg-logo="https://epg.112114.xyz/logo/肥西新闻综合.png" group-title="安徽",肥西新闻综合
 http://angtv.cc/test/ahwy.php?id=fxzh
 
+#EXTINF:-1,tvg-id=" 芜湖新闻综合" tvg-name=" 芜湖新闻综合" tvg-logo="https://epg.112114.xyz/logo/芜湖新闻综合.png" group-title="安徽", 芜湖新闻综合
+http://angtv.cc/city/wuhu.php?id=whzh
+#EXTINF:-1,tvg-id=" 芜湖生活频道" tvg-name=" 芜湖生活频道" tvg-logo="https://epg.112114.xyz/logo/芜湖生活.png" group-title="安徽", 芜湖生活频道
+http://angtv.cc/city/wuhu.php?id=whsh
+#EXTINF:-1,tvg-id=" 芜湖公共频道" tvg-name=" 芜湖公共频道" tvg-logo="https://epg.112114.xyz/logo/芜湖公共.png" group-title="安徽", 芜湖公共频道
+http://angtv.cc/city/wuhu.php?id=whgg
+#EXTINF:-1,tvg-id=" 繁昌新闻综合" tvg-name=" 繁昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/繁昌新闻综合.png" group-title="安徽", 繁昌新闻综合
+http://angtv.cc/city/wuhu.php?id=fczh
+#EXTINF:-1,tvg-id=" 繁昌文化娱乐" tvg-name=" 繁昌文化娱乐" tvg-logo="https://epg.112114.xyz/logo/繁昌文化娱乐.png" group-title="安徽", 繁昌文化娱乐
+http://angtv.cc/city/wuhu.php?id=fcyl
+#EXTINF:-1,tvg-id=" 芜湖新闻频率" tvg-name=" 芜湖新闻频率" tvg-logo="https://epg.112114.xyz/logo/芜湖新闻频率.png" group-title="安徽", 芜湖新闻频率
+http://angtv.cc/city/wuhu.php?id=xwpl
+#EXTINF:-1,tvg-id=" 芜湖交通频率" tvg-name=" 芜湖交通频率" tvg-logo="https://epg.112114.xyz/logo/芜湖交通频率.png" group-title="安徽", 芜湖交通频率
+http://angtv.cc/city/wuhu.php?id=jtpl
+#EXTINF:-1,tvg-id=" 音乐故事频率" tvg-name=" 音乐故事频率" tvg-logo="https://epg.112114.xyz/logo/音乐故事频率.png" group-title="安徽", 音乐故事频率
+http://angtv.cc/city/wuhu.php?id=yygs
+#EXTINF:-1,tvg-id=" 繁昌新闻综合广播" tvg-name=" 繁昌新闻综合广播" tvg-logo="https://epg.112114.xyz/logo/繁昌新闻综合广播.png" group-title="安徽", 繁昌新闻综合广播
+http://angtv.cc/city/wuhu.php?id=fcgb
+
+
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://angtv.cc/test/dxxw.php?id=hnws
 #EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
