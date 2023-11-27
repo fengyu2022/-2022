@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
-http://angtv.cc/live/amlh.php
+http://192.168.18.138/amlh.php
 
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
 http://www.tvzb.com/iptv/tvzb21.php?id=1905dy
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
-http://angtv.cc/test/1905.php
+http://192.168.18.138/1905.php
 
 #EXTINF:-1,tvg-id="华数电视剧1" tvg-name="华数电视剧1" tvg-logo="https://epg.112114.xyz/logo/华数电视剧1.png" group-title="央视",华数电视剧1
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000086/index.m3u8?IAS
