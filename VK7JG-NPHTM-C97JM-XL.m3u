@@ -2,6 +2,13 @@
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
 http://192.168.18.138/amlh.php
 
+
+#EXTINF:-1 tvg-name="CCTV5",CCTV-5 体育[高清]
+http://192.168.18.1:4022/rtp/228.1.1.192:8002
+#EXTINF:-1 tvg-name="CCTV5",CCTV-5 体育[高清]
+http://192.168.18.1:4022/udp/228.1.1.192:8002
+
+
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
 http://www.tvzb.com/iptv/tvzb21.php?id=1905dy
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
