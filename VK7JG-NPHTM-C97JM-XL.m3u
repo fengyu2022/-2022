@@ -14,26 +14,12 @@ http://www.tvzb.com/iptv/tvzb21.php?id=1905dy
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
 http://192.168.18.138/1905.php
 
-#EXTINF:-1,tvg-id="华数电视剧1" tvg-name="华数电视剧1" tvg-logo="https://epg.112114.xyz/logo/华数电视剧1.png" group-title="央视",华数电视剧1
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000086/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧2" tvg-name="华数电视剧2" tvg-logo="https://epg.112114.xyz/logo/华数电视剧2.png" group-title="央视",华数电视剧2
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000084/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧3" tvg-name="华数电视剧3" tvg-logo="https://epg.112114.xyz/logo/华数电视剧3.png" group-title="央视",华数电视剧3
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000085/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧4" tvg-name="华数电视剧4" tvg-logo="https://epg.112114.xyz/logo/华数电视剧4.png" group-title="央视",华数电视剧4
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000411/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧5" tvg-name="华数电视剧5" tvg-logo="https://epg.112114.xyz/logo/华数电视剧5.png" group-title="央视",华数电视剧5
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000436/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧6" tvg-name="华数电视剧6" tvg-logo="https://epg.112114.xyz/logo/华数电视剧6.png" group-title="央视",华数电视剧6
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000435/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧7" tvg-name="华数电视剧7" tvg-logo="https://epg.112114.xyz/logo/华数电视剧7.png" group-title="央视",华数电视剧7
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000434/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧8" tvg-name="华数电视剧8" tvg-logo="https://epg.112114.xyz/logo/华数电视剧8.png" group-title="央视",华数电视剧8
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000433/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧9" tvg-name="华数电视剧9" tvg-logo="https://epg.112114.xyz/logo/华数电视剧9.png" group-title="央视",华数电视剧9
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000425/index.m3u8?IAS
-#EXTINF:-1,tvg-id="华数电视剧10" tvg-name="华数电视剧10" tvg-logo="https://epg.112114.xyz/logo/华数电视剧10.png" group-title="央视",华数电视剧10
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000415/index.m3u8?IAS
+#EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影(国际)
+http://47.109.155.164/vv/1905.php?id=1905a
+#EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影(国内)
+http://47.109.155.164/vv/1905.php?id=1905b
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="央视",1905电影(国内)
+http://47.109.155.164/vv/1905.php?id=cctv6
 
 #EXTINF:-1,tvg-id="华数影视" tvg-name="华数影视" tvg-logo="" group-title="央视",华数4k影视
 http://nas.jdshipin.com:8801/4kys.php
