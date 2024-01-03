@@ -2,7 +2,13 @@
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
 http://192.168.18.138/amlh.php
 
-
+#EXTM3U
+#EXTINF:-1,tvg-id="32" tvg-name="32" tvg-logo="https://epg.112114.xyz/logo/32.png" group-title="硬骨头之绝地归途",32
+https://v3-xg-web-pc.ixigua.com/e2bb0c14f9ffd1932413e67ebcf90145/6596a82f/video/tos/cn/tos-cn-vd-0026/1db50252e9ea4bd7ab61bb90fe49b7a4/media-video-avc1/?a=1768&ch=0&cr=0&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=1892&bt=1892&cs=0&ds=4&mime_type=video_mp4&qs=0&rc=NzgzN2Y3aTQ0NzUzZzQ7OUBpMzZ4ZDY6dDV0djMzNzYzM0AyMTQyLV9jNTExYDI1YF4zYSNsL2VyamRtcDZfLS1hMS9zcw%3D%3D&btag=e00038000&dy_q=1704283172&l=2024010319593156689F3502B299A04E2D
+#EXTINF:-1,tvg-id="33" tvg-name="33" tvg-logo="https://epg.112114.xyz/logo/33.png" group-title="硬骨头之绝地归途",33
+https://v3-xg-web-pc.ixigua.com/e2bb0c14f9ffd1932413e67ebcf90145/6596a82f/video/tos/cn/tos-cn-vd-0026/1db50252e9ea4bd7ab61bb90fe49b7a4/media-video-avc1/?a=1768&ch=0&cr=0&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=1892&bt=1892&cs=0&ds=4&mime_type=video_mp4&qs=0&rc=NzgzN2Y3aTQ0NzUzZzQ7OUBpMzZ4ZDY6dDV0djMzNzYzM0AyMTQyLV9jNTExYDI1YF4zYSNsL2VyamRtcDZfLS1hMS9zcw%3D%3D&btag=e00038000&dy_q=1704283172&l=2024010319593156689F3502B299A04E2D
+#EXTINF:-1,tvg-id="34" tvg-name="34" tvg-logo="https://epg.112114.xyz/logo/34.png" group-title="硬骨头之绝地归途",34
+https://v3-xg-web-pc.ixigua.com/e2bb0c14f9ffd1932413e67ebcf90145/6596a82f/video/tos/cn/tos-cn-vd-0026/1db50252e9ea4bd7ab61bb90fe49b7a4/media-video-avc1/?a=1768&ch=0&cr=0&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=1892&bt=1892&cs=0&ds=4&mime_type=video_mp4&qs=0&rc=NzgzN2Y3aTQ0NzUzZzQ7OUBpMzZ4ZDY6dDV0djMzNzYzM0AyMTQyLV9jNTExYDI1YF4zYSNsL2VyamRtcDZfLS1hMS9zcw%3D%3D&btag=e00038000&dy_q=1704283172&l=2024010319593156689F3502B299A04E2D
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5 体育[高清]
 http://192.168.18.1:4022/rtp/228.1.1.192:8002
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5 体育[高清]
