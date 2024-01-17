@@ -2,7 +2,8 @@
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
 http://192.168.18.138/amlh.php
 
-
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="央视",重温经典
+http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 
 
 #EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="" group-title="央视",1905电影
