@@ -35,6 +35,39 @@ http://111.38.4.17:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080
 http://111.38.4.17:8112/120000001002/XMTcctv-17hd/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://111.38.4.17:8112/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+
+
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC",CHC家庭影院
+http://111.38.4.17:8112/120000001002/XMTjtyy/1.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC",CHC动作电影
+http://111.38.4.17:8112/120000001002/XMTdzdy/1.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC",CHC高清电影
+http://111.38.4.17:8112/120000001002/XMTgqdy/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",电视指南
+http://111.38.4.17:8112/120000001002/XMTdszn/1.m3u8
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",央视精品
+http://111.38.4.17:8112/120000001002/XMTysjp/1.m3u8
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",女性时尚
+http://111.38.4.17:8112/120000001002/XMTnxss/1.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",兵器科技
+http://111.38.4.17:8112/120000001002/XMTbqsd/1.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球
+http://111.38.4.17:8112/120000001002/XMTfyzq/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",高尔夫
+http://111.38.4.17:8112/120000001002/XMTgolf/1.m3u8
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球
+http://111.38.4.17:8112/120000001002/XMTystq/1.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",世界地理
+http://111.38.4.17:8112/120000001002/XMTsjdl/1.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视",怀旧剧场
+http://111.38.4.17:8112/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视",风云剧场
+http://111.38.4.17:8112/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",第一剧场
+http://111.38.4.17:8112/120000001002/XMTdyjc/1.m3u8
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐
+
+
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://111.38.4.17:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
