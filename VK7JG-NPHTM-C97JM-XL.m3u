@@ -1,7 +1,12 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="央视",澳门莲花
 http://192.168.18.138/amlh.php
-
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+http://tptvo.mobaibox.com/alcdnbacksourceflag_223.110.243.238:80/PLTV/3/224/3221228530/1.m3u8?accountinfo=gL3kkabiW6X2OaNfI93YPSso9f3xK%2F0UbazxBa0tdBCEwuqkCa8s3JpukCy66ZXVOEo2MPYUHWBQxLxSM4mtbRbxI3vPb3Q8PK41ZRNbVEvdPiyfCks6npCmQJf9XbxSFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://tptvo.mobaibox.com/alcdnbacksourceflag_223.105.252.60:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=S27FcdSRgaC6i33FAdef9ZvaxU%2Fi3mQMf8sw80o4GyR5TOCskI%2Bi4fZMEz1RJ0Ds1sWx0jCQHI8rM0C2gk8C4dE%2B0hemUMcmphn5fxoOPKk9eFNUgAeYVMiJzWNHs2VLFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://tptvo.mobaibox.com/alcdnbacksourceflag_223.110.243.203:80/PLTV/3/224/3221228524/1.m3u8?accountinfo=92oYw%2B04JaArAJ7Bd9S%2BtiDH%2BjhltIsL0NVbZza3zquC31dk2tr3zvGM%2FjVF8czRFmotq5papsvkQKTYGlYyMoZQEZjAmoXgFKkGPZ7GHvGbOQ3qxxC4zuEEOyhB5WqWCP0KINTdqDACBntsW7BCfA%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="央视",重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="央视",烈火战马1
