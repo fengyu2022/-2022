@@ -1,0 +1,13 @@
+{
+  "name": "全网小说聚合源",
+  "url": "https://novelapi.com/book",
+  "version": 105,
+  "categories": ["小说"],
+  "search": {
+    "url": "https://novelapi.com/search?keyword=${key}&page=${page}",
+    "method": "GET",
+    "parse": "json",
+    "result": "$.data.items[*]{'title':'name','author':'author','cover':'pic'}",
+    "nextPage": "$.data.nextPage"
+  }
+}
