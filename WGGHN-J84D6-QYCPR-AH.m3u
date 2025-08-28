@@ -850,11 +850,11 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000008139/index.m3u8?c
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000004000024993/index.m3u8 ?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3$4M%20FHD
 #EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV3",超级电视剧
 http://[2409:8087:5e08:25::4]:6610/000000001000/100000000600026 8003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
-#EXTINF：-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
+#EXTINF:-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000012884/i ndex.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3$2.5M%20FHD
-#EXTINF：-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
+#EXTINF:-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000003000012426/ index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$8M%20FHD
-#EXTINF：-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
+#EXTINF:-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000004000002120/ index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3$4M%20FHD
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="NEWTV3"，动作电影
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000004000018653/ index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$4M%20FHD
