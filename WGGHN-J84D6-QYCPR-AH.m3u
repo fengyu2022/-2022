@@ -856,9 +856,10 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000012884/i ndex.m3u8?
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000003000012426/ index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$8M%20FHD
 #EXTINF:-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NEWTV3",超级电影
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000004000002120/ index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3$4M%20FHD
-#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NEWTV3",动作电影
+#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NEWTV3",NEWTV动作电影
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000004000018653/ index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$4M%20FHD
-#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NEWTV3",动作电影.http://[2409:8087:5e08:25::4]:6610/000000001000/8103864434730665389/ index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=3$4M%20FHD
+#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NEWTV3",NEWTV动作电影
+http://[2409:8087:5e08:25::4]:6610/000000001000/8103864434730665389/ index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=3$4M%20FHD
 #EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NEWTV3",家庭剧场
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000004000008284/ index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3$4M%20FHD
 #EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NEWTV3",家庭剧场
