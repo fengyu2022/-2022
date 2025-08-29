@@ -248,6 +248,30 @@ http://120.210.193.151:8006/120000000058/G_CCTV-15-HQ/index.m3u8
 http://120.210.193.151:8006/120000000058/G_CCTV-16-HQ/index.m3u8$超清1080P
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视2",CCTV-17农业农村
 http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8
+
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视2",CCTV-央视文化精品
+http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视2",CCTV-央视台球
+http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视2",CCTV-女性时尚
+http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视2",CCTV-怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视2",CCTV-风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视2",CCTV-第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视2",CCTV-兵器科技
+http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视2",CCTV-风云足球
+http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视2",CCTV-风云音乐
+http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+#EXTINF:-1,tvg-id="CCTV-高尔夫·网球" tvg-name="CCTV-高尔夫·网球" tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫·网球.png" group-title="央视2",CCTV-高尔夫·网球
+http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视2",CCTV-世界地理
+http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视2",安徽卫视
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视2",江苏卫视
@@ -338,6 +362,84 @@ http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作影院" tvg-name="CHC动作影院" tvg-logo="https://epg.112114.xyz/logo/CHC动作影院.png" group-title="CHC",CHC动作影院
 http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8
+
+#EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽",安徽导视
+http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+#EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="安徽",安徽公共
+http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+#EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+#EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视
+http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+#EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:-1,tvg-id="安徽农业·科教" tvg-name="安徽农业·科教" tvg-logo="https://epg.112114.xyz/logo/安徽农业·科教.png" group-title="安徽",安徽农业·科教
+http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+#EXTINF:-1,tvg-id="安徽综艺·体育" tvg-name="安徽综艺·体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺·体育.png" group-title="安徽",安徽综艺·体育
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+#EXTINF:-1,tvg-id="池州新闻" tvg-name="池州新闻" tvg-logo="https://epg.112114.xyz/logo/池州新闻.png" group-title="安徽",池州新闻
+http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
+#EXTINF:-1,tvg-id="池州文教" tvg-name="池州文教" tvg-logo="https://epg.112114.xyz/logo/池州文教.png" group-title="安徽",池州文教
+http://120.210.193.151:8006/120000001002/XMTczwj/1.m3u8
+#EXTINF:-1,tvg-id="合肥新闻" tvg-name="合肥新闻" tvg-logo="https://epg.112114.xyz/logo/合肥新闻.png" group-title="安徽",合肥新闻
+http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+#EXTINF:-1,tvg-id="安庆新闻" tvg-name="安庆新闻" tvg-logo="https://epg.112114.xyz/logo/安庆新闻.png" group-title="安徽",安庆新闻
+http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
+#EXTINF:-1,tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" tvg-logo="https://epg.112114.xyz/logo/蚌埠新闻.png" group-title="安徽",蚌埠新闻
+http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
+#EXTINF:-1,tvg-id="亳州农村" tvg-name="亳州农村" tvg-logo="https://epg.112114.xyz/logo/亳州农村.png" group-title="安徽",亳州农村
+http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
+#EXTINF:-1,tvg-id="亳州新闻" tvg-name="亳州新闻" tvg-logo="https://epg.112114.xyz/logo/亳州新闻.png" group-title="安徽",亳州新闻
+http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
+#EXTINF:-1,tvg-id="阜阳都市" tvg-name="阜阳都市" tvg-logo="https://epg.112114.xyz/logo/阜阳都市.png" group-title="安徽",阜阳都市
+http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
+#EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="安徽",阜阳公共
+http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
+#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="安徽",阜阳教育
+http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
+#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="安徽",阜阳新闻
+http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
+#EXTINF:-1,tvg-id="滁州新闻" tvg-name="滁州新闻" tvg-logo="https://epg.112114.xyz/logo/滁州新闻.png" group-title="安徽",滁州新闻
+http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
+#EXTINF:-1,tvg-id="淮北新闻" tvg-name="淮北新闻" tvg-logo="https://epg.112114.xyz/logo/淮北新闻.png" group-title="安徽",淮北新闻
+http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
+#EXTINF:-1,tvg-id="淮南新闻" tvg-name="淮南新闻" tvg-logo="https://epg.112114.xyz/logo/淮南新闻.png" group-title="安徽",淮南新闻
+http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
+#EXTINF:-1,tvg-id="黄山公共" tvg-name="黄山公共" tvg-logo="https://epg.112114.xyz/logo/黄山公共.png" group-title="安徽",黄山公共
+http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
+#EXTINF:-1,tvg-id="黄山新闻" tvg-name="黄山新闻" tvg-logo="https://epg.112114.xyz/logo/黄山新闻.png" group-title="安徽",黄山新闻
+http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
+#EXTINF:-1,tvg-id="屯溪融媒" tvg-name="屯溪融媒" tvg-logo="https://epg.112114.xyz/logo/屯溪融媒.png" group-title="安徽",屯溪融媒
+http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
+#EXTINF:-1,tvg-id="六安新闻" tvg-name="六安新闻" tvg-logo="https://epg.112114.xyz/logo/六安新闻.png" group-title="安徽",六安新闻
+http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
+#EXTINF:-1,tvg-id="六安新闻" tvg-name="六安新闻" tvg-logo="https://epg.112114.xyz/logo/六安新闻.png" group-title="安徽",六安新闻
+http://120.210.193.151:8006/120000001002/XMTLA_xwzh/index.m3u8
+#EXTINF:-1,tvg-id="宿州新闻" tvg-name="宿州新闻" tvg-logo="https://epg.112114.xyz/logo/宿州新闻.png" group-title="安徽",宿州新闻
+http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
+#EXTINF:-1,tvg-id="铜陵新闻" tvg-name="铜陵新闻" tvg-logo="https://epg.112114.xyz/logo/铜陵新闻.png" group-title="安徽",铜陵新闻
+http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
+#EXTINF:-1,tvg-id="芜湖公共" tvg-name="芜湖公共" tvg-logo="https://epg.112114.xyz/logo/芜湖公共.png" group-title="安徽",芜湖公共
+http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
+#EXTINF:-1,tvg-id="芜湖教育" tvg-name="芜湖教育" tvg-logo="https://epg.112114.xyz/logo/芜湖教育.png" group-title="安徽",芜湖教育
+http://120.210.193.151:8006/120000001002/XMTwhjy/1.m3u8
+#EXTINF:-1,tvg-id="芜湖生活" tvg-name="芜湖生活" tvg-logo="https://epg.112114.xyz/logo/芜湖生活.png" group-title="安徽",芜湖生活
+http://120.210.193.151:8006/120000001002/XMTwhsh/1.m3u8
+#EXTINF:-1,tvg-id="芜湖新闻" tvg-name="芜湖新闻" tvg-logo="https://epg.112114.xyz/logo/芜湖新闻.png" group-title="安徽",芜湖新闻
+http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
+#EXTINF:-1,tvg-id="芜湖新闻" tvg-name="芜湖新闻" tvg-logo="https://epg.112114.xyz/logo/芜湖新闻.png" group-title="安徽",芜湖新闻
+http://120.210.193.151:8006/120000001002/XMTwhxw/1.m3u8
+#EXTINF:-1,tvg-id="宣城新闻" tvg-name="宣城新闻" tvg-logo="https://epg.112114.xyz/logo/宣城新闻.png" group-title="安徽",宣城新闻
+http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
+#EXTINF:-1,tvg-id="马鞍山公共" tvg-name="马鞍山公共" tvg-logo="https://epg.112114.xyz/logo/马鞍山公共.png" group-title="安徽",马鞍山公共
+http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
+#EXTINF:-1,tvg-id="马鞍山新闻" tvg-name="马鞍山新闻" tvg-logo="https://epg.112114.xyz/logo/马鞍山新闻.png" group-title="安徽",马鞍山新闻
+http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
+#EXTINF:-1,tvg-id="霍邱频道" tvg-name="霍邱频道" tvg-logo="https://epg.112114.xyz/logo/霍邱.png" group-title="安徽",霍邱频道
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8
+#EXTINF:-1,tvg-id="霍山新闻" tvg-name="霍山新闻" tvg-logo="https://epg.112114.xyz/logo/霍山新闻.png" group-title="安徽",霍山新闻
+http://120.210.193.151:8006/120000001002/XMTah_lahsxw/1.m3u8
+
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="晴彩2",睛彩篮球
 http://120.210.193.151:8006/000000001001/3000000020000011529/3000000020000011529.m3u8
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="晴彩2",睛彩竞技
