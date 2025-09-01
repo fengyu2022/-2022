@@ -1023,7 +1023,7 @@ http://120.210.193.151:8006/120000000058/G_CCTV-6-CQ/index.m3u8?AuthInfo=ElLrq4n
 http://120.210.193.151:8006/120000000058/G_CCTV-7-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGsvGxC6B F9p8tXKzKaa5wvP6TM%2Ffc2CHCaRmFkvz33NPrsPjfyjFSQits%2FRtzpcZ0%2Brn4%2BazBvOCeEK0L6M4SY%3D&CheckLevel=2
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视[回看]",CCTV8
 http://120.210.193.151:8006/120000000058/G_CCTV-8-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGh13DUs1BWC84GZQyWEjfGLa90QjkbpQCZhOAaxsHBb6N%2FUSmajmbzjrdZubHNuPZLFYP0b69hUHzzqAM68C3Y%3D&CheckLevel=2
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视[回看]",CCTV9
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视[回看]",CCTV 9
 http://120.210.193.151:8006/120000000058/G_CCTV-9-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKV1gr7%2FI0tP%2F1loKt3Wr1WVOdsGzVmQjrrRqCTbZRvZhTpeZxMlie91P9%2FJ1IH8hcPPMsKeTAeTTyBXvM8tpDA%3D&CheckLevel=2
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视[回看]",CCTV10
 http://120.210.193.151:8006/120000000058/G_CCTV-10-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJAEDppPcV09zd5D1A1XRsYii9dSk3Unx7kXbVuCMpfhjVSxO0gQgwgSHrQGOIzgwKjPLCwa3VF17%2BSoT9wDriRA%3D&CheckLevel=2
