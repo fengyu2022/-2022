@@ -770,7 +770,7 @@ http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南-2",快乐垂钓
 http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
-#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="上湖南-2",茶频道
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="湖南-2",茶频道
 http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他-2",中国交通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_zgjt/index.m3u8
@@ -778,3 +778,42 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_zgjt/in
 http://120.210.193.151:8006/120000001002/GDZGJT/index.m3u8
 
 
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他-2",CETV1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他-2",CETV2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cetv2hd4mc/index.m3u8
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他-2",CETV2
+http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他-2",CETV4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy4hd8m/index.m3u8
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他-2",CETV4
+http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
+
+#EXTINF:-1,tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://epg.112114.xyz/logo/BESTV1.png" group-title="百事通",BesTV-1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba1/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://epg.112114.xyz/logo/BESTV1.png" group-title="百事通",BesTV-1
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba1/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+#EXTINF:-1,tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="https://epg.112114.xyz/logo/BESTV2.png" group-title="百事通",BesTV-2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba2/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="https://epg.112114.xyz/logo/BESTV2.png" group-title="百事通",BesTV-2
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba2/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+#EXTINF:-1,tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://epg.112114.xyz/logo/BESTV3.png" group-title="百事通",BesTV-3
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba3/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://epg.112114.xyz/logo/BESTV3.png" group-title="百事通",BesTV-3
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba3/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+#EXTINF:-1,tvg-id="BesTV-4" tvg-name="BesTV-4" tvg-logo="https://epg.112114.xyz/logo/BESTV4.png" group-title="百事通",BesTV-4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba4/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-4" tvg-name="BesTV-4" tvg-logo="https://epg.112114.xyz/logo/BESTV4.png" group-title="百事通",BesTV-4
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba4/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+#EXTINF:-1,tvg-id="BesTV-5" tvg-name="BesTV-5" tvg-logo="https://epg.112114.xyz/logo/BESTV5.png" group-title="百事通",BesTV-5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba5/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-5" tvg-name="BesTV-5" tvg-logo="https://epg.112114.xyz/logo/BESTV5.png" group-title="百事通",BesTV-5
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba5/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+#EXTINF:-1,tvg-id="BesTV-6" tvg-name="BesTV-6" tvg-logo="https://epg.112114.xyz/logo/BESTV6.png" group-title="百事通",BesTV-6
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba6/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-6" tvg-name="BesTV-6" tvg-logo="https://epg.112114.xyz/logo/BESTV6.png" group-title="百事通",BesTV-6
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba6/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+#EXTINF:-1,tvg-id="BesTV-7" tvg-name="BesTV-7" tvg-logo="https://epg.112114.xyz/logo/BESTV7.png" group-title="百事通",BesTV-7
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba7/index.m3u8
+#EXTINF:-1,tvg-id="BesTV-7" tvg-name="BesTV-7" tvg-logo="https://epg.112114.xyz/logo/BESTV7.png" group-title="百事通",BesTV-7
+http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba7/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
