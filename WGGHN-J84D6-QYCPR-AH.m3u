@@ -817,3 +817,356 @@ http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba6/i
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba7/index.m3u8
 #EXTINF:-1,tvg-id="BesTV-7" tvg-name="BesTV-7" tvg-logo="https://epg.112114.xyz/logo/BESTV7.png" group-title="百事通",BesTV-7
 http://211.141.214.71:6610/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba7/index.m3u8?IASHttpSessionId=RR2655020250218072214746414&ispcode=116
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视[回看]",CCTV1
+http://120.210.193.151:8006/120000000058/G_CCTV-1/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJDApF4mLcu84d3xH8ErAJYc4lONfdHTfMtzc1MhE2D8246BldGvl0pTT6j5op%2FD7fjTPHM1rkLx6F2C4dzo36Lk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视[回看]",CCTV2
+http://120.210.193.151:8006/120000000058/G_CCTV-2-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJJ9jHQraEUD5rLdFOpBiOcN5C59DP2QLE4nTAEMcBPoO%2FoPsgmWw%2FsWQayDaveHqazEiuh%2B89ATaR7lEX%2F5KOIQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视[回看]",CCTV3
+http://120.210.193.151:8006/120000000058/G_CCTV-3-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJE9YJZcocns93brsDPKma9FKMGyP9fQ6EsQLvyVvIJ1rlZ53ULM%2F2ecrrh6UpxC6LiW8RvIru40tduMJndh3S7s%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视[回看]",CCTV4
+http://120.210.193.151:8006/120000000058/G_CCTV-4-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJE7WGAiUva5kaHX29cAAXO3wPUPly9kuane3eWXWlxk%2BXpe9QUJUhUXpeneozFLrJKm6YzyhbknquvlgJs9ZFO8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视[回看]",CCTV5
+http://120.210.193.151:8006/120000000058/G_CCTV-5-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKNyd%2BPeR45UubggYEYiNeBuVm1p77Mix5qJ2mpiK4kbG6jMGEHIbs5eATB5xoioOD2hHZ5O206wixvHN%2FU7Vv0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视[回看]",CCTV6
+http://120.210.193.151:8006/120000000058/G_CCTV-6-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJJQj42SjbYl%2Fi8wOu3MgDYCoylrFsKKVg6aFe0PNcUeStryQReEDsehfxuwz%2FT92%2F5qJxsMlO3y9QfWgHG6Be%2B8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视[回看]",CCTV7
+http://120.210.193.151:8006/120000000058/G_CCTV-7-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGsvGxC6BF9p8tXKzKaa5wuC1IveLTBmNH0EeV2NhzKbaY9qDsOtNVj0GlBUke8cCIzd2h66d5FxdS7SVTo00zQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视[回看]",CCTV8
+http://120.210.193.151:8006/120000000058/G_CCTV-8-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGh13DUs1BWC84GZQyWEjfGZLNmgMHehuSN9SwjecsqrhDaQ09U902iqUM%2FwGeOyPeQzRfTZ2ix6j95%2F5IMcoi8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="English",CCTV9
+http://120.210.193.151:8006/120000000058/G_CCTV-9-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKV1gr7%2FI0tP%2F1loKt3Wr1WALxWRrDJzko9Tei61H0O0RhGWupTC3iriJ%2BUWBL4wxjns3F7zfi%2FFBnyFDADrk0M%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视[回看]",CCTV10
+http://120.210.193.151:8006/120000000058/G_CCTV-10-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJAEDppPcV09zd5D1A1XRsYigYKAhjybo7Ru81lMADm53YOS4awzqQfLiX2NP9%2FNQw8JKwvC3Fl5m9gQp9qp0LM4%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视[回看]",CCTV11
+http://120.210.193.151:8006/120000000058/G_CCTV-11-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJLZzaMu2DmbFkWRxZQ11tXsMHgS7kIP%2BsmdVqANUBDQ%2ByEQ98Z%2FK46R1awp3bMVbuZKzu9vVqmJPy8IdvszYD4w%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视[回看]",CCTV12
+http://120.210.193.151:8006/120000000058/G_CCTV-12-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJOqJTbCoAUBpT51gC4WXz8lbnGe1qkq1UIYuPJvJCD2bqb8C%2BsWLKjDYoMqpDVoGCOVXIMzS460HA%2BmWuq%2BNOiw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视[回看]",CCTV13
+http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJBRXuW6qJzX4cH3tkZXNB5gQKgyKXYGhmqYnTi0wcEloRiYvomuRhzrQPHXiXlj5vp0Wpx2bwkQR8dA4As7DAoM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视[回看]",CCTV14
+http://120.210.193.151:8006/120000000058/G_CCTV-14-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJI6038OltF56Fn6D4zvWPHI9J6dhg0j9Hmo%2FF%2F8n4ulqkHmAwbF9grpfBk6tIMzxyWAmmbS7lhnbzCkKmrIORRM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视[回看]",CCTV15
+http://120.210.193.151:8006/120000000058/G_CCTV-15-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJPreNvlxf0guRtoWkgttWJxSaWYkUSX4T2aJcRf60dIOb5G9%2FphM8fRB8pGTYmg%2FRRdbocd8x2adBtwZ74i0D%2BE%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视[回看]",CCTV16
+http://120.210.193.151:8006/120000000058/G_CCTV-16-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJErQxRs9mPyUobkLtKx3fsfsMQF7rpdJH%2BOu7ZVLhq8HW%2BICWQ4Akvg0TrkVQTZ476m5iafnddcDNypvnl2PtCg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视[回看]",CCTV17
+http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJJDJkrpLGWS4wH%2Fuy5rnFz%2BE8IPODrz6XKjUWgVLKh9Y2WxqVjP%2FPRTHYnCzgpWHq2n4K8bW%2BTVVN9T1ExrUKaA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视[回看]",CCTV5+
+http://120.210.193.151:8006/120000000058/G_CCTV-5PLUS-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJIrAk6370ku%2BZNzm1imgH6HwycREP3grFbBs5XcwujuMLtg%2FxKEhfKpCyt5EKtfXaNU4Sqg1qsrcRiJSjNur7A8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿拉伯语.png" group-title="央视[回看]",CGTN阿拉伯语
+http://120.210.193.151:8006/120000000058/G_CGTN_A/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJNoV1VewhHgKM0fZ0AeMj6JoqysoAPTEhlhZxIzPLMRr8LQ9Cfp0KqwxsYzv9qatk%2BiL2i0wp1LB3GnhODrAAWM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视[回看]",CGTN
+http://120.210.193.151:8006/120000000058/G_CCTV-NEWS/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJCbOMI3h%2Br8A%2FQfTrsQVvd6LA%2FS%2BeECRiSWKUJKDid8sudCI6RTgkYF5aBjZnToW2E7hM6hTpSfd%2FELgvRzd%2Fxc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CGTN 轮胎" tvg-name="CGTN 轮胎" tvg-logo="https://epg.112114.xyz/logo/CGTN 轮胎.png" group-title="央视[回看]",CGTNhttp
+://120.210.193.151 :8006/120000000058/G_CGTN-PYCCNN/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJHZ7sOa0GApGg6Bp0oOMiqPNIXJRpE%2FA85XnwYEkBHiM1ESWR8CQKfAlGN7XRv1Nk6S7D%2BWHCTPNIq90yhKqbDg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视[回看]",CGTN法语
+http://120.210.193.151:8006/120000000058/G_CGTN-FRANCAIS/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJPum9U0jwdj1OfLcba0e0Uo3PAn%2B7bMZnezmrF%2FB4xX9TN2JM%2FROzhbwJL4Ic2fKwp60Oc6BIDP4xXWHoUnGfyU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png" group-title="央视[回看]",CGTN西班牙语
+http://120.210.193.151:8006/120000000058/G_CGTN-ESPANOL/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJBD5mdZrgvkrUMv4nSR%2Bv9evykcxEYhu69C3PX%2BasZ4WDzU1xQxpzt0%2FatF6mFwSdxiZqf7RF07a6InrIpZMUoI%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视[回看]",安徽卫视
+http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJHRRyCbeDjtpbbwnDuIaePGywmu8JulYuI27BIc6dHQMkF0R8lK0jdrAIk%2BTNQm%2BJrAMFnqPW9fy%2Fh2xCVo0%2FPI%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视[回看]",湖南卫视
+http://120.210.193.151:8006/120000000058/G_HUNAN-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGlGIHLpIdYsi1cp8C2UZRuG9kDFZLSw6xKcq7kVkM0uR7j99JRY3C48OLvKF6wNZpGYWw8xMl4tHyrWWhc77%2BU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视[回看]",东方卫视
+http://120.210.193.151:8006/120000000058/G_DONGFANG-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJMnWE2 M7FoySBkULhbCqVd9wI7Bu3wBj%2BLVkIriF2YhX37U2Q5%2Fr1kbYVzw5hBXw58hyCmAisPZkhJJDK4WmMUk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视[回看]",北京卫视
+http://120.210.193.151:8006/120000000058/G_BEIJING-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJP5pt9KSaEufEKgvLwZBp8DmYZ48uswlEBmJBaCROsg4Vd5fEQlV9jSdQ7THT4%2FTFfwaOGm8zxH1noICeywXt28%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视[回看]",浙江卫视
+http://120.210.193.151:8006/120000000058/G_ZHEJIANG-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJCE3wNx3qg1i0W9jHOuARALytwk0l%2BckySDh2JAg00VVnUaGhLHL3F9cQTDZ8loTw5iorSC9areFumGRBlweoEg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视[回看]",江苏卫视
+http://120.210.193.151:8006/120000000058/G_JIANGSU-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJD%2Fm7I%2B62cWjWtYLq7YN7Rz%2B1bBsUucGgT6DPeycc28%2BMtJApJjE530UYHmu3rVKzM6bh552NB33wbg0TM0drvc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视[回看]",天津卫视
+http://120.210.193.151:8006/120000000058/G_TIANJIN-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJOV6jBvkUWwxr2RRUg9tAiDkddB2prcW62vUTrXJoDAVd6nSRn2wT%2FBBHhqSTUkZvZLxcikiNNDGo8pmRKk8mbk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视[回看]",山东卫视
+http://120.210.193.151:8006/120000000058/G_SHANDONG-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJNIWOtIBoP%2FU%2F95EUhUMKCZs%2BFErTomMKKv%2FKsJpqFBb4HwapXgc1BPb0f46r%2F3mnTRPuQ5o7gJL5AbW7LZ3oeU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视[回看]",辽宁卫视
+http://120.210.193.151:8006/120000000058/G_LIAONING-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJA4CzoeS8Kp9TkM5UXWd5oxvpS0LRrmhyLaj2LQysa54VzOYOSZMoonDeKbi83RJPhdG6fT8W1DJw2TYJ93Z8eU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视[回看]",深圳卫视
+http://120.210.193.151:8006/120000000058/G_SHENZHEN-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJHdvZ%2FBxS9le1Gc13fjnZJSOX7EdCgXiY42DqS1vWBh8rs5%2B4P9UL9lCF%2F25nYAiR%2B7PuRTU7knOSuKv8O5uLNs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视[回看]",江西卫视
+http://120.210.193.151:8006/120000000058/G_JIANGXI-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJOu6fSARCE62AbjQcVYxKydvV0CuBlHaxN8%2FFrERNsa0kBIOXEjTrT4okloAt2WWT3%2Fb6shgBsbHhohmB820%2FnQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视[回看]",贵州卫视
+http://120.210.193.151:8006/120000000058/G_GUIZHOU-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJOs1kW5rZgvz761lPMReS46jsrOP4DAnM%2BZUb8ohEN%2F8tDpR5xbhy5tNy9umVBGxIFQSmPkiSgHS%2BAYLqv%2FiIBs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视[回看]",吉林卫视
+http://120.210.193.151:8006/120000000058/G_JILIN/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJBug55B4uCKTtQTh4jDuVC5VR3rF%2BsRhkhLPWg79Gia%2Fa0uaiSG9kynkjV%2BOaMuib3NAHKbVqRBlVrXWrkTKbNE%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视[回看]",广东卫视
+http://120.210.193.151:8006/120000000058/G_GUANGDONG-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJCGOv6Y4gPZivo5P4P9oTSiFNZ1ZV5Az8hDLR8BpOM8tT0gyHwyMzS%2BwbwWH1nH3SMw%2BdmWKbzEdmXzW%2B2wR7h8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视[回看]",湖北卫视
+http://120.210.193.151:8006/120000000058/G_HUBEI-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJEDwmSVCB6SpIPDtjfPHYHzG6Nqg%2B189kxxAPO6qDc%2FWqe%2FkiQhj9HFrEZgjXrDirnonjax4o9rDKU8eacxukXU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视[回看]",河北卫视
+http://120.210.193.151:8006/120000000058/G_HEBEI-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJOB04ocAMyGUDdZ9XLLUQK0KtyRQlaKwcne6InLls5YbPo3d6zIYkxr3qVi1RMa5dVhmS0bwdvMrOdhDj7wV%2Bys%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视[回看]",山西卫视
+http://120.210.193.151:8006/120000000058/SXWS/index.m3u8?AuthInfo=ElLrq4nJhR7 FlwWjzqqJJCstNAlpnNPgW%2FqLfoqPOqnJdewSeXZuMshEX1yT%2B5DBJRBwFVLE3ZBKZJ1lqBUnZw%3D%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视[回看]",重庆卫视
+http://120.210.193.151:8006/120000000058/G_CHONGQING-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJ JJnyDn9KB2O8tJxAdA7nXrNEIQxykByAq%2F89gZT5y3Yh5vd%2FeOGoWCdREObRVV%2FH58u%2Bc%2B1IsVKwx%2F%2FeIrdOrSs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视[回看]",四川卫视
+http://120.210.193.151:8006/120000000058/G_SIHUAN-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJMRFliu60FYN5bLXsRwOgu0c%2BfJZWHNIbc%2BrUdioyqKtOI0EV8ltho%2BVnddmVyn%2F55huNmwJxB5VTScrVlPjNBA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视[回看]",广西卫视
+http://120.210.193.151:8006/120000000058/GXWS/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJLiZ5ec6dS0d9DpqFRRJmF6mRnNaXNFGs0kVbV4uKigRcm0S0l9BhvzDHO4vG69CMg%3D%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视[回看]",陕西卫视
+http://120.210.193.151:8006/120000000058/G_SHANXI/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJ PaGk%2FtbpC66X53PC6RC4dW%2FL7FEMHiUHpupru72oIlD%2BiK21KRg1l%2B7LN4lhbWEJc%2BaTKWqc4VEFpvi6uWITW8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视[回看]",甘肃卫视
+http://120.210.193.151:8006/120000000058/G_GANSU-HD/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJADZert3HQX4020OO0XM3m27CM54SpVvW0Ar25MHNT96Pxx95Ok0QnedIi%2BDYfBQlvtsV%2Fnqj1XXEuPDtCJAkJs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视[回看]",宁夏卫视
+http://120.210.193.151:8006/120000000058/G_NINGXIA/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJBZtd%2FBVxLM6pspA7VmR8eeDF13hnUCA3KfkgfVn7hQiCJfZkRuwFQ7nPglCgxJ2aMW766VXIMiX38ywlh1Asns%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视[回看]",青海卫视
+http://120.210.193.151:8006/120000000058/G_QINGHAI/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJ JE2DLX1KmCCSylZyWLEP61JHw%2FyD9LhpMsQpASdVVGm0ezp9VbHZ%2BmM1%2ByxOaKsaI0%2F%2B6lNYhfcfOMYaxbti73E%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视[回看]",海南卫视
+http://120.210.193.151:8006/120000000058/LYWS/index.m3u8?AuthInfo=ElLrq4nJhR7F lwWjzqqJJNio4Bq%2B1w1JL2ufoB4tZlvYvj6d%2FQeIm9N8IzA%2FoUeqyx1BDe4ZutwxdFpi489t0Q%3D%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视[回看]",新疆卫视
+http://120.210.193.151:8006/120000000058/G_XINJIANG/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJLZtIZrV6xrtIaQxroIFvUu0SwnIUjXRCYD%2BHGusJ6ZJBj%2F1RsImxV2SOUf%2FxqTu5E6KVhUe1jQd7gbDK8iwryc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视[回看]",西藏卫视
+http://120.210.193.151:8006/120000000058/G_XIZANG/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJPtFmhQ2WLlatQ21ujutybSC%2FacgKSyvH3JIR8FZvUJSOMswOdlKaGvudShAWTz4j5I0E7aIAnCP6G1MqZ8HUvo%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视[回看]",内蒙古卫视
+http://120.210.193.151:8006/120000000058/G_NEIMENGGU/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJO3mtaLhD2JdWfGbWnE2DqRgL88Gtt23VagIU6TTUDee1pAXI7l%2FJX%2FVhEpbvRS0%2Blbpl9QrPp0JbUyEQuQPAGk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视[回看]",云南卫视
+http://120.210.193.151:8006/120000000058/G_YUNNAN/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJCKwGMEQaLE yI%2FK6UOzluO3QQSOqEqPDN0zJfer9RAW%2Fno6WZysCeFSF%2F6uVIOM4%2FiRqDRBfoVaRajBG2CWpM%2FU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视[回看]", 东南卫视
+http://120.210.193.151:8006/120000000058/G_DONGNAN-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJOJg%2FGn%2B7CwExJugkQleRxdodUvyIDPj3z3VSWWjaGUf7dUho5vxNnzdx6xMWOQsIJuh9whWWlQkT3cq6Zreej8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视[回看]",河南卫视
+http://120.210.193.151:8006/120000000058/G_HENAN-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJNBxjz0ckVkobBDpjCZ8B2XpzYBb7dFG6yY0Oi7vGWvhjpN02niL2CPKvOLoTa4CT2%2BZPZaJRaFMdNjMdlUjZyU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他[回看]",CETV-1
+http://120.210.193.151:8006/120000000058/G_CETV-1-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJL7%2FBOEqt4qIkBpfu1wrHO%2BvTmNderk6j8PvlDr7QqohS%2Fm6UTkaoFjJJEpwH9ek0VNFnqBhDxHca6j2amsgpSs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他[回看]",CETV-4
+http://120.210.193.151:8006/120000000058/G_CETV-4/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJCncpeonyY iu1aur%2B4wA1B63njC%2FK%2FjRarVyqSJe8walz6P%2F6BrpT0ALGR6SS7VBujBRGshLZVairbRFeZQihqc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视[回看]",三沙卫视
+http://120.210.193.151:8006/120000000058/G_SANSHA/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJ OIoQeh33J0DPQTsvkPxkb1EMMU3Q5r5ptqLqvFFtLpQkrJV%2Bf3XB%2BzlhOYtlRN%2FOU1yAjr%2FOQWidp70u%2B9qFCY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视[回看]",厦门卫视
+http://120.210.193.151:8006/120000000058/G_XIAMEN/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJIbTwXigEjCRdX8Kg70Fie6R3LuaOtC2BAgVAIX299atTILEg2me9HGgPQO7JAlgo2m3zC4ekH2nq8PDv8TehDI%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视[回看]",兵团卫视
+http://120.210.193.151:8006/120000000058/G_BINGTUAN/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJ PJKpR1NZfY%2BPkCFo%2BDVU6BKAaCb%2F3T%2B7YYzhZhOLIkryfNnhsTZ88QJBzu%2BdOVKkTmXxtmGFCox4P%2BC7uH3Xx0%3D&CheckLevel=2
+#EXTINF：-1，tvg-id =“CETV-2”tvg-name =“CETV-2”tvg-logo =“https://epg.112114.xyz/logo/CETV2。png" group-title="其他[回看]",CETV-2
+http://120.210.193.151:8006/120000000058/G_CETV-2/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJMeLezWQXL4GWvI%2FnGJkCGcWHhH8pItVaHy2kXm1x7t3oMQsuToZdEnYSd4TaobUFevPJ91z1BBZRrVcqUubRf8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他[回看]",金鹰卡通
+http://120.210.193.151:8006/120000000058/G_JINYING/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJBBiyyDV6VqFR8eWir6WJLmEy8DsT89hnBbqvgqmCTogt22P2V3AD%2BdeHNgJhbVpe19TCOo9OQEf2Qiev3xvQMc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他[回看]",炫动卡通
+http://120.210.193.151:8006/120000000058/G_XUANDONG/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJ JNG%2F1gAbG3dYt%2F8%2F4OD%2FI2wI4V1UiT7%2B661TvTwcmU3U7IkshIQ5QsuErUuFAgwrUOUTSGrvmokWVM9jERlGtdc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他[回看]",卡酷少儿
+http://120.210.193.151:8006/120000000058/G_KAKU/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJ JPg%2FWs2aNYIWOA8gkKsDiMedPkAvtj%2BUOdGMJEPOiUQJLFVkWBurUq4w6QhPSZkfYZnazJzCu%2Blcw5IvdtRS64w%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="其他[回看]",优漫动漫
+http://120.210.193.151:8006/120000000058/G_YOUMAN/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJMgNA1Si0JFsqNU2DIjCdFqcv9meJ9s0C2Wlnl%2FZ8eDVr89TVQL0a%2FF3d3JQman%2F1pstKOqwNJYGaaMSjNp8cdg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="其他[回看]",山东教育
+http://120.210.193.151:8006/120000000058/G_SDETV/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJEDcUDawsQoYOeL8zTzWRWnfdzYqaapD0GuGtDWIKDRy%2F4jc5BX4Pm4r%2FMuoBr90I0OPP5yfuosIQaAmfG5cNJg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他[回看]",动漫秀场
+http://120.210.193.151:8006/120000001002/XMTdmxc/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJG S%2Bwjwhg5xs9SvTb48CyU7HTNQzA5sg%2F5Hv3k%2FLIyB2o0omG6A%2F%2BVpPeuXTBtyM%2BDr78Zb5m6nVcxLHmdX5rCQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他[回看]",频道足球
+http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJDQglDk2xKg5mX67VR1TOiC5kJ%2BtFXix6Ru6ucMSWY254RsPSmtsvRJ26LNrfLT0o5gYeAOeq6nGnWp7yO%2B9Bk0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他[回看]",金色频道
+http://120.210.193.151:8006/120000001002/XMTjspd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKnp2swYoyJd2TXQPAeTl2huV8g0o08ovBadVAu9ZFeFMz4s6bWKxzjih%2BR9kK3MKGaNnRmoccsBPe5GvhpBkGg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/少儿动漫.png" group-title="其他[回看]",少儿动漫
+http://120.210.193.151:8006/120000000058/GITV-AH-23/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJA7szmcp YZg81tRgtC4XD%2FvSmj3PNAN8%2FuNE8rffDVGmKpO71AAaJA27d4kdgZjBoBHKSbcfDxsnt6JJnQs%2BVYI%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="NewTV[回看]",NewTV古装剧场
+http://120.210.193.151:8006/120000000058/GITV-AH-22/index.m3u8?AuthInfo=ElLrq4nJhR7 FlwWjzqqJJD3I52blWKvpum5s6ZB1LKvH5M7Ou51VAO5r8x7hWa6wYxsPONgHYOyN9B2SP43kV8RcHjpml6mA44kLT56L5A0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NewTV[回看]",NewTV动作电影
+http://120.210.193.151:8006/120000000058/GITV-AH-21/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJELbeK%2FS4mOpa8lcP0qeIRcV4N3UYGBsAf8%2FB%2BFCTAjXay5H95DKejkbqyUkQIuxpGJSq9%2Fg4MLDxTL5QAEd%2BVc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品综合.png" group-title="NewTV[回看]",新电视精品综合
+http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJHXWK%2FcDw%2FAzcHrKSrS0cPH0NuBmZQmvDqqT5Hx3emoBL1eg7gH8FrYX9TtxBSTPxmwsv2pCBwgI%2FssBmBe2HGs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NewTV[回看]",NewTV金牌综艺
+http://120.210.193.151:8006/120000000058/GITV-AH-19/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJNcHg3IlUZPwEsNwXdpaW7a5V6o2jpO8O66eKIhStNwmb5zOBcsj8AIxu%2BwkksqG6Q5PEZE91aMs8%2FjTfMBY0yM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NewTV[回看]",NewTV爱情喜剧
+http://120.210.193.151:8006/120000000058/GITV-AH-18/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJFOOurZ12D2yO%2BGBL5tDVDb3vxHjlLf5LJwGJmKhnoLmLefSnaj1%2FxQNMVBNdGkvilJHmhSQ0Xjb6rVWz8FVFSg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV惊眉悬疑" tvg-name="NEWTV惊眉悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊关注悬疑.png" group-title="NewTV[回看]",NewTV惊关注悬疑
+http://120.210.193.151:8006/120000000058/GITV-AH-17/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJHpxAKQqAN1GLQHGJrjkbsMUg0xAOiPr66ZLXaqMcyFwDi986HpOBvYvFLJN0AHs%2BvGXUIHhiNRP%2Bny4%2Fi6cDTA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NewTV[回看]",NewTV军事评论
+http://120.210.193.151:8006/120000000058/GITV-AH-16/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKxjj6eFTFYKPgzSZb29%2FZeTHZaVcgow0xLlIkoY%2Bd5OoqdJEHkxDkJHcAQJ%2FNDRnIkksaNB67nWwgV10IaKQCs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NewTV[回看]",NewTV军旅剧场
+http://120.210.193.151:8006/120000000058/GITV-AH-14/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJDIoq4sY 8SMBMWJwaxEUInGK%2BObmLjy2H2%2BPJH7WoMb%2Bhe5hFoMI11XY2ICLrMOTX63yiPAoOd7DkEzN6aaczVk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="NewTV[回看]",NewTV热播精选
+http://120.210.193.151:8006/120000000058/GITV-AH-15/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJANyFaaJoleOCuCrPzSjPzSTAT6QCwK9LwoENLBuLpeF4m%2FWvobKAfd3nZIBTNXvSU5w3YV%2FuckEi0wpbgs37Vo%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NewTV[回看]",NewTV家庭剧场
+http://120.210.193.151:8006/120000000058/GITV-AH-9/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJH6DBord9tuItsXgBPeqknkiZvqcAFQIdOJkD%2B00ZaMCeHHDf3FwVoUAe3SQeMM69K2Z88ced5%2FVucmkopSKoxk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NewTV[回看]",NewTV精品大剧
+http://120.210.193.151:8006/120000000058/GITV-AH-13/index.m3u8?AuthInfo=ElLrq4nJhR7F lwWjzqqJJNIIvx9k3ojREgLjT1JJNJeYCYpBH2Ujf3apjCeNMJIe0cZ9lQeUVyb73mk2e6onGHYgkj2PwyEPh6kJJz%2B6yMc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NewTV[回看]",NewTV精品记录
+http://120.210.193.151:8006/120000000058/GITV-AH-8/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJAN9kGyxxfYqIMVVP%2Fe72aAD8uBBJEe8jAyZYZu%2F5a0mChHrTYCaLwEPNVL3cPlkVTKZpuwt0Qjt%2FCxCpIuMbSU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV历史解密" tvg-name="NewTV历史解密" tvg-logo="https://epg.112114.xyz/logo/NEWTV历史解密.png" group-title="NewTV[回看]",NewTV历史解密
+http://120.210.193.151:8006/120000000058/GITV-AH-24/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJNtQpal5ZyebXbudzaHTJvUf%2FTptEBGb%2FwpvjJD6WRp2GV3tmO7VaETj6pcPJDh6j1IG8R6jr9k94%2FItXulnjAY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV舌尖美食" tvg-name="NewTV舌尖美食" tvg-logo="https://epg.112114.xyz/logo/NEWTV舌尖美食.png" group-title="NewTV[回看]",NewTV舌尖美食
+http://120.210.193.151:8006/120000000058/GITV-AH-25/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJJqo5K%2F%2BmCAgQiStSpkt80zbJlO7fY3u6xeCdRAWgdZc%2B6C%2FlEXJ6hbeh5v3AR%2BEjBu1qOzrjO4HyT4wPThdMvM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NewTV[回看]",NewTV精品体育
+http://120.210.193.151:8006/120000000058/GITV-AH-7/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJAxXj20Qifnd9EF%2BGGRWvdhWZCWKkJaRMnU4o6bW3phscPmEx1nJ1I3PNnX4z%2FsrP0ITVhMstfAqY1wnELDo7WM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="NewTV[回看]",NewTV怡伴健康
+http://120.210.193.151:8006/120000000058/GITV-AH-6/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJI09xUk y28nzaTCMHUwm196NCTQbsUmKTjTmT9Pi9UXTb0wj21qYjwrqfdB4edFgXazUSi9UKYYA6I%2Bip7fHnEs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV精彩影院" tvg-name="NewTV精彩影院" tvg-logo="https://epg.112114.xyz/logo/NEWTV精彩影院.png" group-title="NewTV[回看]",NewTV精彩影院
+http://120.210.193.151:8006/120000000058/GITV-AH-10/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJCz0Y5tFGtWwuOPXI6QF%2BfnpuYunStljph6FUv2EwIzt5mR9rSlXsdnxwEbUQqCh%2FWS2%2BLs%2FKArOKLw%2BkGt9LjU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="NewTV[回看]",新电视农业致富
+http://120.210.193.151:8006/120000000058/GITV-AH-5/index.m3u8?AuthInfo=ElLrq4nJhR7F lwWjzqqJJC3ZH6ySUqGIi1FAWIt7b1Z79AsKInv5iNFLLeJ4R1aFzhmVJ0NNPF5%2FNRFt9Twqkmn84OGwrTQVVjSnPWVCGTg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV诗词歌赋" tvg-name="NewTV诗词歌赋" tvg-logo="https://epg.112114.xyz/logo/NEWTV诗词歌赋.png" group-title="NewTV[回看]",NewTV诗词歌赋
+http://120.210.193.151:8006/120000000058/GITV-AH-26/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJBE%2Bu4GSolCjdwk5kPjNstKwlywcaCA8VASgVajo%2BXsO8Q5ypUbyAM%2F2jB2djxDwEfja2mGTLWRjAugb%2Bv%2Fzo3w%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV自然纪实" tvg-name="NewTV自然纪实" tvg-logo="https://epg.112114.xyz/logo/NEWTV自然纪实.png" group-title="NewTV[回看]",NewTV自然纪实
+http://120.210.193.151:8006/120000000058/GITV-AH-27/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJETN3kMFuQ3zTktRNN%2B3Mt7rkrOgij6g374HQSNCRaZI%2B6qMfqn0NNeAWWQVMZvhHwXB6wAN8b7rEDqgGCKH6hM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV精彩赛事" tvg-name="NewTV精彩赛事" tvg-logo="https://epg.112114.xyz/logo/NEWTV精彩赛事.png" group-title="NewTV[回看]",NewTV精彩赛事
+http://120.210.193.151:8006/120000000058/GITV-AH-4/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJEr%2BHHSEzfJbX6TCODZ55lwk6W9GZvPwWzpPpzKXyGUZIxYkT4Ymy9S%2BVa8IJz4zP97N0vKKfks0L4O0h4wDMk0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="NewTV[回看]",NewTV潮妈辣婆
+http://120.210.193.151:8006/120000000058/GITV-AH-3/index.m3u8?AuthInfo=ElLrq4nJhR7 FlwWjzqqJJAoe9bST7wX6E55B6Fij4ryuZrdtWYnJf9chIcmtFLqJFxjIBdPDpV8zQGKv99DK6xUTOVfUlEnEKRK5BKZ8nP0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV名人传记" tvg-name="NewTV名人传记" tvg-logo="https://epg.112114.xyz/logo/NEWTV名人传记.png" group-title="NewTV[回看]",NewTV名人传记
+http://120.210.193.151:8006/120000000058/GITV-AH-28/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJAtU2IGwSI%2B%2FoOpoDky7ES0RtIMIjs8xHetq%2FExIvQITF8jxCV9FEo4Bg0bXSbm3DDjxI9IWtsQt9u7C70hIWdA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NewTV旅行记录" tvg-name="NewTV旅行记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV旅行记录.png" group-title="NewTV[回看]",NewTV旅行记录
+http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJMRouMouznZ8Ie364lVHgOqEj7gV8XOpsdiz34obj2EQOEBwuAScZx5S0G4Cv2Z%2FRcH5Pdsmh09nVcefa8eqIMA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视[回看]",CCTV1
+http://120.210.193.151:8006/120000000058/G_CCTV-1-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJF48uxxH8vV%2FydTw6dlLDyUvRFFGUu9i%2FeetD9Ph2vuzjdbhQWPPJJZMCs4mYebFEmpjkJH8KZv3v8tGmLuZBU0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视[回看]",CCTV2
+http://120.210.193.151:8006/120000000058/G_CCTV-2-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJJ9jHQraEUD5rLdFOpBiOcOH%2FeUc1Tg02IMveq%2F0o%2FTmGmbPP43e8JCRBpsS%2FP7uey36hVq%2Ffv6gb3wYhF8y8v0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视[回看]",CCTV3
+http://120.210.193.151:8006/120000000058/G_CCTV-3-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJE9YJZcocns93brsDPKma9EtvGkmMnnCB86H%2B4Htb6FivdhVGhubRfsrjzpCKgyLd%2BJqqPTa9tL5nXd658duX%2FQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视[回看]",CCTV4
+http://120.210.193.151:8006/120000000058/G_CCTV-4-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJE7WGAiUva5kaHX29cAAXO3nDZqQLNqfLg3NCFHqOf4qU8OcoA8g2GdziNwZnVcJNwHYp9rCnc010iSa8jfjZtU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视[回看]",CCTV5
+http://120.210.193.151:8006/120000000058/G_CCTV-5-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKNyd%2BPeR45UubggYEYiNeAXGCXPeANdy9z2rpCCLVlWQPm3amDtcjeC1eEqbD6SwSyiBX%2BZ9PRs63hFSwbwTQg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视[回看]",CCTV5+
+http://120.210.193.151:8006/120000000058/G_CCTV-5PLUS-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJIrAk6370ku%2BZNzm1imgH6Gi5Pw%2B12p8aLGCounuCw00UymGJd6pX30zNkBOtZYvcKmhy%2Fn%2BVXt​​ZLRs30FZ7FY0
+%3D&CheckLevel=2 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视[回看]",CCTV6
+http://120.210.193.151:8006/120000000058/G_CCTV-6-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJJQj42SjbYl%2Fi8wOu3MgDYApsR1V7sCy5BLSVnG1pq48oQieGAwk6L3vvzLmvw7hliZ9IhBtJHLsSPZGLK7L0PM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视[回看]",CCTV7
+http://120.210.193.151:8006/120000000058/G_CCTV-7-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGsvGxC6B F9p8tXKzKaa5wvP6TM%2Ffc2CHCaRmFkvz33NPrsPjfyjFSQits%2FRtzpcZ0%2Brn4%2BazBvOCeEK0L6M4SY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视[回看]",CCTV8
+http://120.210.193.151:8006/120000000058/G_CCTV-8-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGh13DUs1BWC84GZQyWEjfGLa90QjkbpQCZhOAaxsHBb6N%2FUSmajmbzjrdZubHNuPZLFYP0b69hUHzzqAM68C3Y%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视[回看]",CCTV9
+http://120.210.193.151:8006/120000000058/G_CCTV-9-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKV1gr7%2FI0tP%2F1loKt3Wr1WVOdsGzVmQjrrRqCTbZRvZhTpeZxMlie91P9%2FJ1IH8hcPPMsKeTAeTTyBXvM8tpDA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视[回看]",CCTV10
+http://120.210.193.151:8006/120000000058/G_CCTV-10-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJAEDppPcV09zd5D1A1XRsYii9dSk3Unx7kXbVuCMpfhjVSxO0gQgwgSHrQGOIzgwKjPLCwa3VF17%2BSoT9wDriRA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视[回看]",CCTV11
+http://120.210.193.151:8006/120000000058/G_CCTV-11-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJLZzaMu2DmbFkWRxZQ11tXsqAu%2BDiAEu34HP8ORptiPk5qz3Gb2DsOHgjLQvVnEetdf0NhCsIEv1%2FxrXfULolYk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视[回看]",CCTV12
+http://120.210.193.151:8006/120000000058/G_CCTV-12-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJOqJTbCoAUBpT51gC4WXz8mMaHIuTZCs5VPyQBLpZgcgVD3oxmGl59hxi7%2FgIFTIWl%2Bsk76uPGCuKhisY7Rgrc4%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视[回看]",CCTV13
+http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJBRXuW6qJzX4cH3tkZXNB5giM0pEUZHPscdv3%2BN5wKUFqwt4aanz8wkGCg7sdUPSPjJWDUnGzHo5is1UaxO3BNk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视[回看]",CCTV14
+http://120.210.193.151:8006/120000000058/G_CCTV-14-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJI6038OltF56Fn6D4zvWPHLsyqTZqfPaXHKPhvihr0SGNdhffcU6Jlm8pdn9Jb7Li3Vt068fFUEU5NJlaK8apDw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视[回看]",CCTV15
+http://120.210.193.151:8006/120000000058/G_CCTV-15-HQ/index.htmlm3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJPreNvlxf0guRtoWkgttWJwGmGY%2F0Odz2SGCEYNEkGgmsVzN1CADe1XKAMoU%2Bj2D1mfF5WXkJUk1Z4Hp0kPHR5Y%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视[回看]",CCTV16
+http://120.210.193.151:8006/120000000058/G_CCTV-16-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJFUDP1ilZ8sFnNbm6CLUkYOleQAgDKh%2BQQAzN6QmH8TuzAE0Idwtr8LazOPX3Yn24mX%2B8WYBnOhyjsSMvBW5jBQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视[回看]",CCTV17
+http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJJDJkrp LGWS4wH%2Fuy5rnFz%2BwVtw9abPAAg0hV2j6Y4N4xnjgpa01TQrJpvt1jGmPNxKnnJVPu%2BNCN3zc5baM3xg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视[回看]",安徽卫视
+http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJHRRyCbeDjtpbbwnDuIaePF2FBH9X97W4OpAHqcjwg3zxoGOHxa6rim7bsdhaCablonfX%2BegJOvywK04VfEILkE%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视[回看]",湖南卫视
+http://120.210.193.151:8006/120000000058/G_HUNAN-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJGlGIHLpIdYsi1cp8C2UZRvmZic6b18zWOjZBptl5D4V7tGr%2B7D0ovUC%2BRUAyX5d6qmBu6WOh%2BHU4lNP2KnuRa0%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视[回看]",东方卫视
+http://120.210.193.151:8006/120000000058/G_DONGFANG-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJMnWE2M7FoySBkULhbCqVd9ItqxwwTs4XBd2FGvishVIHSt8vUwSLfORJeZ%2FToFBJ01AFvQ7ncrnsMv3zj5ZExw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视[回看]",北京卫视
+http://120.210.193.151:8006/120000000058/G_BEIJING-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJP5pt9KSaEufEKgvLwZBp8BrWuYN6opT%2FeUtWYwdWx5n5bSEf7czkPFz2f0hffH7j22J5saowanVZpCFkW5jcZw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视[回看]",浙江卫视
+http://120.210.193.151:8006/120000000058/G_ZHEJIANG-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJCE3wNx3qg1i0W9jHOuARAIWJAmniyPMQL6wuWcuVYecfxt%2BQ24U%2Byts877V%2F4zLL4kj5gCaoUzLyIKOvvr%2FlKk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视[回看]",江苏卫视
+http://120.210.193.151:8006/120000000058/G_JIANGSU-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJD%2Fm7I%2B62cWjWtYLq7YN7RyOaA242IvoIeuMVPNY812WaFJVqS%2FQxjgNPfc8akyaNr9nlIFLxUfP%2Br5k9KKnkXU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视[回看]",天津卫视
+http://120.210.193.151:8006/120000000058/G_TIANJIN-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJOV6jBvkUWwxr2RRUg9tAiBEdvL8W8O329NGvi5gKcStn8LDcMMz392ngYcOnyCQ3s5f6d63l%2BCsp2HQHClG8FY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视[回看]",山东卫视
+http://120.210.193.151:8006/120000000058/G_SHANDONG-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJNIWOtIBoP%2FU%2F95EUhUMKCZa6mknqixmASl7zRpgiRccC3WENmP8WpjwJYMUTXQof0So6JitV9K%2BfU%2FL8QYkEjw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视[回看]",辽宁卫视
+http://120.210.193.151:8006/120000000058/G_LIAONING-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJA4CzoeS8Kp9TkM5UXWd5oxX7cEbtFjSf%2BK8mPLl6Nf4GZ9ZwxwE0my3dxda%2Btk1GDFpqzsu5dkvrR7EQqulC%2FQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视[回看]",深圳卫视
+http://120.210.193.151:8006/120000000058/G_SHENZHEN-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJHdvZ%2FBxS9le1Gc13fjnZJT9Y43oz7KNKnzwgcvicULpXcBqw%2BGReiSYvPDQXSxylCIjWlFi65jCrWYA290RI0E%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视[回看]",江西卫视
+http://120.210.193.151:8006/120000000058/G_JIANGXI-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJOu6fSARCE62AbjQcVYxKyfAun3oRV3Tpptbg5UQdqVD6Fw%2ByWlDifu67WbisswQCPXuL1HrMuHmnZOlk8buhZc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视[回看]",贵州卫视
+http://120.210.193.151:8006/120000000058/G_GUIZHOU-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJOs1kW5rZgvz761lPMReS45czqTSbZrCe6qTFoeZyDe2x%2BhksEZ9HqjcNZzsFAzLb789nfGBwaAHUrtiNYnbduY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视[回看]",吉林卫视
+http://120.210.193.151:8006/120000001002/XMTjlstvhd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJOLjxL2VOtDuqUEK4n484jkNigpHNcAu2sxWBcNvr5J2SdAro1ah%2FEemiWlAHmp2ngiTC4%2BSf5Bm0gmrdDDuZdw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视[回看]",广东卫视
+http://120.210.193.151:8006/120000000058/G_GUANGDONG-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJCGOv6Y4gPZivo5P4P9oTShwtvE%2BlWX5%2B7to0FmhaxjLjyafLFVEmZx0ldMd5D%2FV3hmilJaiXWoMAp85ozUe2Gk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视[回看]",湖北卫视
+http://120.210.193.151:8006/120000000058/G_HUBEI-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJEDwmSVCB6SpIPDtjfPHYHyFFeosjUarl5QyfHKNIr4eH1K%2Fmi7YU45Z6EPs9vmdDQ4luAOtwQUVtgOJSJGjJX8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视[回看]",河北卫视
+http://120.210.193.151:8006/120000000058/G_HEBEI-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJOB04 oCAMyGUDdZ9XLLUQK3539Iu2CU8l9sQwVyFkLncUhHUDcMjSALng9rhQPgJoyudN8yJl2csYFsGhrRacqw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视[回看]",重庆卫视
+http://120.210.193.151:8006/120000000058/G_CHONGQING-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJJnyDn9KB2O8tJxAdA7nXrNERpICkYxdIPLoKAptAF9zYQrt8dI9s8VS8NfLMU5LLA3kJQTHvSJ0y4utwHAbqTg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视[回看]",四川卫视
+http://120.210.193.151:8006/120000000058/G_SICHUAN-CQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJMRFliu60FYN5bLXsRwOgu2OF9tZk5CuT9pLqndR2H%2BE8mM6NqhRZHVuBAqZR5RcnT7kdVj9IoVB8DWTNF%2FFTsY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视[回看]",甘肃卫视
+http://120.210.193.151:8006/120000000058/G_GANSU-HD/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJADZert3HQX4020OO0XM3m2Ee5lBxR41qayr3vo4xPTuv5pCu6YRw%2FMeNcMnNE8GzkaIBETLvJZ6F9XcTwxVvzM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视[回看]", 东南卫视
+http://120.210.193.151:8006/120000000058/G_DONGNAN-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJOJg%2FGn%2B7CwExJugkQleRxeSLhmeHGGMzlZnzPp0HVejCiNNjNRhZuK876qWjrOMID8uebrR42SUDttC2rdILjI%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视[回看]",河南卫视
+http://120.210.193.151:8006/120000000058/G_HENAN-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJNBxjz0ckVkobBDpjCZ8B2XH9lxMQtuj5yusBp71EFzc84w23jSPZfh8Wg9EXL%2FfD6BsqMlCpDTlIylDEfp1U9c%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他[回看]",CETV-1
+http://120.210.193.151:8006/120000000058/G_CETV-1-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJL7%2FBO Eqt4qIkBpfu1wrHO9upj1xr2ufSfRe3%2FOVPImcWxPa25uBDo9NpS%2FMBYWHnl7X9O3oWr931R1l7ksLaJM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视[回看]",黑龙江卫视
+http://120.210.193.151:8006/120000000058/G_HEILONGJIANG-HQ/index.m3u8?AuthInfo=ElLrq4nJhR7F lwWjzqqJJEregqAVDTyDMLJfgxo9x3XXkrnaIJ5Y5Ca8Z6Kk0VgulVnuyG%2BvPbPCbARqlWGrQCjN8dBTX6ln07JTN0HxEmI%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他[回看]",金鹰卡通
+http://120.210.193.151:8006/120000000058/G_JINYING/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJBBiyyDV6VqFR8eWir6WJLmbc%2BztARIGSu0oyiv20FNUbYCm%2B8B6HJjbSxNKQltgJxJee5liBc0ItRz8pB8hgVk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="安徽[回看]",安徽经济生活
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJKTveEO7Vm2BFXulyP0nJaYY3t8VqrUadk2fFma7ytdkjq6jHwWnrg1oSdw4kwPMXq2ng4jcd5WTPH5wvoP0zqEM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="安徽[回看]",安徽影视
+http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJLG4OabxmkNNIjyg1CjT8sEXD9KamFB1Ma6MHPZsNY0IcfLXIeovrqtJqN7JEkSOGD5eaRRM2u274QofPjIZ%2BY8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽农业科教" tvg-name="安徽农业科教" tvg-logo="https://epg.112114.xyz/logo/安徽农业科教.png" group-title="安徽[回看]"，安徽农业科教
+http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJDdIrh1w66EwlIciGlG0IsaQM6OKGiFBmnSqHpRvzjB%2BjwLxMVMWf4kckgV4e%2BNdy%2FVtyRxZ9sQfl5jRI2xm01c%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺体育.png" group-title="安徽[回看]",安徽综艺体育
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJBiPJy1sxZHHv3uFd7dMlkY2SlQvD%2F7bHS7abn7rjyW%2BwuewNrNstsO%2ByLo%2BGzgYuRDtGDP9NkXq%2BvR4TcYPQ90%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="安徽[回看]",安徽公共
+http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJAgWt5R0wLbvfWUJeNddBHgm4FLeXX8Kl89s6T07w2sYjUOdQ2PQ5lHuRe3SdN9U8fyHlBFeAs3q8tSZ%2F16Lv04%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="安徽[回看]",安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJGyh0YmTXl9gjNMFjL1tysBXql8BO3HejH6sW7RCl3GzvIV5lFMaepCyjDQ6CHF3rYtB1rCuRC2Yem1oMgGi0Pc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽[回看]",安徽导视
+http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJO bJNyS6s4XGgDRIf8JbYJS%2Bbmcv%2FB6OeiqDfuyVk%2B3dWptkXn032Jb%2F%2FRi%2FFf5LA%2BHFKgH8eDFBMj9U0GH6%2FUY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="安徽[回看]",阜阳新闻
+http://120.210.193.151:8006/120000001002/XMTfyxw/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJMkVQgbBSmVVABxnZ43DJgX%2FQAcrLKozQmIpFtvQv8R8%2B2K0yODzoPK68piSx6BXGrjHYdb70uJekze3IxiNAPw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="安徽[回看]",阜阳公共
+http://120.210.193.151:8006/120000001002/XMTfygg/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJCcyREIZQT否%2BGJDkKrY1Imq9mu6ylTOmtgQKPMxghGBjLZ6BdvSmUq%2F7ixRS%2FG1zilw4drzBo3rU3ueCCH7m5c%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="安徽[回看]",阜阳教育
+http://120.210.193.151:8006/120000001002/XMTfyjy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJN OzpSli9pw4PV2r%2FiYQrb%2BjDC0kYDawhV%2FVJGIqgDt%2F0Cfd9SOFLE1Fcs4ypvkkHz3fcZGNFNd%2F6Futc%2BUyHeM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="阜阳都市" tvg-name="阜阳都市" tvg-logo="https://epg.112114.xyz/logo/阜阳都市.png" group-title="安徽[回看]",阜阳都市
+http://120.210.193.151:8006/120000001002/XMTfyds/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJLjC3VDAuwkB03R6WuXDobJK3ShGzk7fPnqIk9C9knFrtPh9KDtteK2mNm2wkINEP8V1v326jqYAFWflT1FEFi8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="阜南新闻" tvg-name="阜南新闻" tvg-logo="https://epg.112114.xyz/logo/阜南新闻.png" group-title="安徽[回看]",阜南新闻
+http://120.210.193.151:8006/120000001002/XMTfnxw/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJPl7QSOaYBgPQQVlp8AyUHMHBRaJV3aFa%2B4NB3lTpHZbKjvfmDj78%2B79JcJbOBzSN0JWNdllsPbzW60N2rX%2B6bc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="界首新闻" tvg-name="界首新闻" tvg-logo="https://epg.112114.xyz/logo/界首新闻.png" group-title="安徽[回看]",界首新闻
+http://120.210.193.151:8006/120000001002/XMTjsxw/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJEV042DmelAyghLFn9VEKz4D9qYqmlMJbSpUiehyZm5TYhn0n7%2B%2BmmeMhP5aamQlz0PlG5AnYuRvwahD%2FEszKpE%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="临泉新闻" tvg-name="临泉新闻" tvg-logo="https://epg.112114.xyz/logo/临泉新闻.png" group-title="安徽[回看]",临泉新闻
+http://120.210.193.151:8006/120000001002/XMTlqxw/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJA8Ex1zSM34iIg0Fj8h%2BLWhqZkqbVLn8lt3PfXE1FZNzJp45nMbmxr64qTE7doIK1%2FDkzDFCLmVRixjuogE6Q9Y%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="央视[回看]",CCTV电视指南
+http://120.210.193.151:8006/120000001002/XMTdszn/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJA%2FloJ%2FupbpWeIlV%2F%2B4teD2gUk6uF2QgivfIXeWTAJ08mGw4BVPziJQ1PPif0O1%2FfPB5v8s8OWzBkohEwaWgCaw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视[回看]",CCTV央视文化精品
+http://120.210.193.151:8006/120000001002/XMTysjp/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJINDRJyY2gE45qyZ%2FD1dnuP7WmlxIyUjM1R825nDdzGw1xg69tCygnyKtASTb0RpQgIBGpi3%2FL7jakQiIws7XL4%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视[回看]",CCTV女性时尚
+http://120.210.193.151:8006/120000001002/XMTnxss/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJKd4gfco5tgPrHNB9851jVv7VC6SeWO97HwGzNH73v4whakiEFRr%2Fads8haqhjjs7LjHYdb70uJekze3IxiNAPw%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视[回看]",CCTV兵器科技
+http://120.210.193.151:8006/120000001002/XMTbqsd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJLncsh%2FNHSx4zyOEpUcDwYL2vRe15Cs4GyJ%2FMDUmn1Mg8Q9pFShdL6S9wTyrouj2aadbwjQceoq5%2FGtkvZaWQLM%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视[回看]",CCTV风云足球
+http://120.210.193.151:8006/120000001002/XMTfyzq/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJKcq4NOr8sVUFvpHTmx9XLCGIbgrYrHFI%2FJzavcQ0iKno69DHMmyrONFeP7hVsMA9U2zn%2FpRZZ9ONBILZM7JVPo%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="网球网球" tvg-name="网球网球" tvg-logo="https://epg.112114.xyz/logo/网球网球.png" group-title="央视[回看]",CCTV网球网球
+http://120.210.193.151:8006/120000001002/XMTgolf/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJK%2BhGs3b26r3wTBF53eeIf4DAGgUxvwciVlCkoFaoHZvleNlg7JroiuXnutv33Z8raS20PK7TGG%2FQkmkXdwLnzQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视[回看]",CCTV央视台球
+http://120.210.193.151:8006/120000001002/XMTystq/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJC0L09FWdDcpDnlgQUENcKS9%2BGU6197qtJ4M888dAlcbxCVl31edMEtdl3%2Bca2zxjihg8z2hp8IftETl%2BLUW7%2Fk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视[回看]",CCTV世界地理
+http://120.210.193.151:8006/120000001002/XMTsjdl/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJBRoXy3KV2VXEpHYfeFbDGq%2FOGUvC%2FOUp320UU5nm2OOReumhxUDlaVPgWVHo%2BGnucbbhdboHrAe%2FqbD1bvGXnY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视[回看]",CCTV怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJLbJmkahGeI9v6wV4S0iebm9JWLJf9pywOVwCFKLQ7RmaaeCl8Xa%2FFGYFr5iXiw%2B7X9rZPwWS6YaTaUtpwPUwME%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视[回看]",CCTV风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJD4wEygHu3UnS1BxhDYDanJ5KV706Csmud7cnd0irUtcjuvUnA8vSEuWDtRHaVALHusRutsOBwFadIqO4SDwc1o%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视[回看]",CCTV风云音乐
+http://120.210.193.151:8006/120000001002/XMTfyyy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJNGVE49JWnNXxWqs%2F4ptzyIAj4OTNsrUp9dEOU4xw4QTu957a2v7vZlRPhJecv5PAvDkzDFCLmVRixjuogE6Q9Y%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视[回看]",CCTV第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJCnUX8ZQlDQn YeVMSwKMD8IO2v0EBk%2FmXtLsq8rx6pSmD6KU5X0Cna%2BFfrqNf%2FfwwTFGnqy%2FNZY0x4%2Bw1JEooKU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC[回看]",CHC家庭影院
+http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJGEc9XDB1diSlCdYDkQUX5NxonXUZL9uUPJoqHtzpZn%2BFx9gzSaiJYdErblVVMpNPFPo5qIu7V0jX032WhaKyHY%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="CHC[回看]",CHC动作电影
+http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJK3%2FsnhlhjXv4cJWfd%2F1%2FJ5lYpz%2BKIVmiJvZWxWEyThWmmZ6WmmmqwRqx8dOyjPx2hI5JF7UUCZCOORWTRWJdRg%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="CHC[回看]",CHC影迷电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzq qJJP4ZkDr6%2FcX7af%2BYlWeeYuktq94MpZiC2knSlfy7d9ZUnHEMl8tYpy6O73ppd%2BmDv21sTiclQCXlLa3mKpjtYDs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他[回看]",梨园
+http://120.210.193.151:8006/120000001002/XMTliyuan/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJA5G1uYA1sqJZWxKv%2FX4l5aqkAwX4amO8zYsnhAwmVqpabJ9jX1UKXEI8ikJOaOI1kc7v0ssQcZQ6fkTdAKQDnA%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他[回看]",武术
+http://120.210.193.151:8006/120000001002/XMTwushu/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJJWxBS46phBNhEPE8eX1zQA3QdcKhKAJUR7zTctAX7q6Ra4fKzjGZxxwPiwA3eu5U6QvADPmo1A1xV6ozGgS5Hk%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他[回看]",文物
+http://120.210.193.151:8006/120000001002/XMTwenwu/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqq JJJHJxfMrPbbXENDeAfS7GOqfygtPt3u1LQyQF47pcX6AQDO6TPzERWB4RU0UuK49qDHMnQOe%2B4uQxB%2BSLllLLVZU%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他[回看]",快乐垂钓
+http://120.210.193.151:8006/120000001002/XMTklcd/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjz qqJJEcKJrvm8frFO9%2FtZ6jNYxFbVbUsany2JxOBdUMuaz6V1R1QlQhO5TgpdUSwolhPdYfayQPPnzUcr19m7iBj6HQ%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他[回看]",茶
+http://120.210.193.151:8006/120000001002/XMTcha/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJA7bbgRVcYfGiTNbFmBnmydvhRq0FeSvGAVFc3Vivxh7NksazMbnPjp3jdqstJQr%2Fm9Iuu6SEsUEm0x9PW%2FnapQ%3D&CheckLevel=2
+#EXTINF：-1，tvg-id =“NEWTV超级体育”tvg-name =“NEWTV超级体育”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级体育.png” group-title="NewTV[回看]",NewTV超级体育
+http://120.210.193.151:8006/120000000058/GITV-AH-1/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJFh27WZn%2BskOBBr9G79GhleayzyyZyORSXDsnLvVg0D%2B%2FL9PyKNA47un6ZGP7gX7YpzT51ny5g6%2B4sqt397bXk8%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NewTV[回看]",NewTV超级综艺
+http://120.210.193.151:8006/120000000058/GITV-AH-2/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJEB9vThE82e2jsh8qyIdRWKq2h1HeLPtj9ArZQs06zhXxHNLHVs1kEfZj5sZMKSgJPIfAeAoISy%2BGvgxZ%2FSBub0%3D&CheckLevel=2
+#EXTINF：-1，tvg-id =“NEWTV超级电影”tvg-name =“NEWTV超级电影”tvg-logo =“https://epg.112114.xyz/logo/NEWTV超级电影.png” group-title="NewTV[回看]",NewTV超级电影
+http://120.210.193.151:8006/120000000058/GITV-AH-12/index.m3u8?AuthInfo=ElLrq4nJhR7FlwW jzqqJJPWIPmWCsUT5uTb5RZ0pK8%2BKmUaNCi8uPb6Iif4YDBHCTykD67BVl%2FknUWh%2FqB5MgPUY%2FrRKZ0S8rEpgPZbZlDE%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NewTV[回看]",NewTV超级电视剧
+http://120.210.193.151:8006/120000000058/GITV-AH-11/index.m3u8?AuthInfo=ElLrq4nJhR7Fl wWjzqqJJORNf%2FtQp7nrCEsQCxLu0KPVsL5ZFgJcx9n5%2BCkpSnkcfgkgWVZJnvT4Is%2BIkHN7LVAvtS9MqwUREBPvDWPltZc%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="晴彩[回看]",睛彩篮球
+http://120.210.193.151:8006/000000001001/3000000020000011529/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJIf%2FT3k2ekuLsgcX9s%2FDC9EW3w4ZoOnjY2REnaj6JtVnxH9%2BzI4hakTqkqW4WnLn4MEgZOPVnW0WW8nOswY%2FIKs%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="晴彩[回看]",睛彩竞技
+http://120.210.193.151:8006/000000001001/3000000020000011528/index.m3u8?AuthInfo=ElLrq4nJhR7Flw WjzqqJJIf%2FT3k2ekuLsgcX9s%2FDC9G4FdCR7bBPfkPcaEFXk0Jpl2naEZrutxKfZ8cWry%2FGOr%2BDvq5SQ3gDVnywZ8rqN7I%3D&CheckLevel=2
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="晴彩[回看]",睛彩青少
+http://120.210.193.151:8006/000000001001/3000000020000031315/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWj zqqJJIf%2FT3k2ekuLsgcX9s%2FDC9EdXczgp%2FRgwgiybCgn1mZGSsS9n6Nz%2Bkp%2BSDZh52qxyKzY3%2Bh61YhrK1GeWZI9H2M%3D&CheckLevel=2
