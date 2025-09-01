@@ -210,6 +210,7 @@ http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 
 
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
@@ -326,6 +327,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 
 
 
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视2",CCTV4K
+http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视2",CCTV-1综合
 http://120.210.193.151:8006/120000000058/G_CCTV-1/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视2",CCTV-2财经
@@ -363,28 +366,32 @@ http://120.210.193.151:8006/120000000058/G_CCTV-16-HQ/index.m3u8$超清1080P
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视2",CCTV-17农业农村
 http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8
 
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视2",CCTV-央视文化精品
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视数字",CCTV电视指南
+http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
+#EXTINF:-1,tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视数字",CCTV央视文化精品
 http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视2",CCTV-央视台球
-http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视2",CCTV-女性时尚
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="央视数字",CCTV女性时尚
 http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视2",CCTV-怀旧剧场
-http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视2",CCTV-风云剧场
-http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视2",CCTV-第一剧场
-http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视2",CCTV-兵器科技
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="央视数字",CCTV兵器科技
 http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视2",CCTV-风云足球
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="央视数字",CCTV风云足球
 http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视2",CCTV-风云音乐
-http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
-#EXTINF:-1,tvg-id="CCTV-高尔夫·网球" tvg-name="CCTV-高尔夫·网球" tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫·网球.png" group-title="央视2",CCTV-高尔夫·网球
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="央视数字",CCTV高尔夫网球
 http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视2",CCTV-世界地理
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视数字",CCTV央视台球
+http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视数字",CCTV世界地理
 http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视数字",CCTV怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视数字",CCTV风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视数字",CCTV第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视数字",CCTV风云音乐
+http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+
+
 
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视2",安徽卫视
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
