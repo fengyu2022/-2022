@@ -411,8 +411,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
 #EXTINF:-1,tvg-id="鹤岗综合" tvg-name="鹤岗综合" tvg-logo="https://epg.112114.xyz/logo/鹤岗综合.png" group-title="地方台",鹤岗综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
-
-
+#EXTINF:-1,tvg-id="漠河综合" tvg-name="漠河综合" tvg-logo="https://epg.112114.xyz/logo/漠河综合.png" group-title="地方台",漠河综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 
 
 
