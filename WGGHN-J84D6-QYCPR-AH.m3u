@@ -377,7 +377,32 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江农业" tvg-name="黑龙江农业" tvg-logo="https://epg.112114.xyz/logo/黑龙江农业.png" group-title="黑龙江",黑龙江农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-
+#EXTINF:-1,tvg-id="哈尔滨综合" tvg-name="哈尔滨综合" tvg-logo="https://epg.112114.xyz/logo/哈尔滨综合.png" group-title="地方台",哈尔滨综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+#EXTINF:-1,tvg-id="哈尔滨综合" tvg-name="哈尔滨综合" tvg-logo="https://epg.112114.xyz/logo/哈尔滨综合.png" group-title="地方台",哈尔滨综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+#EXTINF:-1,tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://epg.112114.xyz/logo/哈尔滨影视.png" group-title="地方台",哈尔滨影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+#EXTINF:-1,tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="https://epg.112114.xyz/logo/哈尔滨生活.png" group-title="地方台",哈尔滨生活
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1,tvg-id="齐齐哈尔综合" tvg-name="齐齐哈尔综合" tvg-logo="https://epg.112114.xyz/logo/齐齐哈尔综合.png" group-title="地方台",齐齐哈尔综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:-1,tvg-id="齐齐哈尔综合" tvg-name="齐齐哈尔综合" tvg-logo="https://epg.112114.xyz/logo/齐齐哈尔综合.png" group-title="地方台",齐齐哈尔综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1,tvg-id="齐齐哈尔经济" tvg-name="齐齐哈尔经济" tvg-logo="https://epg.112114.xyz/logo/齐齐哈尔经济.png" group-title="地方台",齐齐哈尔经济
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
+#EXTINF:-1,tvg-id="齐齐哈尔经济" tvg-name="齐齐哈尔经济" tvg-logo="https://epg.112114.xyz/logo/齐齐哈尔经济.png" group-title="地方台",齐齐哈尔经济
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1,tvg-id="牡丹江综合" tvg-name="牡丹江综合" tvg-logo="https://epg.112114.xyz/logo/牡丹江综合.png" group-title="地方台",牡丹江综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+#EXTINF:-1,tvg-id="佳木斯综合" tvg-name="佳木斯综合" tvg-logo="https://epg.112114.xyz/logo/佳木斯综合.png" group-title="地方台",佳木斯综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1,tvg-id="大庆综合" tvg-name="大庆综合" tvg-logo="https://epg.112114.xyz/logo/大庆综合.png" group-title="地方台",大庆综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1,tvg-id="大庆教育" tvg-name="大庆教育" tvg-logo="https://epg.112114.xyz/logo/大庆教育.png" group-title="地方台",大庆教育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+#EXTINF:-1,tvg-id="鸡西综合" tvg-name="鸡西综合" tvg-logo="https://epg.112114.xyz/logo/鸡西综合.png" group-title="地方台",鸡西综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 
 
 
