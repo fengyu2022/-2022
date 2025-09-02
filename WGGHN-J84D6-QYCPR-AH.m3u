@@ -403,7 +403,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 #EXTINF:-1,tvg-id="鸡西综合" tvg-name="鸡西综合" tvg-logo="https://epg.112114.xyz/logo/鸡西综合.png" group-title="地方台",鸡西综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-
+#EXTINF:-1,tvg-id="鸡西安全" tvg-name="鸡西安全" tvg-logo="https://epg.112114.xyz/logo/鸡西安全.png" group-title="地方台",鸡西安全
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+#EXTINF:-1,tvg-id="双鸭山综合" tvg-name="双鸭山综合" tvg-logo="https://epg.112114.xyz/logo/双鸭山综合.png" group-title="地方台",双鸭山综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1,tvg-id="双鸭山综合" tvg-name="双鸭山综合" tvg-logo="https://epg.112114.xyz/logo/双鸭山综合.png" group-title="地方台",双鸭山综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
+#EXTINF:-1,tvg-id="鹤岗综合" tvg-name="鹤岗综合" tvg-logo="https://epg.112114.xyz/logo/鹤岗综合.png" group-title="地方台",鹤岗综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
 
 
 
