@@ -145,8 +145,7 @@ http://120.210.193.151:8006/120000000058/G_XIAMEN/index.m3u8$银河标清576P
 http://120.210.193.151:8006/120000000058/G_SANSHA/index.m3u8$银河标清576P
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视2",兵团卫视
 http://120.210.193.151:8006/120000000058/G_BINGTUAN/index.m3u8$银河标清576P
-#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
-http://120.210.193.151:8006/120000000058/G_CETV-1-HQ/index.m3u8$银河1080P
+
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿2",金鹰卡通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿2",动漫秀场
@@ -159,13 +158,12 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/ind
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="少儿2",优漫卡通
 http://120.210.193.151:8006/120000000058/G_YOUMAN/index.m3u8
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
-http://120.210.193.151:8006/120000001002/XMTklcd/index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC",CHC家庭影院
+
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC电影",CHC家庭影院
 http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8
-#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="CHC",CHC影迷电影
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="CHC电影",CHC影迷电影
 http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
-#EXTINF:-1,tvg-id="CHC动作影院" tvg-name="CHC动作影院" tvg-logo="https://epg.112114.xyz/logo/CHC动作影院.png" group-title="CHC",CHC动作影院
+#EXTINF:-1,tvg-id="CHC动作影院" tvg-name="CHC动作影院" tvg-logo="https://epg.112114.xyz/logo/CHC动作影院.png" group-title="CHC电影",CHC动作影院
 http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8
 
 #EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽",安徽导视
@@ -440,31 +438,35 @@ http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海-2",东方财经
 http://120.210.193.151:8006/120000001002/XMTdfcj/1.m3u8
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他-2",梨园频道
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
 http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
-#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他-2",武术世界
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
 http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
-#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他-2",文物宝库
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他",文物宝库
 http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他-2",快乐垂钓
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
 http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
-#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他-2",茶频道
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道
 http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
-#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他-2",中国交通
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_zgjt/index.m3u8
-#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他-2",中国交通
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
 http://120.210.193.151:8006/120000001002/GDZGJT/index.m3u8
 
-
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他-2",CETV1
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+http://120.210.193.151:8006/120000001002/XMTklcd/index.m3u8
+​
+​EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
+http://120.210.193.151:8006/120000000058/G_CETV-1-HQ/index.m3u8$银河1080P
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他-2",CETV2
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他",CETV2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cetv2hd4mc/index.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他-2",CETV2
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他",CETV2
 http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他-2",CETV4
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy4hd8m/index.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他-2",CETV4
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 
 #EXTINF:-1,tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://epg.112114.xyz/logo/BESTV1.png" group-title="百事通",BesTV-1
