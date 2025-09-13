@@ -351,64 +351,70 @@ http://120.210.193.151:8006/000000001001/3000000020000011528/3000000020000011528
 http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
 
 
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="NewTV-2",NewTV超级体育
+
+
+#EXTM3U
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="NEWTV",NewTV超级体育
 http://120.210.193.151:8006/120000000058/GITV-AH-1/GITV-AH-1.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NewTV-2",NewTV超级综艺
+#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NEWTV",NewTV超级综艺
 http://120.210.193.151:8006/120000000058/GITV-AH-2/GITV-AH-2.m3u8
-#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="NewTV-2",NewTV潮妈辣婆
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="NEWTV",NewTV潮妈辣婆
 http://120.210.193.151:8006/120000000058/GITV-AH-3/GITV-AH-3.m3u8
-#EXTINF:-1,tvg-id="NewTV精彩赛事" tvg-name="NewTV精彩赛事" tvg-logo="https://epg.112114.xyz/logo/NEWTV精彩赛事.png" group-title="NewTV-2",NewTV精彩赛事
+#EXTINF:-1,tvg-id="NewTV精彩赛事" tvg-name="NewTV精彩赛事" tvg-logo="https://epg.112114.xyz/logo/NEWTV精彩赛事.png" group-title="NEWTV",NewTV精彩赛事
 http://120.210.193.151:8006/120000000058/GITV-AH-4/GITV-AH-4.m3u8
-#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="NewTV-2",NewTV农业致富
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="NEWTV",NewTV农业致富
 http://120.210.193.151:8006/120000000058/GITV-AH-5/GITV-AH-5.m3u8
-#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="NewTV-2",NewTV怡伴健康
+#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="NEWTV",NewTV怡伴健康
 http://120.210.193.151:8006/120000000058/GITV-AH-6/GITV-AH-6.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NewTV-2",NewTV精品体育
+#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NEWTV",NewTV精品体育
 http://120.210.193.151:8006/120000000058/GITV-AH-7/GITV-AH-7.m3u8
-#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NewTV-2",NewTV精品记录
+#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NEWTV",NewTV精品记录
 http://120.210.193.151:8006/120000000058/GITV-AH-8/GITV-AH-8.m3u8
-#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NewTV-2",NewTV家庭剧场
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NEWTV",NewTV家庭剧场
 http://120.210.193.151:8006/120000000058/GITV-AH-9/GITV-AH-9.m3u8
-#EXTINF:-1,tvg-id="NewTV精彩影院" tvg-name="NewTV精彩影院" tvg-logo="https://epg.112114.xyz/logo/NEWTV精彩影院.png" group-title="NewTV-2",NewTV精彩影院
+#EXTINF:-1,tvg-id="NewTV精彩影院" tvg-name="NewTV精彩影院" tvg-logo="https://epg.112114.xyz/logo/NEWTV精彩影院.png" group-title="NEWTV",NewTV精彩影院
 http://120.210.193.151:8006/120000000058/GITV-AH-10/GITV-AH-10.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NewTV-2",NewTV超级电视剧
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",NewTV超级电视剧
 http://120.210.193.151:8006/120000000058/GITV-AH-11/GITV-AH-11.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电影.png" group-title="NewTV-2",NewTV超级电影
+#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电影.png" group-title="NEWTV",NewTV超级电影
 http://120.210.193.151:8006/120000000058/GITV-AH-12/GITV-AH-12.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NewTV-2",NewTV精品大剧
+#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NEWTV",NewTV精品大剧
 http://120.210.193.151:8006/120000000058/GITV-AH-13/GITV-AH-13.m3u8
-#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NewTV-2",NewTV军旅剧场
+#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NEWTV",NewTV军旅剧场
 http://120.210.193.151:8006/120000000058/GITV-AH-14/GITV-AH-14.m3u8
-#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="NewTV-2",NewTV热播精选
+#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="NEWTV",NewTV热播精选
 http://120.210.193.151:8006/120000000058/GITV-AH-15/GITV-AH-15.m3u8
-#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NewTV-2",NewTV军事评论
+#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NEWTV",NewTV军事评论
 http://120.210.193.151:8006/120000000058/GITV-AH-16/GITV-AH-16.m3u8
-#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NewTV-2",NewTV惊悚悬疑
+#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NEWTV",NewTV惊悚悬疑
 http://120.210.193.151:8006/120000000058/GITV-AH-17/GITV-AH-17.m3u8
-#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NewTV-2",NewTV爱情喜剧
-http://120.210.193.151:8006/120000000058/GITV-AH-18/GITV-AH-18m3u8
-#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NewTV-2",NewTV金牌综艺
+#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NEWTV",NewTV爱情喜剧
+http://120.210.193.151:8006/120000000058/GITV-AH-18/GITV-AH-18.m3u8
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NEWTV",NewTV金牌综艺
 http://120.210.193.151:8006/120000000058/GITV-AH-19/GITV-AH-19.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品综合.png" group-title="NewTV-2",NewTV精品综合
-
-#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NewTV-2",NewTV动作电影
+#EXTINF:-1,tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品综合.png" group-title="NEWTV",NewTV精品综合
+http://120.210.193.151:8006/120000000058/GITV-AH-20/GITV-AH-20.m3u8
+#EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NEWTV",NewTV动作电影
 http://120.210.193.151:8006/120000000058/GITV-AH-21/GITV-AH-21.m3u8
-#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="NewTV-2",NewTV古装剧场
+#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="NEWTV",NewTV古装剧场
 http://120.210.193.151:8006/120000000058/GITV-AH-22/GITV-AH-22.m3u8
-#EXTINF:-1,tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/少儿动漫.png" group-title="NewTV-2",NewTV少儿动漫
-
-#EXTINF:-1,tvg-id="NewTV历史解密" tvg-name="NewTV历史解密" tvg-logo="https://epg.112114.xyz/logo/NEWTV历史解密.png" group-title="NewTV-2",NewTV历史解密
+#EXTINF:-1,tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/少儿动漫.png" group-title="NEWTV",NewTV少儿动漫
+http://120.210.193.151:8006/120000000058/GITV-AH-23/GITV-AH-23.m3u8
+#EXTINF:-1,tvg-id="NewTV历史解密" tvg-name="NewTV历史解密" tvg-logo="https://epg.112114.xyz/logo/NEWTV历史解密.png" group-title="NEWTV",NewTV历史解密
 http://120.210.193.151:8006/120000000058/GITV-AH-24/GITV-AH-24.m3u8
-#EXTINF:-1,tvg-id="NewTV舌尖美食" tvg-name="NewTV舌尖美食" tvg-logo="https://epg.112114.xyz/logo/NEWTV舌尖美食.png" group-title="NewTV-2",NewTV舌尖美食
+#EXTINF:-1,tvg-id="NewTV舌尖美食" tvg-name="NewTV舌尖美食" tvg-logo="https://epg.112114.xyz/logo/NEWTV舌尖美食.png" group-title="NEWTV",NewTV舌尖美食
 http://120.210.193.151:8006/120000000058/GITV-AH-25/GITV-AH-25.m3u8
-#EXTINF:-1,tvg-id="NewTV诗词歌赋" tvg-name="NewTV诗词歌赋" tvg-logo="https://epg.112114.xyz/logo/NEWTV诗词歌赋.png" group-title="NewTV-2",NewTV诗词歌赋
+#EXTINF:-1,tvg-id="NewTV诗词歌赋" tvg-name="NewTV诗词歌赋" tvg-logo="https://epg.112114.xyz/logo/NEWTV诗词歌赋.png" group-title="NEWTV",NewTV诗词歌赋
 http://120.210.193.151:8006/120000000058/GITV-AH-26/GITV-AH-26.m3u8
-#EXTINF:-1,tvg-id="NewTV自然纪实" tvg-name="NewTV自然纪实" tvg-logo="https://epg.112114.xyz/logo/NEWTV自然纪实.png" group-title="NewTV-2",NewTV自然纪实
+#EXTINF:-1,tvg-id="NewTV自然纪实" tvg-name="NewTV自然纪实" tvg-logo="https://epg.112114.xyz/logo/NEWTV自然纪实.png" group-title="NEWTV",NewTV自然纪实
 http://120.210.193.151:8006/120000000058/GITV-AH-27/GITV-AH-27.m3u8
-#EXTINF:-1,tvg-id="NewTV名人传记" tvg-name="NewTV名人传记" tvg-logo="https://epg.112114.xyz/logo/NEWTV名人传记.png" group-title="NewTV-2",NewTV名人传记
+#EXTINF:-1,tvg-id="NewTV名人传记" tvg-name="NewTV名人传记" tvg-logo="https://epg.112114.xyz/logo/NEWTV名人传记.png" group-title="NEWTV",NewTV名人传记
 http://120.210.193.151:8006/120000000058/GITV-AH-28/GITV-AH-28.m3u8
-#EXTINF:-1,tvg-id="NewTV旅行记录" tvg-name="NewTV旅行记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV旅行记录.png" group-title="NewTV-2",NewTV旅行记录
+#EXTINF:-1,tvg-id="NewTV旅行记录" tvg-name="NewTV旅行记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV旅行记录.png" group-title="NEWTV",NewTV旅行记录
 http://120.210.193.151:8006/120000000058/GITV-AH-29/GITV-AH-29.m3u8
+
+
+
 
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海-2",足球频道
 http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
