@@ -456,17 +456,17 @@ http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
 
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿2",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿2",动漫秀场
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿频道",动漫秀场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿2",卡酷少儿
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿2",哈哈炫动
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="少儿2",嘉佳卡通
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8
-#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="少儿2",优漫卡通
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="少儿频道",优漫卡通
 http://120.210.193.151:8006/120000000058/G_YOUMAN/index.m3u8
 
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC电影",CHC家庭影院
@@ -651,17 +651,13 @@ http://120.210.193.151:8006/120000001002/XMTlxxw/1.m3u8
 #EXTINF:-1,tvg-id="绩溪新闻综合" tvg-name="绩溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/绩溪新闻综合.png" group-title="安徽地方",绩溪新闻综合
 http://120.210.193.151:8006/120000001002/XMTjxxw/1.m3u8
 
-#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="晴彩2",睛彩篮球
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="晴彩系列",睛彩篮球
 http://120.210.193.151:8006/000000001001/3000000020000011529/3000000020000011529.m3u8
-#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="晴彩2",睛彩竞技
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="晴彩系列",睛彩竞技
 http://120.210.193.151:8006/000000001001/3000000020000011528/3000000020000011528.m3u8
-#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="晴彩2",睛彩青少
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="晴彩系列",睛彩青少
 http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
 
-
-
-
-#EXTM3U
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="NEWTV",NewTV超级体育
 http://120.210.193.151:8006/120000000058/GITV-AH-1/GITV-AH-1.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NEWTV",NewTV超级综艺
@@ -724,59 +720,57 @@ http://120.210.193.151:8006/120000000058/GITV-AH-29/GITV-AH-29.m3u8
 
 
 
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海-2",足球频道
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海SiTV",足球频道
 http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海-2",都市剧场
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海SiTV",都市剧场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
-#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海-2",法治天地
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海SiTV",法治天地
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海-2",生活时尚
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海SiTV",生活时尚
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他-2",中国天气
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="上海SiTV",中国天气
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海-2",游戏风云
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海SiTV",游戏风云
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8
-#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上海-2",七彩戏剧
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上海SiTV",七彩戏剧
 http://120.210.193.151:8006/120000001002/XMTqcxj/1.m3u8
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海-2",动漫秀场
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海SiTV",动漫秀场
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海-2",金色频道
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海SiTV",金色频道
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海-2",金色频道
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海SiTV",金色频道
 http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海-2",东方财经
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海SiTV",东方财经
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海-2",东方财经
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海SiTV",东方财经
 http://120.210.193.151:8006/120000001002/XMTdfcj/1.m3u8
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="河南湖南",梨园频道
 http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
-#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="河南湖南",武术世界
 http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
-#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他",文物宝库
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="河南湖南",文物宝库
 http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="河南湖南",快乐垂钓
 http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
-#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="河南湖南",茶频道
 http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
-#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="河南湖南",中国交通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_zgjt/index.m3u8
-#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="河南湖南",中国交通
 http://120.210.193.151:8006/120000001002/GDZGJT/index.m3u8
 
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
-http://120.210.193.151:8006/120000001002/XMTklcd/index.m3u8
 ​
-​EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
+​EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="教育频道",CETV-1
 http://120.210.193.151:8006/120000000058/G_CETV-1-HQ/index.m3u8$银河1080P
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="教育频道",CETV1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他",CETV2
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="教育频道",CETV2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cetv2hd4mc/index.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他",CETV2
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="教育频道",CETV2
 http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="教育频道",CETV4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy4hd8m/index.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="教育频道",CETV4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 
 #EXTINF:-1,tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://epg.112114.xyz/logo/BESTV1.png" group-title="百事通",BesTV-1
