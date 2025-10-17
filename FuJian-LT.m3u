@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="1905国外" tvg-name="1905国外" tvg-logo="https://epg.112114.xyz/logo/国外.png" group-title="央视",1905国外
-http://A/ku9/js/1905.js?id=1905b
+http://酷9/js/1905.js?id=1905b
 #EXTINF:-1,tvg-id="1905国内" tvg-name="1905国内" tvg-logo="https://epg.112114.xyz/logo/国内.png" group-title="央视",1905国内
-http://A/ku9/js/1905.js?id=1905a
+http://酷9/js/1905.js?id=1905a
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 rtsp://175.42.216.14:554/PLTV/88888909/224/3221225703/10000100000000060000000000391319_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EkIuTiycnF1XBJ_ZUOqiw8wc61f85f4a1aac135fbac972454f48ed6%7EShQKYpcKoripNAT0eTO4eMdQSpjgm7WqbwsFhs7OW8qyfjLHo93Zf5GBedN1YEweQMr1kiz7Gog7izKPxO7TikSrnMdxuwrBpW5q-wLQyCU0bbc4a2706c4ca27637443f5f9a4bc06%7EExtInfonHA1qshwm7lqMlQ1H0R5YQ7d11914305d309f1f4583e8d4bcfa22c%3A20250705112933%2C529891%2C175.42.241.196%2C20250705112933%2C00000001000000050000000000000152%2C529891%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000391319_0%2CEND
