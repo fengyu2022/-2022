@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://A/ku9/js/1905.js?id=CCTV6
 #EXTINF:-1,tvg-id="1905国外" tvg-name="1905国外" tvg-logo="https://epg.112114.xyz/logo/国外.png" group-title="央视",1905国外
 http://A/酷9/js/1905.js?id=1905b
 #EXTINF:-1,tvg-id="1905国内" tvg-name="1905国内" tvg-logo="https://epg.112114.xyz/logo/国内.png" group-title="央视",1905国内
