@@ -550,143 +550,143 @@ http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
 
-#EXTINF:-1,tvg-id="合肥新闻" tvg-name="合肥新闻" tvg-logo="https://epg.112114.xyz/logo/合肥新闻.png" group-title="安徽地方",合肥新闻
+#EXTINF:-1,tvg-id="合肥新闻" tvg-name="合肥新闻" tvg-logo="https://epg.112114.xyz/logo/合肥新闻.png" group-title="皖中",合肥新闻
 http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
-#EXTINF:-1,tvg-id="芜湖新闻" tvg-name="芜湖新闻" tvg-logo="https://epg.112114.xyz/logo/芜湖新闻.png" group-title="安徽地方",芜湖新闻
+#EXTINF:-1,tvg-id="芜湖新闻" tvg-name="芜湖新闻" tvg-logo="https://epg.112114.xyz/logo/芜湖新闻.png" group-title="皖南",芜湖新闻
 http://120.210.193.151:8006/120000001002/XMTwhxw/1.m3u8
-#EXTINF:-1,tvg-id="芜湖县新闻" tvg-name="芜湖县新闻" tvg-logo="https://epg.112114.xyz/logo/芜湖县新闻.png" group-title="安徽地方",芜湖县新闻
+#EXTINF:-1,tvg-id="芜湖县新闻" tvg-name="芜湖县新闻" tvg-logo="https://epg.112114.xyz/logo/芜湖县新闻.png" group-title="皖南",芜湖县新闻
 http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
-#EXTINF:-1,tvg-id="芜湖公共" tvg-name="芜湖公共" tvg-logo="https://epg.112114.xyz/logo/芜湖公共.png" group-title="安徽地方",芜湖公共
+#EXTINF:-1,tvg-id="芜湖公共" tvg-name="芜湖公共" tvg-logo="https://epg.112114.xyz/logo/芜湖公共.png" group-title="皖南",芜湖公共
 http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
-#EXTINF:-1,tvg-id="芜湖生活" tvg-name="芜湖生活" tvg-logo="https://epg.112114.xyz/logo/芜湖生活.png" group-title="安徽地方",芜湖生活
+#EXTINF:-1,tvg-id="芜湖生活" tvg-name="芜湖生活" tvg-logo="https://epg.112114.xyz/logo/芜湖生活.png" group-title="皖南",芜湖生活
 http://120.210.193.151:8006/120000001002/XMTwhsh/1.m3u8
-#EXTINF:-1,tvg-id="芜湖教育" tvg-name="芜湖教育" tvg-logo="https://epg.112114.xyz/logo/芜湖教育.png" group-title="安徽地方",芜湖教育
+#EXTINF:-1,tvg-id="芜湖教育" tvg-name="芜湖教育" tvg-logo="https://epg.112114.xyz/logo/芜湖教育.png" group-title="皖南",芜湖教育
 http://120.210.193.151:8006/120000001002/XMTwhjy/1.m3u8
-#EXTINF:-1,tvg-id="淮南新闻" tvg-name="淮南新闻" tvg-logo="https://epg.112114.xyz/logo/淮南新闻.png" group-title="安徽地方",淮南新闻
+#EXTINF:-1,tvg-id="淮南新闻" tvg-name="淮南新闻" tvg-logo="https://epg.112114.xyz/logo/淮南新闻.png" group-title="皖北",淮南新闻
 http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
-#EXTINF:-1,tvg-id="淮南民生" tvg-name="淮南民生" tvg-logo="https://epg.112114.xyz/logo/淮南民生.png" group-title="安徽地方",淮南民生
+#EXTINF:-1,tvg-id="淮南民生" tvg-name="淮南民生" tvg-logo="https://epg.112114.xyz/logo/淮南民生.png" group-title="皖北",淮南民生
 http://120.210.193.151:8006/120000001002/XMThnms/1.m3u8
-#EXTINF:-1,tvg-id="屯溪融媒" tvg-name="屯溪融媒" tvg-logo="https://epg.112114.xyz/logo/屯溪融媒.png" group-title="安徽地方",屯溪融媒
+#EXTINF:-1,tvg-id="屯溪融媒" tvg-name="屯溪融媒" tvg-logo="https://epg.112114.xyz/logo/屯溪融媒.png" group-title="皖南",屯溪融媒
 http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
-#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="安徽地方",阜阳新闻
+#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="皖北",阜阳新闻
 http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
-#EXTINF:-1,tvg-id="阜阳生活" tvg-name="阜阳生活" tvg-logo="https://epg.112114.xyz/logo/阜阳生活.png" group-title="安徽地方",阜阳生活
+#EXTINF:-1,tvg-id="阜阳生活" tvg-name="阜阳生活" tvg-logo="https://epg.112114.xyz/logo/阜阳生活.png" group-title="皖北",阜阳生活
 http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
-#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="安徽地方",阜阳教育
+#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="皖北",阜阳教育
 http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
-#EXTINF:-1,tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="https://epg.112114.xyz/logo/阜阳都市文艺.png" group-title="安徽地方",阜阳都市文艺
+#EXTINF:-1,tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="https://epg.112114.xyz/logo/阜阳都市文艺.png" group-title="皖北",阜阳都市文艺
 http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
-#EXTINF:-1,tvg-id="滁州新闻" tvg-name="滁州新闻" tvg-logo="https://epg.112114.xyz/logo/滁州新闻.png" group-title="安徽地方",滁州新闻
+#EXTINF:-1,tvg-id="滁州新闻" tvg-name="滁州新闻" tvg-logo="https://epg.112114.xyz/logo/滁州新闻.png" group-title="皖中",滁州新闻
 http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
-#EXTINF:-1,tvg-id="滁州科教" tvg-name="滁州科教" tvg-logo="https://epg.112114.xyz/logo/滁州科教.png" group-title="安徽地方",滁州科教
+#EXTINF:-1,tvg-id="滁州科教" tvg-name="滁州科教" tvg-logo="https://epg.112114.xyz/logo/滁州科教.png" group-title="皖中",滁州科教
 http://120.210.193.151:8006/120000001002/XMTczkg/1.m3u8
-#EXTINF:-1,tvg-id="滁州公共" tvg-name="滁州公共" tvg-logo="https://epg.112114.xyz/logo/滁州公共.png" group-title="安徽地方",滁州公共
+#EXTINF:-1,tvg-id="滁州公共" tvg-name="滁州公共" tvg-logo="https://epg.112114.xyz/logo/滁州公共.png" group-title="皖中",滁州公共
 http://120.210.193.151:8006/120000001002/XMTczgg/1.m3u8
-#EXTINF:-1,tvg-id="界首新闻" tvg-name="界首新闻" tvg-logo="https://epg.112114.xyz/logo/界首新闻.png" group-title="安徽地方",界首新闻
+#EXTINF:-1,tvg-id="界首新闻" tvg-name="界首新闻" tvg-logo="https://epg.112114.xyz/logo/界首新闻.png" group-title="皖北",界首新闻
 http://120.210.193.151:8006/120000001002/XMTjsxw/1.m3u8
-#EXTINF:-1,tvg-id="阜南新闻" tvg-name="阜南新闻" tvg-logo="https://epg.112114.xyz/logo/阜南新闻.png" group-title="安徽地方",阜南新闻
+#EXTINF:-1,tvg-id="阜南新闻" tvg-name="阜南新闻" tvg-logo="https://epg.112114.xyz/logo/阜南新闻.png" group-title="皖北",阜南新闻
 http://120.210.193.151:8006/120000001002/XMTfnxw/1.m3u8
-#EXTINF:-1,tvg-id="临泉新闻" tvg-name="临泉新闻" tvg-logo="https://epg.112114.xyz/logo/临泉新闻.png" group-title="安徽地方",临泉新闻
+#EXTINF:-1,tvg-id="临泉新闻" tvg-name="临泉新闻" tvg-logo="https://epg.112114.xyz/logo/临泉新闻.png" group-title="皖北",临泉新闻
 http://120.210.193.151:8006/120000001002/XMTlqxw/1.m3u8
-#EXTINF:-1,tvg-id="寿县综合" tvg-name="寿县综合" tvg-logo="https://epg.112114.xyz/logo/寿县综合.png" group-title="安徽地方",寿县综合
+#EXTINF:-1,tvg-id="寿县综合" tvg-name="寿县综合" tvg-logo="https://epg.112114.xyz/logo/寿县综合.png" group-title="皖北",寿县综合
 http://120.210.193.151:8006/120000001002/XMTshouxzh/1.m3u8
-#EXTINF:-1,tvg-id="六安新闻" tvg-name="六安新闻" tvg-logo="https://epg.112114.xyz/logo/六安新闻.png" group-title="安徽地方",六安新闻
+#EXTINF:-1,tvg-id="六安新闻" tvg-name="六安新闻" tvg-logo="https://epg.112114.xyz/logo/六安新闻.png" group-title="皖中",六安新闻
 http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
-#EXTINF:-1,tvg-id="六安社会生活" tvg-name="六安社会生活" tvg-logo="https://epg.112114.xyz/logo/六安社会生活.png" group-title="安徽地方",六安社会生活
+#EXTINF:-1,tvg-id="六安社会生活" tvg-name="六安社会生活" tvg-logo="https://epg.112114.xyz/logo/六安社会生活.png" group-title="皖中",六安社会生活
 http://120.210.193.151:8006/120000001002/XMTlashsh/1.m3u8
-#EXTINF:-1,tvg-id="霍山综合" tvg-name="霍山综合" tvg-logo="https://epg.112114.xyz/logo/霍山综合.png" group-title="安徽地方",霍山综合
+#EXTINF:-1,tvg-id="霍山综合" tvg-name="霍山综合" tvg-logo="https://epg.112114.xyz/logo/霍山综合.png" group-title="皖中",霍山综合
 http://120.210.193.151:8006/120000001002/XMThszh/1.m3u8
-#EXTINF:-1,tvg-id="金寨新闻" tvg-name="金寨新闻" tvg-logo="https://epg.112114.xyz/logo/金寨新闻.png" group-title="安徽地方",金寨新闻
+#EXTINF:-1,tvg-id="金寨新闻" tvg-name="金寨新闻" tvg-logo="https://epg.112114.xyz/logo/金寨新闻.png" group-title="皖中",金寨新闻
 http://120.210.193.151:8006/120000001002/XMTjzxw/1.m3u8
-#EXTINF:-1,tvg-id="宣城新闻" tvg-name="宣城新闻" tvg-logo="https://epg.112114.xyz/logo/宣城新闻.png" group-title="安徽地方",宣城新闻
+#EXTINF:-1,tvg-id="宣城新闻" tvg-name="宣城新闻" tvg-logo="https://epg.112114.xyz/logo/宣城新闻.png" group-title="皖南",宣城新闻
 http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
-#EXTINF:-1,tvg-id="池州新闻" tvg-name="池州新闻" tvg-logo="https://epg.112114.xyz/logo/池州新闻.png" group-title="安徽地方",池州新闻
+#EXTINF:-1,tvg-id="池州新闻" tvg-name="池州新闻" tvg-logo="https://epg.112114.xyz/logo/池州新闻.png" group-title="皖南",池州新闻
 http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
-#EXTINF:-1,tvg-id="池州文教生活" tvg-name="池州文教生活" tvg-logo="https://epg.112114.xyz/logo/池州文教生活.png" group-title="安徽地方",池州文教生活
+#EXTINF:-1,tvg-id="池州文教生活" tvg-name="池州文教生活" tvg-logo="https://epg.112114.xyz/logo/池州文教生活.png" group-title="皖南",池州文教生活
 http://120.210.193.151:8006/120000001002/XMTczwjsh/1.m3u8
-#EXTINF:-1,tvg-id="繁昌新闻综合" tvg-name="繁昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/繁昌新闻综合.png" group-title="安徽地方",繁昌新闻综合
+#EXTINF:-1,tvg-id="繁昌新闻综合" tvg-name="繁昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/繁昌新闻综合.png" group-title="皖南",繁昌新闻综合
 http://120.210.193.151:8006/120000001002/XMTfcxw/1.m3u8
-#EXTINF:-1,tvg-id="南陵新闻综合" tvg-name="南陵新闻综合" tvg-logo="https://epg.112114.xyz/logo/南陵新闻综合.png" group-title="安徽地方",南陵新闻综合
+#EXTINF:-1,tvg-id="南陵新闻综合" tvg-name="南陵新闻综合" tvg-logo="https://epg.112114.xyz/logo/南陵新闻综合.png" group-title="皖南",南陵新闻综合
 http://120.210.193.151:8006/120000001002/XMTnlxw/1.m3u8
-#EXTINF:-1,tvg-id="无为综合" tvg-name="无为综合" tvg-logo="https://epg.112114.xyz/logo/无为综合.png" group-title="安徽地方",无为综合
+#EXTINF:-1,tvg-id="无为综合" tvg-name="无为综合" tvg-logo="https://epg.112114.xyz/logo/无为综合.png" group-title="皖南",无为综合
 http://120.210.193.151:8006/120000001002/XMTwwxw/1.m3u8
-#EXTINF:-1,tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" tvg-logo="https://epg.112114.xyz/logo/蚌埠新闻.png" group-title="安徽地方",蚌埠新闻
+#EXTINF:-1,tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" tvg-logo="https://epg.112114.xyz/logo/蚌埠新闻.png" group-title="皖北",蚌埠新闻
 http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
-#EXTINF:-1,tvg-id="蚌埠生活" tvg-name="蚌埠生活" tvg-logo="https://epg.112114.xyz/logo/蚌埠生活.png" group-title="安徽地方",蚌埠生活
+#EXTINF:-1,tvg-id="蚌埠生活" tvg-name="蚌埠生活" tvg-logo="https://epg.112114.xyz/logo/蚌埠生活.png" group-title="皖北",蚌埠生活
 http://120.210.193.151:8006/120000001002/XMTbbsh/1.m3u8
-#EXTINF:-1,tvg-id="怀远综合" tvg-name="怀远综合" tvg-logo="https://epg.112114.xyz/logo/怀远综合.png" group-title="安徽地方",怀远综合
+#EXTINF:-1,tvg-id="怀远综合" tvg-name="怀远综合" tvg-logo="https://epg.112114.xyz/logo/怀远综合.png" group-title="皖北",怀远综合
 http://120.210.193.151:8006/120000001002/XMThyxw/1.m3u8
-#EXTINF:-1,tvg-id="五河新闻综合" tvg-name="五河新闻综合" tvg-logo="https://epg.112114.xyz/logo/五河新闻综合.png" group-title="安徽地方",五河新闻综合
+#EXTINF:-1,tvg-id="五河新闻综合" tvg-name="五河新闻综合" tvg-logo="https://epg.112114.xyz/logo/五河新闻综合.png" group-title="皖北",五河新闻综合
 http://120.210.193.151:8006/120000001002/XMTwuhxw/1.m3u8
-#EXTINF:-1,tvg-id="固镇综合" tvg-name="固镇综合" tvg-logo="https://epg.112114.xyz/logo/固镇综合.png" group-title="安徽地方",固镇综合
+#EXTINF:-1,tvg-id="固镇综合" tvg-name="固镇综合" tvg-logo="https://epg.112114.xyz/logo/固镇综合.png" group-title="皖北",固镇综合
 http://120.210.193.151:8006/120000001002/XMTgzxw/1.m3u8
-#EXTINF:-1,tvg-id="马鞍山科教生活" tvg-name="马鞍山科教生活" tvg-logo="https://epg.112114.xyz/logo/马鞍山科教生活.png" group-title="安徽地方",马鞍山科教生活
+#EXTINF:-1,tvg-id="马鞍山科教生活" tvg-name="马鞍山科教生活" tvg-logo="https://epg.112114.xyz/logo/马鞍山科教生活.png" group-title="皖南",马鞍山科教生活
 http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
-#EXTINF:-1,tvg-id="马鞍山新闻综合" tvg-name="马鞍山新闻综合" tvg-logo="https://epg.112114.xyz/logo/马鞍山新闻综合.png" group-title="安徽地方",马鞍山新闻综合
+#EXTINF:-1,tvg-id="马鞍山新闻综合" tvg-name="马鞍山新闻综合" tvg-logo="https://epg.112114.xyz/logo/马鞍山新闻综合.png" group-title="皖南",马鞍山新闻综合
 http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
-#EXTINF:-1,tvg-id="淮北新闻综合" tvg-name="淮北新闻综合" tvg-logo="https://epg.112114.xyz/logo/淮北新闻综合.png" group-title="安徽地方",淮北新闻综合
+#EXTINF:-1,tvg-id="淮北新闻综合" tvg-name="淮北新闻综合" tvg-logo="https://epg.112114.xyz/logo/淮北新闻综合.png" group-title="皖北",淮北新闻综合
 http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
 #EXTINF:-1,tvg-id="淮北经济生活" tvg-name="淮北经济生活" tvg-logo="https://epg.112114.xyz/logo/淮北经济生活.png" group-title="安徽地方",淮北经济生活
 http://120.210.193.151:8006/120000001002/XMThbjjsh/1.m3u8
 #EXTINF:-1,tvg-id="濉溪综合频道" tvg-name="濉溪综合频道" tvg-logo="https://epg.112114.xyz/logo/濉溪综合.png" group-title="安徽地方",濉溪综合频道
 http://120.210.193.151:8006/120000001002/XMTsxzh/1.m3u8
-#EXTINF:-1,tvg-id="安庆新闻综合" tvg-name="安庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/安庆新闻综合.png" group-title="安徽地方",安庆新闻综合
+#EXTINF:-1,tvg-id="安庆新闻综合" tvg-name="安庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/安庆新闻综合.png" group-title="皖南",安庆新闻综合
 http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
-#EXTINF:-1,tvg-id="安庆经济生活" tvg-name="安庆经济生活" tvg-logo="https://epg.112114.xyz/logo/安庆经济生活.png" group-title="安徽地方",安庆经济生活
+#EXTINF:-1,tvg-id="安庆经济生活" tvg-name="安庆经济生活" tvg-logo="https://epg.112114.xyz/logo/安庆经济生活.png" group-title="皖南",安庆经济生活
 http://120.210.193.151:8006/120000001002/XMTaqjjsh/1.m3u8
-#EXTINF:-1,tvg-id="岳西新闻综合" tvg-name="岳西新闻综合" tvg-logo="https://epg.112114.xyz/logo/岳西新闻综合.png" group-title="安徽地方",岳西新闻综合
+#EXTINF:-1,tvg-id="岳西新闻综合" tvg-name="岳西新闻综合" tvg-logo="https://epg.112114.xyz/logo/岳西新闻综合.png" group-title="皖南",岳西新闻综合
 http://120.210.193.151:8006/120000001002/XMTyxxw/1.m3u8
-#EXTINF:-1,tvg-id="潜山综合" tvg-name="潜山综合" tvg-logo="https://epg.112114.xyz/logo/潜山综合.png" group-title="安徽地方",潜山综合
+#EXTINF:-1,tvg-id="潜山综合" tvg-name="潜山综合" tvg-logo="https://epg.112114.xyz/logo/潜山综合.png" group-title="皖南",潜山综合
 http://120.210.193.151:8006/120000001002/XMTqszh/1.m3u8
-#EXTINF:-1,tvg-id="桐城综合" tvg-name="桐城综合" tvg-logo="https://epg.112114.xyz/logo/桐城综合.png" group-title="安徽地方",桐城综合
+#EXTINF:-1,tvg-id="桐城综合" tvg-name="桐城综合" tvg-logo="https://epg.112114.xyz/logo/桐城综合.png" group-title="皖南",桐城综合
 http://120.210.193.151:8006/120000001002/XMTtcxw/1.m3u8
-#EXTINF:-1,tvg-id="太湖新闻综合" tvg-name="太湖新闻综合" tvg-logo="https://epg.112114.xyz/logo/太湖新闻综合.png" group-title="安徽地方",太湖新闻综合
+#EXTINF:-1,tvg-id="太湖新闻综合" tvg-name="太湖新闻综合" tvg-logo="https://epg.112114.xyz/logo/太湖新闻综合.png" group-title="皖南",太湖新闻综合
 http://120.210.193.151:8006/120000001002/XMTthxw/1.m3u8
-#EXTINF:-1,tvg-id="铜陵新闻综合" tvg-name="铜陵新闻综合" tvg-logo="https://epg.112114.xyz/logo/铜陵新闻综合.png" group-title="安徽地方",铜陵新闻综合
+#EXTINF:-1,tvg-id="铜陵新闻综合" tvg-name="铜陵新闻综合" tvg-logo="https://epg.112114.xyz/logo/铜陵新闻综合.png" group-title="皖南",铜陵新闻综合
 http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
-#EXTINF:-1,tvg-id="铜陵教育科技" tvg-name="铜陵教育科技" tvg-logo="https://epg.112114.xyz/logo/铜陵教育科技.png" group-title="安徽地方",铜陵教育科技
+#EXTINF:-1,tvg-id="铜陵教育科技" tvg-name="铜陵教育科技" tvg-logo="https://epg.112114.xyz/logo/铜陵教育科技.png" group-title="皖南",铜陵教育科技
 http://120.210.193.151:8006/120000001002/XMTtljy/1.m3u8
-#EXTINF:-1,tvg-id="义安新闻综合" tvg-name="义安新闻综合" tvg-logo="https://epg.112114.xyz/logo/义安新闻综合.png" group-title="安徽地方",义安新闻综合
+#EXTINF:-1,tvg-id="义安新闻综合" tvg-name="义安新闻综合" tvg-logo="https://epg.112114.xyz/logo/义安新闻综合.png" group-title="皖南",义安新闻综合
 http://120.210.193.151:8006/120000001002/XMTyaxw/1.m3u8
-#EXTINF:-1,tvg-id="黄山文旅频道" tvg-name="黄山文旅频道" tvg-logo="https://epg.112114.xyz/logo/黄山文旅.png" group-title="安徽地方",黄山文旅频道
+#EXTINF:-1,tvg-id="黄山文旅频道" tvg-name="黄山文旅频道" tvg-logo="https://epg.112114.xyz/logo/黄山文旅.png" group-title="皖南",黄山文旅频道
 http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
-#EXTINF:-1,tvg-id="黄山新闻综合" tvg-name="黄山新闻综合" tvg-logo="https://epg.112114.xyz/logo/黄山新闻综合.png" group-title="安徽地方",黄山新闻综合
+#EXTINF:-1,tvg-id="黄山新闻综合" tvg-name="黄山新闻综合" tvg-logo="https://epg.112114.xyz/logo/黄山新闻综合.png" group-title="皖南",黄山新闻综合
 http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
-#EXTINF:-1,tvg-id="屯溪融媒" tvg-name="屯溪融媒" tvg-logo="https://epg.112114.xyz/logo/屯溪融媒.png" group-title="安徽地方",屯溪融媒
+#EXTINF:-1,tvg-id="屯溪融媒" tvg-name="屯溪融媒" tvg-logo="https://epg.112114.xyz/logo/屯溪融媒.png" group-title="皖南",屯溪融媒
 http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
-#EXTINF:-1,tvg-id="歙县综合" tvg-name="歙县综合" tvg-logo="https://epg.112114.xyz/logo/歙县综合.png" group-title="安徽地方",歙县综合
+#EXTINF:-1,tvg-id="歙县综合" tvg-name="歙县综合" tvg-logo="https://epg.112114.xyz/logo/歙县综合.png" group-title="皖南",歙县综合
 http://120.210.193.151:8006/120000001002/XMTshxzh/1.m3u8
-#EXTINF:-1,tvg-id="休宁新闻综合" tvg-name="休宁新闻综合" tvg-logo="https://epg.112114.xyz/logo/休宁新闻综合.png" group-title="安徽地方",休宁新闻综合
+#EXTINF:-1,tvg-id="休宁新闻综合" tvg-name="休宁新闻综合" tvg-logo="https://epg.112114.xyz/logo/休宁新闻综合.png" group-title="皖南",休宁新闻综合
 http://120.210.193.151:8006/120000001002/XMTxnxw/1.m3u8
-#EXTINF:-1,tvg-id="祁门综合频道" tvg-name="祁门综合频道" tvg-logo="https://epg.112114.xyz/logo/祁门综合.png" group-title="安徽地方",祁门综合频道
+#EXTINF:-1,tvg-id="祁门综合频道" tvg-name="祁门综合频道" tvg-logo="https://epg.112114.xyz/logo/祁门综合.png" group-title="皖南",祁门综合频道
 http://120.210.193.151:8006/120000001002/XMTqmxw/1.m3u8
 #EXTINF:-1,tvg-id="黟县新闻综合" tvg-name="黟县新闻综合" tvg-logo="https://epg.112114.xyz/logo/黟县新闻综合.png" group-title="安徽地方",黟县新闻综合
 http://120.210.193.151:8006/120000001002/XMTyixxw/1.m3u8
-#EXTINF:-1,tvg-id="宿州新闻综合" tvg-name="宿州新闻综合" tvg-logo="https://epg.112114.xyz/logo/宿州新闻综合.png" group-title="安徽地方",宿州新闻综合
+#EXTINF:-1,tvg-id="宿州新闻综合" tvg-name="宿州新闻综合" tvg-logo="https://epg.112114.xyz/logo/宿州新闻综合.png" group-title="皖北",宿州新闻综合
 http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
-#EXTINF:-1,tvg-id="宿州科教生活" tvg-name="宿州科教生活" tvg-logo="https://epg.112114.xyz/logo/宿州科教生活.png" group-title="安徽地方",宿州科教生活
+#EXTINF:-1,tvg-id="宿州科教生活" tvg-name="宿州科教生活" tvg-logo="https://epg.112114.xyz/logo/宿州科教生活.png" group-title="皖北",宿州科教生活
 http://120.210.193.151:8006/120000001002/XMTszkj/1.m3u8
-#EXTINF:-1,tvg-id="灵璧新闻综合" tvg-name="灵璧新闻综合" tvg-logo="https://epg.112114.xyz/logo/灵璧新闻综合.png" group-title="安徽地方",灵璧新闻综合
+#EXTINF:-1,tvg-id="灵璧新闻综合" tvg-name="灵璧新闻综合" tvg-logo="https://epg.112114.xyz/logo/灵璧新闻综合.png" group-title="皖北",灵璧新闻综合
 http://120.210.193.151:8006/120000001002/XMTlbxw/1.m3u8
-#EXTINF:-1,tvg-id="灵璧文旅经济" tvg-name="灵璧文旅经济" tvg-logo="https://epg.112114.xyz/logo/灵璧文旅经济.png" group-title="安徽地方",灵璧文旅经济
+#EXTINF:-1,tvg-id="灵璧文旅经济" tvg-name="灵璧文旅经济" tvg-logo="https://epg.112114.xyz/logo/灵璧文旅经济.png" group-title="皖北",灵璧文旅经济
 http://120.210.193.151:8006/120000001002/XMTlbwl/1.m3u8
-#EXTINF:-1,tvg-id="萧县新闻综合" tvg-name="萧县新闻综合" tvg-logo="https://epg.112114.xyz/logo/萧县新闻综合.png" group-title="安徽地方",萧县新闻综合
+#EXTINF:-1,tvg-id="萧县新闻综合" tvg-name="萧县新闻综合" tvg-logo="https://epg.112114.xyz/logo/萧县新闻综合.png" group-title="皖北",萧县新闻综合
 http://120.210.193.151:8006/120000001002/XMTxxxw/1.m3u8
-#EXTINF:-1,tvg-id="泗县新闻频道" tvg-name="泗县新闻频道" tvg-logo="https://epg.112114.xyz/logo/泗县新闻.png" group-title="安徽地方",泗县新闻频道
+#EXTINF:-1,tvg-id="泗县新闻频道" tvg-name="泗县新闻频道" tvg-logo="https://epg.112114.xyz/logo/泗县新闻.png" group-title="皖北",泗县新闻频道
 http://120.210.193.151:8006/120000001002/XMTsxxw/1.m3u8
-#EXTINF:-1,tvg-id="霍邱新闻综合" tvg-name="霍邱新闻综合" tvg-logo="https://epg.112114.xyz/logo/霍邱新闻综合.png" group-title="安徽地方",霍邱新闻综合
+#EXTINF:-1,tvg-id="霍邱新闻综合" tvg-name="霍邱新闻综合" tvg-logo="https://epg.112114.xyz/logo/霍邱新闻综合.png" group-title="皖北",霍邱新闻综合
 http://120.210.193.151:8006/120000001002/XMThqxw/1.m3u8
-#EXTINF:-1,tvg-id="亳州农村频道" tvg-name="亳州农村频道" tvg-logo="https://epg.112114.xyz/logo/亳州农村.png" group-title="安徽地方",亳州农村频道
+#EXTINF:-1,tvg-id="亳州农村频道" tvg-name="亳州农村频道" tvg-logo="https://epg.112114.xyz/logo/亳州农村.png" group-title="皖北",亳州农村频道
 http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
-#EXTINF:-1,tvg-id="亳州综合频道" tvg-name="亳州综合频道" tvg-logo="https://epg.112114.xyz/logo/亳州综合.png" group-title="安徽地方",亳州综合频道
+#EXTINF:-1,tvg-id="亳州综合频道" tvg-name="亳州综合频道" tvg-logo="https://epg.112114.xyz/logo/亳州综合.png" group-title="皖北",亳州综合频道
 http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
-#EXTINF:-1,tvg-id="利辛新闻综合" tvg-name="利辛新闻综合" tvg-logo="https://epg.112114.xyz/logo/利辛新闻综合.png" group-title="安徽地方",利辛新闻综合
+#EXTINF:-1,tvg-id="利辛新闻综合" tvg-name="利辛新闻综合" tvg-logo="https://epg.112114.xyz/logo/利辛新闻综合.png" group-title="皖北",利辛新闻综合
 http://120.210.193.151:8006/120000001002/XMTlxzh/1.m3u8
-#EXTINF:-1,tvg-id="涡阳新闻综合" tvg-name="涡阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/涡阳新闻综合.png" group-title="安徽地方",涡阳新闻综合
+#EXTINF:-1,tvg-id="涡阳新闻综合" tvg-name="涡阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/涡阳新闻综合.png" group-title="皖北",涡阳新闻综合
 http://120.210.193.151:8006/120000001002/XMTgyxw/1.m3u8
-#EXTINF:-1,tvg-id="蒙城新闻" tvg-name="蒙城新闻" tvg-logo="https://epg.112114.xyz/logo/蒙城新闻.png" group-title="安徽地方",蒙城新闻
+#EXTINF:-1,tvg-id="蒙城新闻" tvg-name="蒙城新闻" tvg-logo="https://epg.112114.xyz/logo/蒙城新闻.png" group-title="皖北",蒙城新闻
 http://120.210.193.151:8006/120000001002/XMTmcxw/1.m3u8
-#EXTINF:-1,tvg-id="宣城综合" tvg-name="宣城综合" tvg-logo="https://epg.112114.xyz/logo/宣城综合.png" group-title="安徽地方",宣城综合
+#EXTINF:-1,tvg-id="宣城综合" tvg-name="宣城综合" tvg-logo="https://epg.112114.xyz/logo/宣城综合.png" group-title="皖南",宣城综合
 http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
 #EXTINF:-1,tvg-id="广德新闻综合" tvg-name="广德新闻综合" tvg-logo="https://epg.112114.xyz/logo/广德新闻综合.png" group-title="安徽地方",广德新闻综合
 http://120.210.193.151:8006/120000001002/XMTgdxw/1.m3u8
