@@ -626,9 +626,9 @@ http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
 #EXTINF:-1,tvg-id="淮北新闻综合" tvg-name="淮北新闻综合" tvg-logo="https://epg.112114.xyz/logo/淮北新闻综合.png" group-title="皖北",淮北新闻综合
 http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
-#EXTINF:-1,tvg-id="淮北经济生活" tvg-name="淮北经济生活" tvg-logo="https://epg.112114.xyz/logo/淮北经济生活.png" group-title="安徽地方",淮北经济生活
+#EXTINF:-1,tvg-id="淮北经济生活" tvg-name="淮北经济生活" tvg-logo="https://epg.112114.xyz/logo/淮北经济生活.png" group-title="皖北",淮北经济生活
 http://120.210.193.151:8006/120000001002/XMThbjjsh/1.m3u8
-#EXTINF:-1,tvg-id="濉溪综合频道" tvg-name="濉溪综合频道" tvg-logo="https://epg.112114.xyz/logo/濉溪综合.png" group-title="安徽地方",濉溪综合频道
+#EXTINF:-1,tvg-id="濉溪综合频道" tvg-name="濉溪综合频道" tvg-logo="https://epg.112114.xyz/logo/濉溪综合.png" group-title="皖北",濉溪综合频道
 http://120.210.193.151:8006/120000001002/XMTsxzh/1.m3u8
 #EXTINF:-1,tvg-id="安庆新闻综合" tvg-name="安庆新闻综合" tvg-logo="https://epg.112114.xyz/logo/安庆新闻综合.png" group-title="皖南",安庆新闻综合
 http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
@@ -660,7 +660,7 @@ http://120.210.193.151:8006/120000001002/XMTshxzh/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTxnxw/1.m3u8
 #EXTINF:-1,tvg-id="祁门综合频道" tvg-name="祁门综合频道" tvg-logo="https://epg.112114.xyz/logo/祁门综合.png" group-title="皖南",祁门综合频道
 http://120.210.193.151:8006/120000001002/XMTqmxw/1.m3u8
-#EXTINF:-1,tvg-id="黟县新闻综合" tvg-name="黟县新闻综合" tvg-logo="https://epg.112114.xyz/logo/黟县新闻综合.png" group-title="安徽地方",黟县新闻综合
+#EXTINF:-1,tvg-id="黟县新闻综合" tvg-name="黟县新闻综合" tvg-logo="https://epg.112114.xyz/logo/黟县新闻综合.png" group-title="皖南",黟县新闻综合
 http://120.210.193.151:8006/120000001002/XMTyixxw/1.m3u8
 #EXTINF:-1,tvg-id="宿州新闻综合" tvg-name="宿州新闻综合" tvg-logo="https://epg.112114.xyz/logo/宿州新闻综合.png" group-title="皖北",宿州新闻综合
 http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
@@ -688,13 +688,13 @@ http://120.210.193.151:8006/120000001002/XMTgyxw/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTmcxw/1.m3u8
 #EXTINF:-1,tvg-id="宣城综合" tvg-name="宣城综合" tvg-logo="https://epg.112114.xyz/logo/宣城综合.png" group-title="皖南",宣城综合
 http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
-#EXTINF:-1,tvg-id="广德新闻综合" tvg-name="广德新闻综合" tvg-logo="https://epg.112114.xyz/logo/广德新闻综合.png" group-title="安徽地方",广德新闻综合
+#EXTINF:-1,tvg-id="广德新闻综合" tvg-name="广德新闻综合" tvg-logo="https://epg.112114.xyz/logo/广德新闻综合.png" group-title="皖南",广德新闻综合
 http://120.210.193.151:8006/120000001002/XMTgdxw/1.m3u8
-#EXTINF:-1,tvg-id="广德生活频道" tvg-name="广德生活频道" tvg-logo="https://epg.112114.xyz/logo/广德生活.png" group-title="安徽地方",广德生活频道
+#EXTINF:-1,tvg-id="广德生活频道" tvg-name="广德生活频道" tvg-logo="https://epg.112114.xyz/logo/广德生活.png" group-title="皖南",广德生活频道
 http://120.210.193.151:8006/120000001002/XMTgdsh/1.m3u8
-#EXTINF:-1,tvg-id="郎溪新闻综合" tvg-name="郎溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/郎溪新闻综合.png" group-title="安徽地方",郎溪新闻综合
+#EXTINF:-1,tvg-id="郎溪新闻综合" tvg-name="郎溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/郎溪新闻综合.png" group-title="皖南",郎溪新闻综合
 http://120.210.193.151:8006/120000001002/XMTlxxw/1.m3u8
-#EXTINF:-1,tvg-id="绩溪新闻综合" tvg-name="绩溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/绩溪新闻综合.png" group-title="安徽地方",绩溪新闻综合
+#EXTINF:-1,tvg-id="绩溪新闻综合" tvg-name="绩溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/绩溪新闻综合.png" group-title="皖南",绩溪新闻综合
 http://120.210.193.151:8006/120000001002/XMTjxxw/1.m3u8
 
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="晴彩系列",睛彩篮球
