@@ -6,6 +6,13 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 #EXTINF:-1,tvg-id="A计划" tvg-name="A计划" tvg-logo="https://epg.112114.xyz/logo/A计划.png" group-title="A系列",A计划
 https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
+#EXTM3U
+#EXTINF:-1,tvg-id="澳门风云1" tvg-name="澳门风云1" tvg-logo="https://epg.112114.xyz/logo/澳门风云1.png" group-title="A系列",澳门风云1
+https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
+#EXTINF:-1,tvg-id="澳门风云2" tvg-name="澳门风云2" tvg-logo="https://epg.112114.xyz/logo/澳门风云2.png" group-title="A系列",澳门风云2
+https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
+#EXTINF:-1,tvg-id="澳门风云3" tvg-name="澳门风云3" tvg-logo="https://epg.112114.xyz/logo/澳门风云3.png" group-title="A系列",澳门风云3
+https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
 #EXTINF:-1,tvg-id="A计划" tvg-name="A计划" tvg-logo="https://epg.112114.xyz/logo/A计划.png" group-title="A系列",A计划
 https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
 #EXTINF:-1,tvg-id="A计划续集" tvg-name="A计划续集" tvg-logo="https://epg.112114.xyz/logo/A计划续集.png" group-title="A系列",A计划续集
@@ -41,3 +48,66 @@ https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
 #EXTINF:-1,tvg-id="暗战" tvg-name="暗战" tvg-logo="https://epg.112114.xyz/logo/暗战.png" group-title="A系列",暗战
 https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
 
+#EXTM3U
+#EXTINF:-1,tvg-id="八星报喜" tvg-name="八星报喜" tvg-logo="https://epg.112114.xyz/logo/八星报喜.png" group-title="B系列",八星报喜
+https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
+#EXTINF:-1,tvg-id="八星报喜" tvg-name="八星报喜" tvg-logo="https://epg.112114.xyz/logo/八星报喜.png" group-title="B系列",八星报喜
+https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
+#EXTINF:-1,tvg-id="霸王别姬" tvg-name="霸王别姬" tvg-logo="https://epg.112114.xyz/logo/霸王别姬.png" group-title="B系列",霸王别姬
+https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+#EXTINF:-1,tvg-id="霸王别姬" tvg-name="霸王别姬" tvg-logo="https://epg.112114.xyz/logo/霸王别姬.png" group-title="B系列",霸王别姬
+https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+#EXTINF:-1,tvg-id="白蛇传说" tvg-name="白蛇传说" tvg-logo="https://epg.112114.xyz/logo/白蛇传说.png" group-title="B系列",白蛇传说
+https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+#EXTINF:-1,tvg-id="白蛇传说" tvg-name="白蛇传说" tvg-logo="https://epg.112114.xyz/logo/白蛇传说.png" group-title="B系列",白蛇传说
+https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+#EXTINF:-1,tvg-id="半生缘" tvg-name="半生缘" tvg-logo="https://epg.112114.xyz/logo/半生缘.png" group-title="B系列",半生缘
+https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
+#EXTINF:-1,tvg-id="半生缘" tvg-name="半生缘" tvg-logo="https://epg.112114.xyz/logo/半生缘.png" group-title="B系列",半生缘
+https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
+#EXTINF:-1,tvg-id="宝贝计划" tvg-name="宝贝计划" tvg-logo="https://epg.112114.xyz/logo/宝贝计划.png" group-title="B系列",宝贝计划
+https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
+#EXTINF:-1,tvg-id="宝贝计划" tvg-name="宝贝计划" tvg-logo="https://epg.112114.xyz/logo/宝贝计划.png" group-title="B系列",宝贝计划
+https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
+#EXTINF:-1,tvg-id="暴走财神5HD" tvg-name="暴走财神5HD" tvg-logo="https://epg.112114.xyz/logo/暴走财神5.png" group-title="B系列",暴走财神5HD
+https://v.cdnlz12.com/20240214/11569_e1ddc734/2000k/hls/mixed.m3u8
+#EXTINF:-1,tvg-id="玻璃樽" tvg-name="玻璃樽" tvg-logo="https://epg.112114.xyz/logo/玻璃樽.png" group-title="B系列",玻璃樽
+https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
+#EXTINF:-1,tvg-id="玻璃樽" tvg-name="玻璃樽" tvg-logo="https://epg.112114.xyz/logo/玻璃樽.png" group-title="B系列",玻璃樽
+https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
+#EXTINF:-1,tvg-id="不二神探" tvg-name="不二神探" tvg-logo="https://epg.112114.xyz/logo/不二神探.png" group-title="B系列",不二神探
+https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
+#EXTINF:-1,tvg-id="不二神探" tvg-name="不二神探" tvg-logo="https://epg.112114.xyz/logo/不二神探.png" group-title="B系列",不二神探
+https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
+#EXTINF:-1,tvg-id="不见不散" tvg-name="不见不散" tvg-logo="https://epg.112114.xyz/logo/不见不散.png" group-title="B系列",不见不散
+https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
+#EXTINF:-1,tvg-id="不见不散" tvg-name="不见不散" tvg-logo="https://epg.112114.xyz/logo/不见不散.png" group-title="B系列",不见不散
+https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
+#EXTINF:-1,tvg-id="拆弹专家" tvg-name="拆弹专家" tvg-logo="https://epg.112114.xyz/logo/拆弹专家.png" group-title="其他",拆弹专家
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1,tvg-id="拆弹专家" tvg-name="拆弹专家" tvg-logo="https://epg.112114.xyz/logo/拆弹专家.png" group-title="其他",拆弹专家
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1,tvg-id="拆弹专家2" tvg-name="拆弹专家2" tvg-logo="https://epg.112114.xyz/logo/拆弹专家2.png" group-title="其他",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1,tvg-id="拆弹专家2" tvg-name="拆弹专家2" tvg-logo="https://epg.112114.xyz/logo/拆弹专家2.png" group-title="其他",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1,tvg-id="超级计划" tvg-name="超级计划" tvg-logo="https://epg.112114.xyz/logo/超级计划.png" group-title="其他",超级计划
+https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
+#EXTINF:-1,tvg-id="超级计划" tvg-name="超级计划" tvg-logo="https://epg.112114.xyz/logo/超级计划.png" group-title="其他",超级计划
+https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
+#EXTINF:-1,tvg-id="超时空同居" tvg-name="超时空同居" tvg-logo="https://epg.112114.xyz/logo/超时空同居.png" group-title="其他",超时空同居
+https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
+#EXTINF:-1,tvg-id="超时空同居" tvg-name="超时空同居" tvg-logo="https://epg.112114.xyz/logo/超时空同居.png" group-title="其他",超时空同居
+https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
+#EXTINF:-1,tvg-id="城市猎人" tvg-name="城市猎人" tvg-logo="https://epg.112114.xyz/logo/城市猎人.png" group-title="其他",城市猎人
+https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
+#EXTINF:-1,tvg-id="城市猎人" tvg-name="城市猎人" tvg-logo="https://epg.112114.xyz/logo/城市猎人.png" group-title="其他",城市猎人
+https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
+#EXTINF:-1,tvg-id="春娇与志明" tvg-name="春娇与志明" tvg-logo="https://epg.112114.xyz/logo/春娇与志明.png" group-title="其他",春娇与志明
+https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
+#EXTINF:-1,tvg-id="春娇与志明" tvg-name="春娇与志明" tvg-logo="https://epg.112114.xyz/logo/春娇与志明.png" group-title="其他",春娇与志明
+https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
+#EXTINF:-1,tvg-id="催眠大师" tvg-name="催眠大师" tvg-logo="https://epg.112114.xyz/logo/催眠大师.png" group-title="其他",催眠大师
+https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
+#EXTINF:-1,tvg-id="催眠大师" tvg-name="催眠大师" tvg-logo="https://epg.112114.xyz/logo/催眠大师.png" group-title="其他",催眠大师
+https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
