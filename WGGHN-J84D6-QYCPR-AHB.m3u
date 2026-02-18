@@ -1,1 +1,43 @@
-1
+
+#EXTM3U
+#EXTINF:-1,tvg-id="A计划" tvg-name="A计划" tvg-logo="https://epg.112114.xyz/logo/A计划.png" group-title="A系列",A计划
+http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
+#EXTINF:-1,tvg-id="A计划" tvg-name="A计划" tvg-logo="https://epg.112114.xyz/logo/A计划.png" group-title="A系列",A计划
+http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
+#EXTINF:-1,tvg-id="A计划" tvg-name="A计划" tvg-logo="https://epg.112114.xyz/logo/A计划.png" group-title="A系列",A计划
+https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
+#EXTINF:-1,tvg-id="A计划" tvg-name="A计划" tvg-logo="https://epg.112114.xyz/logo/A计划.png" group-title="A系列",A计划
+https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
+#EXTINF:-1,tvg-id="A计划续集" tvg-name="A计划续集" tvg-logo="https://epg.112114.xyz/logo/A计划续集.png" group-title="A系列",A计划续集
+https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
+#EXTINF:-1,tvg-id="A计划续集" tvg-name="A计划续集" tvg-logo="https://epg.112114.xyz/logo/A计划续集.png" group-title="A系列",A计划续集
+https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
+#EXTINF:-1,tvg-id="阿飞正传" tvg-name="阿飞正传" tvg-logo="https://epg.112114.xyz/logo/阿飞正传.png" group-title="A系列",阿飞正传
+https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
+#EXTINF:-1,tvg-id="阿飞正传" tvg-name="阿飞正传" tvg-logo="https://epg.112114.xyz/logo/阿飞正传.png" group-title="A系列",阿飞正传
+https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
+#EXTINF:-1,tvg-id="阿虎" tvg-name="阿虎" tvg-logo="https://epg.112114.xyz/logo/阿虎.png" group-title="A系列",阿虎
+https://vip.ffzy-play2.com/20221019/3_0fc63857/index.m3u8
+#EXTINF:-1,tvg-id="阿虎" tvg-name="阿虎" tvg-logo="https://epg.112114.xyz/logo/阿虎.png" group-title="A系列",阿虎
+https://vip.ffzy-play2.com/20221019/3_0fc63857/index.m3u8
+#EXTINF:-1,tvg-id="阿郎的故事" tvg-name="阿郎的故事" tvg-logo="https://epg.112114.xyz/logo/阿郎的故事.png" group-title="A系列",阿郎的故事
+https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
+#EXTINF:-1,tvg-id="阿郎的故事" tvg-name="阿郎的故事" tvg-logo="https://epg.112114.xyz/logo/阿郎的故事.png" group-title="A系列",阿郎的故事
+https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
+#EXTINF:-1,tvg-id="爱情呼叫转移" tvg-name="爱情呼叫转移" tvg-logo="https://epg.112114.xyz/logo/爱情呼叫转移.png" group-title="A系列",爱情呼叫转移
+https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
+#EXTINF:-1,tvg-id="爱情呼叫转移" tvg-name="爱情呼叫转移" tvg-logo="https://epg.112114.xyz/logo/爱情呼叫转移.png" group-title="A系列",爱情呼叫转移
+https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
+#EXTINF:-1,tvg-id="爱情呼叫转移Ⅱ：爱情左右" tvg-name="爱情呼叫转移Ⅱ：爱情左右" tvg-logo="https://epg.112114.xyz/logo/爱情呼叫转移Ⅱ：爱情左右.png" group-title="A系列",爱情呼叫转移Ⅱ：爱情左右
+https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
+#EXTINF:-1,tvg-id="爱情呼叫转移Ⅱ：爱情左右" tvg-name="爱情呼叫转移Ⅱ：爱情左右" tvg-logo="https://epg.112114.xyz/logo/爱情呼叫转移Ⅱ：爱情左右.png" group-title="A系列",爱情呼叫转移Ⅱ：爱情左右
+https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
+#EXTINF:-1,tvg-id="爱情神话" tvg-name="爱情神话" tvg-logo="https://epg.112114.xyz/logo/爱情神话.png" group-title="A系列",爱情神话
+https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
+#EXTINF:-1,tvg-id="爱情神话" tvg-name="爱情神话" tvg-logo="https://epg.112114.xyz/logo/爱情神话.png" group-title="A系列",爱情神话
+https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
+#EXTINF:-1,tvg-id="暗战" tvg-name="暗战" tvg-logo="https://epg.112114.xyz/logo/暗战.png" group-title="A系列",暗战
+https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
+#EXTINF:-1,tvg-id="暗战" tvg-name="暗战" tvg-logo="https://epg.112114.xyz/logo/暗战.png" group-title="A系列",暗战
+https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
+
