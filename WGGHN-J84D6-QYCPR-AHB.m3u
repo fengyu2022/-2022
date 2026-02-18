@@ -114,9 +114,7 @@ https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
 https://vip.ffzy-play7.com/20230101/10714_0de1384d/index.m3u8
 #EXTINF:-1,tvg-id="大兵小将" tvg-name="大兵小将" tvg-logo="https://epg.112114.xyz/logo/大兵小将.png" group-title="D系列",大兵小将
 https://vip.ffzy-play7.com/20230101/10714_0de1384d/index.m3u8
-#EXTINF:-1,tvg-id="大上海" tvg-name="大上海" tvg-logo="https://epg.112114.xyz/logo/大上海.png" group-title="上海",大上海
-https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
-#EXTINF:-1,tvg-id="大上海" tvg-name="大上海" tvg-logo="https://epg.112114.xyz/logo/大上海.png" group-title="上海",大上海
+#EXTINF:-1,tvg-id="大上海" tvg-name="大上海" tvg-logo="https://epg.112114.xyz/logo/大上海.png" group-title="D系列",大上海
 https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
 #EXTINF:-1,tvg-id="大唐玄奘" tvg-name="大唐玄奘" tvg-logo="https://epg.112114.xyz/logo/大唐玄奘.png" group-title="D系列",大唐玄奘
 https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
@@ -363,4 +361,69 @@ https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
 https://vip.ffzy-play2.com/20221021/232_89153806/index.m3u8
 #EXTINF:-1,tvg-id="霍元甲" tvg-name="霍元甲" tvg-logo="https://epg.112114.xyz/logo/霍元甲.png" group-title="H系列",霍元甲
 https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
-
+#EXTINF:-1,tvg-id="急先锋" tvg-name="急先锋" tvg-logo="https://epg.112114.xyz/logo/急先锋.png" group-title="J系列",急先锋
+https://vip.ffzy-play6.com/20221113/6503_476b3f6c/index.m3u8
+#EXTINF:-1,tvg-id="记忆切割" tvg-name="记忆切割" tvg-logo="https://epg.112114.xyz/logo/记忆切割.png" group-title="J系列",记忆切割
+https://vip.ffzy-play.com/20221017/1473_691592bd/index.m3u8
+#EXTINF:-1,tvg-id="家有喜事97" tvg-name="家有喜事97" tvg-logo="https://epg.112114.xyz/logo/家有喜事97.png" group-title="J系列",家有喜事97
+https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
+#EXTINF:-1,tvg-id="甲方乙方" tvg-name="甲方乙方" tvg-logo="https://epg.112114.xyz/logo/甲方乙方.png" group-title="J系列",甲方乙方
+https://vip.ffzy-play6.com/20221206/10068_4bfccafe/index.m3u8
+#EXTINF:-1,tvg-id="监狱风云1" tvg-name="监狱风云1" tvg-logo="https://epg.112114.xyz/logo/监狱风云1.png" group-title="J系列",监狱风云1
+https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
+#EXTINF:-1,tvg-id="监狱风云2" tvg-name="监狱风云2" tvg-logo="https://epg.112114.xyz/logo/监狱风云2.png" group-title="J系列",监狱风云2
+https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
+#EXTINF:-1,tvg-id="建党伟业" tvg-name="建党伟业" tvg-logo="https://epg.112114.xyz/logo/建党伟业.png" group-title="J系列",建党伟业
+https://vip.ffzy-play6.com/20221019/168_f44e1477/index.m3u8
+#EXTINF:-1,tvg-id="建国大业" tvg-name="建国大业" tvg-logo="https://epg.112114.xyz/logo/建国大业.png" group-title="J系列",建国大业
+https://cdn1.yzzy-tv-cdn.com/20220325/lWDJZBdb/index.m3u8
+#EXTINF:-1,tvg-id="爱江湖" tvg-name="爱江湖" tvg-logo="https://epg.112114.xyz/logo/爱江湖.png" group-title="J系列",江湖
+https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8
+#EXTINF:-1,tvg-id="江湖儿女" tvg-name="江湖儿女" tvg-logo="https://epg.112114.xyz/logo/江湖儿女.png" group-title="J系列",江湖儿女
+https://vip.ffzy-play7.com/20230205/13419_960c8951/index.m3u8
+#EXTINF:-1,tvg-id="江湖龙虎斗" tvg-name="江湖龙虎斗" tvg-logo="https://epg.112114.xyz/logo/江湖龙虎斗.png" group-title="J系列",江湖龙虎斗
+https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8
+#EXTINF:-1,tvg-id="江湖情" tvg-name="江湖情" tvg-logo="https://epg.112114.xyz/logo/江湖情.png" group-title="J系列",江湖情
+https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
+#EXTINF:-1,tvg-id="僵尸家族" tvg-name="僵尸家族" tvg-logo="https://epg.112114.xyz/logo/僵尸家族.png" group-title="J系列",僵尸家族
+https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+#EXTINF:-1,tvg-id="僵尸先生" tvg-name="僵尸先生" tvg-logo="https://epg.112114.xyz/logo/僵尸先生.png" group-title="J系列",僵尸先生
+https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
+#EXTINF:-1,tvg-id="僵尸至尊" tvg-name="僵尸至尊" tvg-logo="https://epg.112114.xyz/logo/僵尸至尊.png" group-title="J系列",僵尸至尊
+https://vip.ffzy-play6.com/20221129/9344_44b64a1a/index.m3u8
+#EXTINF:-1,tvg-id="解救吾先生" tvg-name="解救吾先生" tvg-logo="https://epg.112114.xyz/logo/解救吾先生.png" group-title="J系列",解救吾先生
+https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
+#EXTINF:-1,tvg-id="金手指HD国" tvg-name="金手指HD国" tvg-logo="https://epg.112114.xyz/logo/金手指HD国.png" group-title="J系列",金手指HD国
+https://vip.ffzyread1.com/20240213/24278_dc4a204f/2000k/hls/mixed.m3u8
+#EXTINF:-1,tvg-id="金手指HD粤" tvg-name="金手指HD粤" tvg-logo="https://epg.112114.xyz/logo/金手指HD粤.png" group-title="J系列",金手指HD粤
+https://v.cdnlz12.com/20240213/11556_3642faee/2000k/hls/mixed.m3u8
+#EXTINF:-1,tvg-id="精武英雄" tvg-name="精武英雄" tvg-logo="https://epg.112114.xyz/logo/精武英雄.png" group-title="J系列",精武英雄
+https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+#EXTINF:-1,tvg-id="精装追女仔" tvg-name="精装追女仔" tvg-logo="https://epg.112114.xyz/logo/精装追女仔.png" group-title="J系列",精装追女仔
+https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
+#EXTINF:-1,tvg-id="精装追女仔之2" tvg-name="精装追女仔之2" tvg-logo="https://epg.112114.xyz/logo/精装追女仔之2.png" group-title="J系列",精装追女仔之2
+https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
+#EXTINF:-1,tvg-id="精装追女仔之3狼之一族" tvg-name="精装追女仔之3狼之一族" tvg-logo="https://epg.112114.xyz/logo/精装追女仔之3狼之一族.png" group-title="J系列",精装追女仔之3狼之一族
+https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
+#EXTINF:-1,tvg-id="警察故事" tvg-name="警察故事" tvg-logo="https://epg.112114.xyz/logo/警察故事.png" group-title="J系列",警察故事
+https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+#EXTINF:-1,tvg-id="警察故事2013" tvg-name="警察故事2013" tvg-logo="https://epg.112114.xyz/logo/警察故事.png" group-title="J系列",警察故事2013
+https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
+#EXTINF:-1,tvg-id="警察故事3" tvg-name="警察故事3" tvg-logo="https://epg.112114.xyz/logo/警察故事3.png" group-title="J系列",警察故事3
+https://vip.ffzy-play7.com/20221206/8266_97359a93/index.m3u8
+#EXTINF:-1,tvg-id="警察故事4" tvg-name="警察故事4" tvg-logo="https://epg.112114.xyz/logo/警察故事4.png" group-title="J系列",警察故事4
+https://vip.ffzy-play6.com/20221129/9292_f6b1a849/index.m3u8
+#EXTINF:-1,tvg-id="警察故事续集" tvg-name="警察故事续集" tvg-logo="https://epg.112114.xyz/logo/警察故事续集.png" group-title="J系列",警察故事续集
+https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/index.m3u8
+#EXTINF:-1,tvg-id="囧妈" tvg-name="囧妈" tvg-logo="https://epg.112114.xyz/logo/囧妈.png" group-title="J系列",囧妈
+https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+#EXTINF:-1,tvg-id="九二神雕之痴心情长剑" tvg-name="九二神雕之痴心情长剑" tvg-logo="https://epg.112114.xyz/logo/九二神雕之痴心情长剑.png" group-title="J系列",九二神雕之痴心情长剑
+http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
+#EXTINF:-1,tvg-id="九一神雕侠侣" tvg-name="九一神雕侠侣" tvg-logo="https://epg.112114.xyz/logo/九一神雕侠侣.png" group-title="J系列",九一神雕侠侣
+http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+#EXTINF:-1,tvg-id="九一神雕侠侣" tvg-name="九一神雕侠侣" tvg-logo="https://epg.112114.xyz/logo/九一神雕侠侣.png" group-title="J系列",九一神雕侠侣
+https://vip.ffzy-play6.com/20221112/6044_68796407/index.m3u8
+#EXTINF:-1,tvg-id="决战紫禁之巅" tvg-name="决战紫禁之巅" tvg-logo="https://epg.112114.xyz/logo/决战紫禁之巅.png" group-title="J系列",决战紫禁之巅
+https://vip.ffzy-play7.com/20230413/22211_bfb8d6b2/index.m3u8
+#EXTINF:-1,tvg-id="绝代双骄" tvg-name="绝代双骄" tvg-logo="https://epg.112114.xyz/logo/绝代双骄.png" group-title="J系列",绝代双骄
+https://vip.ffzy-play6.com/20221129/9355_e351af0a/index.m3u8
