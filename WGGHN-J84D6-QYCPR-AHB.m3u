@@ -485,7 +485,36 @@ https://cdn2.yzzy-tv-cdn.com/20220331/4882_d282e1a0/index.m3u8
 #EXTINF:-1,tvg-id="龙之家族" tvg-name="龙之家族" tvg-logo="https://epg.112114.xyz/logo/龙之家族.png" group-title="L系列",龙之家族
 https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
 
-
+#EXTINF:-1,tvg-id="七小福" tvg-name="七小福" tvg-logo="https://epg.112114.xyz/logo/七小福.png" group-title="Q系列",七小福
+https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/index.m3u8
+#EXTINF:-1,tvg-id="奇迹" tvg-name="奇迹" tvg-logo="https://epg.112114.xyz/logo/奇迹.png" group-title="Q系列",奇迹
+https://vip.ffzy-play7.com/20221125/6961_0c69f3cf/index.m3u8
+#EXTINF:-1,tvg-id="奇谋妙计五福星" tvg-name="奇谋妙计五福星" tvg-logo="https://epg.112114.xyz/logo/奇谋妙计五福星.png" group-title="Q系列",奇谋妙计五福星
+https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
+#EXTINF:-1,tvg-id="千机变" tvg-name="千机变" tvg-logo="https://epg.112114.xyz/logo/千机变.png" group-title="Q系列",千机变
+https://vip.ffzy-play2.com/20221019/21_687fe198/index.m3u8
+#EXTINF:-1,tvg-id="钱作怪" tvg-name="钱作怪" tvg-logo="https://epg.112114.xyz/logo/钱作怪.png" group-title="Q系列",钱作怪
+https://vip.ffzy-play7.com/20230204/13185_290d13f1/index.m3u8
+#EXTINF:-1,tvg-id="倩女幽魂道道道" tvg-name="倩女幽魂道道道" tvg-logo="https://epg.112114.xyz/logo/倩女幽魂道道道.png" group-title="Q系列",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1,tvg-id="倩女幽魂人间道" tvg-name="倩女幽魂人间道" tvg-logo="https://epg.112114.xyz/logo/倩女幽魂人间道.png" group-title="Q系列",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1,tvg-id="倩女幽魂妖魔道" tvg-name="倩女幽魂妖魔道" tvg-logo="https://epg.112114.xyz/logo/倩女幽魂妖魔道.png" group-title="Q系列",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1,tvg-id="秦颂" tvg-name="秦颂" tvg-logo="https://epg.112114.xyz/logo/秦颂.png" group-title="Q系列",秦颂
+https://vip.ffzy-play7.com/20221112/3653_ad708d24/index.m3u8
+#EXTINF:-1,tvg-id="秋天的童话" tvg-name="秋天的童话" tvg-logo="https://epg.112114.xyz/logo/秋天的童话.png" group-title="Q系列",秋天的童话
+https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
+#EXTINF:-1,tvg-id="驱魔道长" tvg-name="驱魔道长" tvg-logo="https://epg.112114.xyz/logo/驱魔道长.png" group-title="Q系列",驱魔道长
+https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
+#EXTINF:-1,tvg-id="驱魔警察" tvg-name="驱魔警察" tvg-logo="https://epg.112114.xyz/logo/驱魔警察.png" group-title="Q系列",驱魔警察
+https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
+#EXTINF:-1,tvg-id="拳精" tvg-name="拳精" tvg-logo="https://epg.112114.xyz/logo/拳精.png" group-title="Q系列",拳精
+https://vip.ffzy-play6.com/20221128/9094_13caae92/index.m3u8
+#EXTINF:-1,tvg-id="群龙夺宝" tvg-name="群龙夺宝" tvg-logo="https://epg.112114.xyz/logo/群龙夺宝.png" group-title="Q系列",群龙夺宝
+https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
+#EXTINF:-1,tvg-id="群龙戏凤" tvg-name="群龙戏凤" tvg-logo="https://epg.112114.xyz/logo/群龙戏凤.png" group-title="Q系列",群龙戏凤
+https://vip.ffzy-play7.com/20230423/22931_b2b1c621/index.m3u8
 
 #EXTINF:-1,tvg-id="三德和尚与舂米六" tvg-name="三德和尚与舂米六" tvg-logo="https://epg.112114.xyz/logo/三德和尚与舂米六.png" group-title="S系列",三德和尚与舂米六
 https://vip.ffzy-play6.com/20221128/9099_38718b59/index.m3u8
