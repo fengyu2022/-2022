@@ -121,9 +121,9 @@ http://[2409:8087:3002:23::140a]:8112/120000000058/G_CGTN-PYCCNN/index.m3u8
 http://[2409:8087:3002:23::140a]:8112/120000000058/G_CGTN-FRANCAIS/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
 http://[2409:8087:3002:23::140a]:8112/120000000058/G_CGTN-ESPANOL/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视数字",CCTV电视指南
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视",CCTV电视指南
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTdszn/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="央视数字",CCTV央视文化精品
+#EXTINF:-1,tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视",CCTV央视文化精品
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTysjp/1.m3u8
 #EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视数字",CCTV女性时尚
 http://[2409:8087:3002:23::140a]:8112/120000001002/XMTnxss/1.m3u8
